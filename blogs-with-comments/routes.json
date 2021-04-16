@@ -1,0 +1,4 @@
+{
+    "/blogs/:id": "/blogs/:id?_embed=comments"
+  }
+  

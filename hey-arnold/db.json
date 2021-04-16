@@ -1,0 +1,302 @@
+{
+    "characters": [
+        {
+          "_id": "5da237699734fdcb7bef8f5c",
+          "name": "Nancy",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/6/62/Nancy.jpg/revision/latest/scale-to-width-down/310?cb=20110423055923"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f59",
+          "name": "Grandpa's grandfather",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/f/f7/Grandpa%27s_grandfather.png/revision/latest/scale-to-width-down/310?cb=20190228081015"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f52",
+          "name": "Grandpa Phil",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/7/79/GrandpaPhil.png/revision/latest/scale-to-width-down/300?cb=20160924030436"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f58",
+          "name": "Grandpa's father",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/e/e0/Grandpa%27s_father.png/revision/latest/scale-to-width-down/310?cb=20190228081112"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f70",
+          "name": "Phoebe Heyerdahl",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/9/93/Phoebe_%28classic%29.png/revision/latest/scale-to-width-down/247?cb=20190816022206"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f7e",
+          "name": "Eugene Horowitz",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/9/99/EAFDB121-EC13-4F12-849E-37037A95E3D6.png/revision/latest/scale-to-width-down/270?cb=20190816022130"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f82",
+          "name": "Ray",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/3/34/Ray.png/revision/latest/scale-to-width-down/310?cb=20181006091830"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f8b",
+          "name": "Shelley",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/c/cb/Shelley.jpg/revision/latest/scale-to-width-down/310?cb=20120527025256"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f76",
+          "name": "Lila Sawyer",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/b/b0/Lila_Sawyer.png/revision/latest/scale-to-width-down/310?cb=20171212053404"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f7c",
+          "name": "Uncle Stinky",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/8/89/Uncle_Stinky.jpg/revision/latest/scale-to-width-down/310?cb=20120924204406"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f55",
+          "name": "Arnie",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/4/42/Arnie.jpg/revision/latest/scale-to-width-down/310?cb=20110109195825"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f66",
+          "name": "Olga Pataki",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/5/5e/Olga_Pataki.png/revision/latest/scale-to-width-down/310?cb=20180124053913"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f6b",
+          "name": "Timberly Johanssen",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/e/e8/Timberly.png/revision/latest/scale-to-width-down/310?cb=20171210045406"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f6d",
+          "name": "Jerry Berman",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/2/2f/Jerry_Berman.png/revision/latest/scale-to-width-down/310?cb=20171219061306"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f73",
+          "name": "Rhonda Wellington Lloyd",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/b/b4/C1BBB448-FE38-4F7B-98FA-2137F277F9C5.png/revision/latest/scale-to-width-down/213?cb=20190816022649"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f78",
+          "name": "Stinky Peterson",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/2/24/Stinky_Peterson.png/revision/latest/scale-to-width-down/310?cb=20160516072820"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f71",
+          "name": "Kyo Heyerdahl",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/c/cf/Kyo_Heyerdahl.png/revision/latest/scale-to-width-down/310?cb=20190310221807"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f8e",
+          "name": "Iggy",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/0/0e/Iggy.png/revision/latest/scale-to-width-down/310?cb=20190210045957"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f77",
+          "name": "Mr. Sawyer",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/4/45/Mr._Sawyer.png/revision/latest/scale-to-width-down/310?cb=20171219055204"
+        },
+        {
+          "_id": "5da237699734fdcb7bef8f84",
+          "name": "Thaddeus \"Curly\" Gammelthorpe",
+          "image": "https://vignette.wikia.nocookie.net/heyarnold/images/b/ba/Classic_Curly_promo.png/revision/latest/scale-to-width-down/246?cb=20181010011614"
+        }
+      ],
+      "gifs": [
+      {
+        "_id": "5da23754845fd2cb76d59ef4",
+        "gifLink": "https://media.tenor.com/images/948b6241f73ddb1f44583913c101f98e/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59eee",
+        "gifLink": "https://media.tenor.com/images/ea128fb2a558c469bc7a58a1b2c5fc0e/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ef0",
+        "gifLink": "https://media.tenor.com/images/25de353346135a8f8fb44f67c9af00ff/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ef9",
+        "gifLink": "https://media.tenor.com/images/02778bbe5f8da6dea67009d21859592e/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f09",
+        "gifLink": "https://media.tenor.com/images/92e6e86740bcc7e63c220967c5dd6a85/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ef1",
+        "gifLink": "https://media.tenor.com/images/3a66546a8abdb45084626a0f372cc5dd/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59efb",
+        "gifLink": "https://media.tenor.com/images/704f42d8fe5ba04123b0380d05956406/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f01",
+        "gifLink": "https://media.tenor.com/images/21405654d2834a69a8f2d35566090525/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f0d",
+        "gifLink": "https://media.tenor.com/images/a33b7aead12bb93d93fb5f24f6b706b1/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f13",
+        "gifLink": "https://media.tenor.com/images/999fb2b6052005af779b1a568f36f6e0/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ef5",
+        "gifLink": "https://media.tenor.com/images/3aa00c6fd82ba192b5e5c8a8d5831bee/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f0c",
+        "gifLink": "https://media.tenor.com/images/af16c045741781e6d668e1db7f983b18/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ef8",
+        "gifLink": "https://media.tenor.com/images/913029f3ff5787b2b63f1f6d613ab832/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59eec",
+        "gifLink": "https://media.tenor.com/images/468304141e7d56bba4ae95d960d1a2cf/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59efc",
+        "gifLink": "https://media.tenor.com/images/16f7138b0b2a94c37411622edba9e2fc/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ef7",
+        "gifLink": "https://media.tenor.com/images/72eb84fe59092e174b3b0c1829b87724/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ef6",
+        "gifLink": "https://media.tenor.com/images/fc08722ef63d4454822df23a48755860/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f02",
+        "gifLink": "https://media.tenor.com/images/6aec75101264d093321f1b4fd4a42555/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f0e",
+        "gifLink": "https://media.tenor.com/images/39ebad814582ec664a59d6d3aea3c43b/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ee6",
+        "gifLink": "https://media.tenor.com/images/3386b2c1d236837f5cbd2fc8e12a40f8/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f06",
+        "gifLink": "https://media.tenor.com/images/baa3cb2d401a7690b622a539d7f80e76/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f07",
+        "gifLink": "https://media.tenor.com/images/737f7e151678f7365954f0c4cbecbe9e/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59eef",
+        "gifLink": "https://media.tenor.com/images/4950cb1a40609d7068300127df2e2b0d/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ef2",
+        "gifLink": "https://media.tenor.com/images/e7623921965651fa6fba7e0c37892044/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f11",
+        "gifLink": "https://media.tenor.com/images/36b64bdd81a07d496600d98a5b819f93/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ee3",
+        "gifLink": "https://media.tenor.com/images/12661dbe02aab8bc2309328032d783b1/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59eea",
+        "gifLink": "https://media.tenor.com/images/320ec39f86a22116f96a842d2d4aa1ff/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ee7",
+        "gifLink": "https://media.tenor.com/images/4393cee845d8464670817e40b0601e3b/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59eeb",
+        "gifLink": "https://media.tenor.com/images/ab5cbdc1ca1cee107660b2b852566c3d/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f0a",
+        "gifLink": "https://media.tenor.com/images/b15f80c63e5469eebc0af1c88882d4dd/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59efa",
+        "gifLink": "https://media.tenor.com/images/f608b179ec75c03a4147ed35c81e609d/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f10",
+        "gifLink": "https://media.tenor.com/images/7511947a6ae9acb62c9515bfba14b1ec/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f00",
+        "gifLink": "https://media.tenor.com/images/7fcefb7e78dff407c2324a830d1e584f/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59eed",
+        "gifLink": "https://media.tenor.com/images/cf5946d6c838a3e5f1e5708ab1f7d572/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ef3",
+        "gifLink": "https://media.tenor.com/images/4f9f938f9733f1830678caf1502dd5a8/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59eff",
+        "gifLink": "https://media.tenor.com/images/a574127cbeb08c089f9784f2063c5460/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f08",
+        "gifLink": "https://media.tenor.com/images/081ba9015807e5090c2555f0ea6f77d0/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f03",
+        "gifLink": "https://media.tenor.com/images/051a5159dbe20dd4652df3bce5f336b3/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f0f",
+        "gifLink": "https://media.tenor.com/images/c033f66256e7433a21251622b9553494/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ee9",
+        "gifLink": "https://media.tenor.com/images/0921b8ee07abca9fed307100e098d48f/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f05",
+        "gifLink": "https://media.tenor.com/images/369dabafda46a71e9fdea7ff6d89fc6d/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f12",
+        "gifLink": "https://media.tenor.com/images/b8e04f969929adeac0bafe753e9d2a89/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59efd",
+        "gifLink": "https://media.tenor.com/images/29880f90fd083db134d48dc4b83ffa19/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59efe",
+        "gifLink": "https://media.tenor.com/images/ec4a6fdf07c1449b1e502663c3a104c1/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f04",
+        "gifLink": "https://media.tenor.com/images/706bff27cb611826050a9486b7302b08/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ee4",
+        "gifLink": "https://media.tenor.com/images/bf3f5888e5f47d1791101391c929e59a/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ee5",
+        "gifLink": "https://media.tenor.com/images/8e0bc9b4eb1b021f9aa30af0887d67ed/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59ee8",
+        "gifLink": "https://media.tenor.com/images/0584d0867087e8d78573c52412155900/tenor.gif"
+      },
+      {
+        "_id": "5da23754845fd2cb76d59f0b",
+        "gifLink": "https://media.tenor.com/images/8f6432a3fae8f961b38c107fb46f6722/tenor.gif"
+      }
+    ]
+}

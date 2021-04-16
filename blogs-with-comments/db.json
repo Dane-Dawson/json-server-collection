@@ -1,0 +1,19 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "",
+        "likes": 0,
+        "image": "",
+        "content": ""
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "blogId": 1,
+        "content": ""
+      }
+    ]
+  }
+  
