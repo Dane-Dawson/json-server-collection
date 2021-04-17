@@ -1,0 +1,237 @@
+{
+    "spell_letter_list" : ["A","B","C","D","E","F","G","H","I","L","M","N","O","P","Q","R","S","T","W"],
+    "spells_by_letter":{
+        "A": [{
+            "spell_name" : "Accio",
+            "description" : "Brings an object to you"
+        }, {
+            "spell_name" : "Aguamenti",
+            "description" : "Creates a gush of water from the tip of the spell caster’s wand"
+        }, {
+            "spell_name" : "Alohomora",
+            "description" : "Opens locks"
+        }, {
+            "spell_name" : "Aparecium",
+            "description" : "Makes invisible ink become visible"
+        }, {
+            "spell_name" : "Avada Kedavra",
+            "description" : "The Unforgivable Curse, kills your opponent"
+        }, {
+            "spell_name" : "Avifors",
+            "description" : "Turns things into birds"
+        }, {
+            "spell_name" : "Avis",
+            "description" : "Makes birds fly out of the end of your wand"
+        }], "B" :[{
+            "spell_name" : "Bombarda",
+            "description" : "Causes a small, locally contained explosion"
+        }], "C" : [{
+            "spell_name" : "Colloportus",
+            "description" : "Closes a door and binds it so that it can’t be opened"
+        }, {
+            "spell_name" : "Confringo",
+            "description" : "The Blasting Curse; Causes the item targeted to explode"
+        }, {
+            "spell_name" : "Confundus",
+            "description" : "Confounds your target, or makes them temporarily confused"
+        }, {
+            "spell_name" : "Conjunctivitis",
+            "description" : "Damages the eyesight of your opponent, making them seem to have pink eye"
+        }, {
+            "spell_name" : "Crucio",
+            "description" : "The Second Unforgivable Curse, the Cruciatus Curse; Tortures your opponent mercilessly"
+        }], "D" : [{
+            "spell_name" : "Deletrius",
+            "description" : "Erases the last spell cast by a wand so that it can’t be discovered"
+        }, {
+            "spell_name" : "Densaugeo",
+            "description" : "Makes teeth grow out of control"
+        }, {
+            "spell_name" : "Diffindo",
+            "description" : "Makes seams split open, severs an object into two pieces"
+        }, {
+            "spell_name" : "Dissendium",
+            "description" : "Opens a specific passageway into a cellar, may be useful in other instances; may be only a password"
+        }, {
+            "spell_name" : "Duro",
+            "description" : "Turns an item to stone"
+        }], "E" : [{
+            "spell_name" : "Engorgio",
+            "description" : "Makes an item larger, as in swollen"
+        }, {
+            "spell_name" : "Episspell_name",
+            "description" : "Heals relatively minor wounds"
+        },{
+            "spell_name" : "Evanesco",
+            "description" : "Causes an item to immediately dissolve away, as if it had never existed"
+        }, {
+            "spell_name" : "Expecto Patronum",
+            "description" : "Creates Patronus"
+        }, {
+            "spell_name" : "Expelliarmus",
+            "description" : "Disarms the target of the spell, such as knocking their wand out of their hand"
+        }], "F" : [{
+            "spell_name" : "Fera Verto",
+            "description" : "Transforms animals into water goblets!"
+        }, {
+            "spell_name" : "Ferula",
+            "description" : "Binds a broken limb with a splint and bandages, tightly wrapped"
+        }, {
+            "spell_name" : "Fidelius",
+            "description" : "Allows a secret to be hidden within the secret keeper’s soul; very powerful spell"
+        }, {
+            "spell_name" : "Finite Incantatem",
+            "description" : "Stops any spell"
+        },{
+            "spell_name" : "Flagrate",
+            "description" : "Allows the user to write or draw in the air with fire"
+        }, {
+            "spell_name" : "Flipendo",
+            "description" : "Also knows as the Knockback Jinx, pushes or flips something backwards"
+        }, {
+            "spell_name" : "Furnunculus",
+            "description" : "Causes a person to break out in boils"
+        }], "G" : [{
+            "spell_name" : "Geminio",
+            "description" : "Creates a duplicate of an item (a twin, as in the zodiacal sign Gemini)"
+        }], "H" : [{
+            "spell_name" : "Homorphus",
+            "description" : "Man-Shape; makes a werewolf or person disguised as an animal resume their human shape"
+        }], "I" : [{
+            "spell_name" : "Immobulus",
+            "description" : "Immobilizes the target"
+        }, {
+            "spell_name" : "Impedimenta",
+            "description" : "Puts up an impediment that slows down something or someone that is coming toward you"
+        }, {
+            "spell_name" : "Imperio",
+            "description" : "The third unforgivable curse.  Allows the user to assume complete control of another person"
+        },{
+            "spell_name" : "Impervius",
+            "description" : "Repels water from a surface"
+        }, {
+            "spell_name" : "Incarcerous",
+            "description" : "Conjures up ropes, which then bind an opponent"
+        }, {
+            "spell_name" : "Incendio",
+            "description" : "Lights a fire"
+        }], "L" : [{
+            "spell_name" : "Legilimens",
+            "description" : "Allows the user to gain access to another’s mind and memories"
+        }, {
+            "spell_name" : "Levicorpus",
+            "description" : "Turns your opponent upside down and dangles them in thin air"
+        },{
+            "spell_name" : "Liberacorpus",
+            "description" : "\"Liberates\", or frees a body that has been caught up by the levicorpus spell"
+        }, {
+            "spell_name" : "Locomotor Mortis",
+            "description" : "The Leg-Locker Curse; locks an opponent’s legs together"
+        },{
+            "spell_name" : "Lumos",
+            "description" : "Creates light, usually by making the tip of the wand glow.  More light can be created using \"lumos maxima\""
+        }], "M" : [{
+            "spell_name" : "Mobiliarbus",
+            "description" : "Used to move a tree from one place to another"
+        }, {
+            "spell_name" : "Mobilicorpus",
+            "description" : "Used to move a body from one place to another"
+        }, {
+            "spell_name" : "Morsmordre",
+            "description" : "Used to summon the Dark Mark"
+        }, {
+            "spell_name" : "Muffliato",
+            "description" : "Causes a buzzing noise to surround a limited area so that those in the area can carry on a private conversation"
+        }], "N" : [{
+            "spell_name" : "Nox",
+            "description" : "Extinguishes light, used to douse the light created by “Lumos”"
+        }], "O" : [{
+            "spell_name" : "Obliviate",
+            "description" : "Makes a person \"oblivious\", erasing their memories of an event"
+        }, {
+            "spell_name" : "Orchideous",
+            "description" : "Conjures a bunch of flowers from the user’s wand"
+        }], "P" : [{
+            "spell_name" : "Petrificus Totalus",
+            "description" : "Total petrification; petrifies an opponent totally"
+        }, {
+            "spell_name" : "Point Me",
+            "description" : "The Four Point Spell; makes the user’s wand act like a compass"
+        }, {
+            "spell_name" : "Portus",
+            "description" : "Turns any item into a Portspell_name, which can then be used to transport a person or persons to another location."
+        },{
+            "spell_name" : "Prior Incantato",
+            "description" : "Reveals to you the last spell that a wand was used to cast"
+        }, {
+            "spell_name" : "Protego",
+            "description" : "Protects the user, and sends a spell back on an opponent"
+        }], "Q" : [{
+            "spell_name" : "Quietus",
+            "description" : "Makes things quiet, used to muffle \"Sonorus\""
+        }], "R" : [{
+            "spell_name" : "Reducio",
+            "description" : "Shrinks an item"
+        },{
+            "spell_name" : "Reducto",
+            "description" : "Blasts solid objects into pieces"
+        }, {
+            "spell_name" : "Relashio",
+            "description" : "Releases something from being constrained or held"
+        }, {
+            "spell_name" : "Rennervate",
+            "description" : "Means to energize or wake up"
+        }, {
+            "spell_name" : "Reparo",
+            "description" : "Repairs broken items"
+        }, {
+            "spell_name" : "Repello",
+            "description" : "Repels something"
+        }, {
+            "spell_name" : "Repello Muggletum",
+            "description" : "Makes an area invisible to Muggles"
+        }, {
+            "spell_name" : "Revelio",
+            "description" : "Causes something that is hidden to be revealed"
+        }, {
+            "spell_name" : "Rictusempra",
+            "description" : "Causes a person to curl up in laughter, as if being tickled"
+        },{
+            "spell_name" : "Riddikulus",
+            "description" : "Makes a boggart assume a “ridiculous” form, thereby making it funny instead of terrifying"
+        }], "S" : [{
+            "spell_name" : "Salvio Hexia",
+            "description" : "Strengthen other protective spells, or to deflect any hexes cast toward a specific location"
+        }, {
+            "spell_name" : "Scourgify",
+            "description" : "Used to clean dirt or other material off of a surface"
+        }, {
+            "spell_name" : "Sectumsempra",
+            "description" : "Causes lacerations to appear all over an opponent’s body, as if they had been cut by an invisible sword"
+        }, {
+            "spell_name" : "Serpensortia",
+            "description" : "Conjures a snake"
+        },{
+            "spell_name" : "Silencio",
+            "description" : "Makes the target of the spell unable to make any sound"
+        }, {
+            "spell_name" : "Sonorus",
+            "description" : "Amplifies the user’s voice"
+        },{
+            "spell_name" : "Stupefy",
+            "description" : "Stupefies an opponent, or knocks them insensible temporarily"
+        }], "T" : [{
+            "spell_name" : "Tarantallegra",
+            "description" : "Forces an opponent’s legs to dance uncontrollably"
+        }, {
+            "spell_name" : "Tergeo",
+            "description" : "Scours something clean"
+        }], "W" : [{
+            "spell_name" : "Waddiwasi",
+            "description" : "Removes a stuck object, as in a wad of gum that is stuck in a spell_namehole"
+        }, {
+            "spell_name" : "Wingardium Leviosa",
+            "description" : "Allows the user to make an object levitate; the first spell taught in the Harry Potter movies"
+        }]
+    }
+}
