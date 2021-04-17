@@ -12,3 +12,5 @@ http://localhost:3000/images/:id <=This path has associated comments included
 http://localhost:3000/comments
 http://localhost:3000/comments/:id
 ```
+
+comments need `blogId` to create appropriate associations.
