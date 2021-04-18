@@ -1,0 +1,1609 @@
+{
+  "gods": [
+    {
+      "name": "Aphrodite",
+      "romanname": "Venus",
+      "power": "Love, beauty, procreation",
+      "symbol": "Eros (winged godling), conch-shell",
+      "father": "Zeus",
+      "mother": "Dione",
+      "url": "http://www.theoi.com/image/K9.3Ares.jpg"
+    },
+    {
+      "name": "Apollo",
+      "romanname": "Apollo",
+      "power": "Music, prophecy, healing, archery",
+      "symbol": "Lyre, bow",
+      "father": "Zeus",
+      "mother": "Leto",
+      "url": "http://www.theoi.com/image/K5.2Apollon.jpg"
+    },
+    {
+      "name": "Ares",
+      "romanname": "Mars",
+      "power": "War, courage, battlelust",
+      "symbol": "Helm",
+      "father": "Zeus",
+      "mother": "Hera",
+      "url": "http://www.theoi.com/image/K9.6Ares.jpg"
+    },
+    {
+      "name": "Artemis",
+      "romanname": "Diana",
+      "power": "Hunting, wild animals, children",
+      "symbol": "Bow and arrows",
+      "father": "Zeus",
+      "mother": "Leto",
+      "url": "http://www.theoi.com/image/K6.2Artemis.jpg"
+    },
+    {
+      "name": "Athena",
+      "romanname": "Minerva",
+      "power": "Wisdom, war, weaving, crafts",
+      "symbol": "Aegis, gorgoneion",
+      "father": "Zeus",
+      "mother": "Metis",
+      "url": "http://www.theoi.com/image/K8.3Athena.jpg"
+    },
+    {
+      "name": "Demeter",
+      "romanname": "Ceres",
+      "power": "Grain, bread, agriculture",
+      "symbol": "Sheaf of grain, cornucopia",
+      "father": "Cronus",
+      "mother": "Rhea",
+      "url": "http://www.theoi.com/image/K3.2Demeter.jpg"
+    },
+    {
+      "name": "Dionysus",
+      "romanname": "Liber",
+      "power": "Wine, festivity, madness",
+      "symbol": "Thyrsus (pine-cone staff)",
+      "father": "Zeus",
+      "mother": "Semele",
+      "url": "http://www.theoi.com/image/Z12.1Dionysos.jpg"
+    },
+    {
+      "name": "Hephaestus",
+      "romanname": "Vulcan",
+      "power": "Smiths, fire, metalworking",
+      "symbol": "Hammer & tongs",
+      "father": "None",
+      "mother": "Hera",
+      "url": "http://www.theoi.com/image/K7.1Hephaistos.jpg"
+    },
+    {
+      "name": "Hera",
+      "romanname": "Juno",
+      "power": "Marriage, sky, queen of the gods",
+      "symbol": "Royal sceptre",
+      "father": "Cronus",
+      "mother": "Rhea",
+      "url": "http://www.theoi.com/image/K4.7Hera.jpg"
+    },
+    {
+      "name": "Hermes",
+      "romanname": "Mercurius, Mercury",
+      "power": "Herds, trade, thievery, athletics, messengers",
+      "symbol": "Caduceus (herald's wand)",
+      "father": "Zeus",
+      "mother": "Maia",
+      "url": "http://www.theoi.com/image/K11.11Hermes.jpg"
+    },
+    {
+      "name": "Poseidon",
+      "romanname": "Neptune, ",
+      "power": "King of the Sea, earthquakes, floods, horses",
+      "symbol": " Trident, Bull, horse, dolphin",
+      "father": "Cronus",
+      "mother": "Rhea",
+      "url": "http://www.theoi.com/image/Z2.1Poseidon.jpg"
+    },
+    {
+      "name": "Zeus",
+      "romanname": "Jupiter",
+      "power": "Sky, weather, kings, fate",
+      "symbol": "Lightning bolt, eagle, bull",
+      "father": "Cronus",
+      "mother": "Rhea",
+      "url": "http://www.theoi.com/image/K1.1Zeus.jpg"
+    },
+    {
+      "name": "Asclepius",
+      "romanname": "Aesculapius",
+      "power": "Medicine, doctors",
+      "symbol": "Serpent-entwined staff",
+      "father": "Apollo",
+      "mother": "Coronis",
+      "url": "http://www.theoi.com/image/S23.1Asklepios.jpg"
+    },
+    {
+      "name": "Charites",
+      "romanname": "Gratiae",
+      "power": "Grace, joy, mirth, beauty, glory, dance",
+      "symbol": "None",
+      "father": "Zeus",
+      "mother": "Eurynome",
+      "url": "http://www.theoi.com/image/F21.1Kharites.jpg"
+    },
+    {
+      "name": "Eileithyia",
+      "romanname": "Lucina",
+      "power": "Childbirth",
+      "symbol": "Torch",
+      "father": "Zeus",
+      "mother": "Hera",
+      "url": "http://www.theoi.com/image/img_eileithyia.jpg"
+    },
+    {
+      "name": "Eros",
+      "romanname": "Cupid, Amor",
+      "power": "Love, sexual desire",
+      "symbol": "Bow",
+      "father": "arrow",
+      "mother": "Aphrodite",
+      "url": "http://www.theoi.com/image/K32.1Eros.jpg"
+    },
+    {
+      "name": "Hebe",
+      "romanname": "Juventas",
+      "power": "Youth, brides",
+      "symbol": "Cup, pitcher",
+      "father": "Zeus",
+      "mother": "Hera",
+      "url": "http://www.theoi.com/image/K18.1Hebe.jpg"
+    },
+    {
+      "name": "Hestia",
+      "romanname": "Vesta",
+      "power": "Hearth, home",
+      "symbol": "Kettle",
+      "father": "Cronus",
+      "mother": "Rhea",
+      "url": "http://www.theoi.com/image/K13.2Hestia.jpg"
+    },
+    {
+      "name": "Horae",
+      "romanname": "Dike, Eunomia, Irene",
+      "power": "The seasons, natural order",
+      "symbol": "Fruit",
+      "father": "Zeus",
+      "mother": "Themis",
+      "url": "http://www.theoi.com/image/K17.1Horai.jpg"
+    },
+    {
+      "name": "Hygeia",
+      "romanname": "Salus",
+      "power": "Good health",
+      "symbol": "Snake",
+      "father": "Asclepius",
+      "mother": "Epione",
+      "url": "http://www.theoi.com/image/S24.1Hygeia.jpg"
+    },
+    {
+      "name": "Iris",
+      "romanname": "Iris, Arcus",
+      "power": "The rainbow, messenger of the gods",
+      "symbol": "Herald's wand",
+      "father": "Thaumas",
+      "mother": "Electra",
+      "url": "http://www.theoi.com/image/P21.6BIris.jpg"
+    },
+    {
+      "name": "Leto",
+      "romanname": "Latona",
+      "power": "Motherhood, demureness",
+      "symbol": "Veil",
+      "father": "Coeus",
+      "mother": "Phoebe",
+      "url": "http://www.theoi.com/image/T14.5Leto.jpg"
+    },
+    {
+      "name": "Moirae",
+      "romanname": "Parcae, Fatae",
+      "power": "Fate, destiny",
+      "symbol": "Spindle,thread, shears",
+      "father": "Zeus",
+      "mother": "Themis",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Schadow_Grabmal_Alexander_2.jpg/1024px-Schadow_Grabmal_Alexander_2.jpg"
+    },
+    {
+      "name": "Muses",
+      "romanname": "Musae",
+      "power": "Music, poetry, the arts",
+      "symbol": "Lyre, cithara, flute",
+      "father": "Zeus",
+      "mother": "Mnemosyne",
+      "url": "http://www.theoi.com/image/K20.1CMousa.jpg"
+    },
+    {
+      "name": "Nike",
+      "romanname": "Victoria",
+      "power": "Victory",
+      "symbol": "Palm branch, wings",
+      "father": "Pallas",
+      "mother": "Styx",
+      "url": "http://www.theoi.com/image/T24.1Nike.jpg"
+    },
+    {
+      "name": "Themis",
+      "romanname": "Themis",
+      "power": "Divine law, custom, assemblies, oracles",
+      "symbol": "Tripod",
+      "father": "Uranus",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/T8.1Themis.jpg"
+    },
+    {
+      "name": "Tyche",
+      "romanname": "Fortuna",
+      "power": "Fortune, luck",
+      "symbol": "Cornucopia, rudder",
+      "father": "Oceanus",
+      "mother": "Tethys",
+      "url": "http://www.theoi.com/image/N16.1Nemesis.jpg"
+    },
+    {
+      "name": "Atlas",
+      "romanname": "Atlas",
+      "power": "Bearer of the heavens, astronomy",
+      "symbol": "Celestial sphere",
+      "father": "Iapetus",
+      "mother": "Clymene",
+      "url": "http://www.theoi.com/image/T20.1Titanes.jpg"
+    },
+    {
+      "name": "Cronus",
+      "romanname": "Saturnus, Saturn",
+      "power": "Time, king of the Titans",
+      "symbol": "Sickle",
+      "father": "Uranus",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/T6.1Kronos.jpg"
+    },
+    {
+      "name": "Mnemosyne",
+      "romanname": "Moneta",
+      "power": "Memory",
+      "symbol": "Mount Pieria",
+      "father": "Uranus",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/img_mnemosyne.jpg"
+    },
+    {
+      "name": "Oceanus",
+      "romanname": "Oceanus",
+      "power": "River Oceanus, fresh water",
+      "symbol": "Serpent, fish",
+      "father": "Uranus",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/O1.1Okeanos.jpg"
+    },
+    {
+      "name": "Prometheus",
+      "romanname": "Prometheus",
+      "power": "Forethought, crafty counsel",
+      "symbol": "None",
+      "father": "Iapetus",
+      "mother": "Clymene",
+      "url": "http://www.theoi.com/image/T20.1Titanes.jpg"
+    },
+    {
+      "name": "Rhea",
+      "romanname": "Ops, Opis",
+      "power": "Mother of the gods, mountains",
+      "symbol": "Turret crown, cymbal",
+      "father": "Uranus",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/T7.1Rhea.jpg"
+    },
+    {
+      "name": "Tethys",
+      "romanname": "Tethys",
+      "power": "Fresh water, nursing",
+      "symbol": "Winged brow",
+      "father": "Uranus",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/Z35.4Okeanos.jpg"
+    },
+    {
+      "name": "Asteria",
+      "romanname": "Asteria",
+      "power": "Shooting stars, nighttime divination",
+      "symbol": "None",
+      "father": "Coeus",
+      "mother": "Phoebe",
+      "url": "http://www.theoi.com/image/T15.1Asteria.jpg"
+    },
+    {
+      "name": "Eos",
+      "romanname": "Aurora",
+      "power": "The dawn",
+      "symbol": "None",
+      "father": "Hyperion",
+      "mother": "Thea",
+      "url": "http://www.theoi.com/image/T19.1Eos.jpg"
+    },
+    {
+      "name": "Hecate",
+      "romanname": "Trivia",
+      "power": "Witchcraft, magic, ghosts",
+      "symbol": "Two torches",
+      "father": "Perses",
+      "mother": "Asteria",
+      "url": "http://www.theoi.com/image/img_hekate.jpg"
+    },
+    {
+      "name": "Helius",
+      "romanname": "Sol",
+      "power": "The sun, sight",
+      "symbol": "Aureole",
+      "father": "Hyperion",
+      "mother": "Thea",
+      "url": "http://www.theoi.com/image/T17.1Helios.jpg"
+    },
+    {
+      "name": "Selene",
+      "romanname": "Luna",
+      "power": "The moon",
+      "symbol": "Lunar disc or crescent, bull's horns",
+      "father": "Hyperion",
+      "mother": "Thea",
+      "url": "http://www.theoi.com/image/T18.1Selene.jpg"
+    },
+    {
+      "name": "Ananke",
+      "romanname": "Necessitas",
+      "power": "Necessity, compulsion",
+      "symbol": "Torch",
+      "father": "Hydros",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/N2.1Ananke.jpg"
+    },
+    {
+      "name": "Chronos Aeon",
+      "romanname": "Chronos Aeon",
+      "power": "Time, eternity",
+      "symbol": "Zodiac-wheel",
+      "father": "Hydros",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/Z15.2BAion.jpg"
+    },
+    {
+      "name": "Gaea",
+      "romanname": "Terra, Tellus",
+      "power": "The earth",
+      "symbol": "Fruit and grain",
+      "father": "None",
+      "mother": "None",
+      "url": "http://www.theoi.com/image/T1.1BGaia.jpg"
+    },
+    {
+      "name": "Hemera",
+      "romanname": "Dies",
+      "power": "The day",
+      "symbol": "None",
+      "father": "Erebus",
+      "mother": "Nyx",
+      "url": "http://www.theoi.com/image/T17.3Helios.jpg"
+    },
+    {
+      "name": "Nyx",
+      "romanname": "Nox",
+      "power": "The night",
+      "symbol": "None",
+      "father": "None",
+      "mother": "Chaos",
+      "url": "http://www.theoi.com/image/T17.3Helios.jpg"
+    },
+    {
+      "name": "Ourea",
+      "romanname": "Montes",
+      "power": "The mountains",
+      "symbol": "None",
+      "father": "None",
+      "mother": "Gaea",
+      "url": "http://www.greekmythology.com/images/mythology/ourea_189.jpg"
+    },
+    {
+      "name": "Pontus",
+      "romanname": "Pontus",
+      "power": "The sea",
+      "symbol": "None",
+      "father": "None",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/Z35.7Okeanos.jpg"
+    },
+    {
+      "name": "Thalassa",
+      "romanname": "Mare",
+      "power": "The sea",
+      "symbol": "None",
+      "father": "Aether",
+      "mother": "Hemera",
+      "url": "http://www.theoi.com/image/img_thalassa.jpg"
+    },
+    {
+      "name": "Uranus",
+      "romanname": "Caelum",
+      "power": "The sky, the starry heavens",
+      "symbol": "Zodiac wheel",
+      "father": "None",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/Z15.2BAion.jpg"
+    },
+    {
+      "name": "Cerberus",
+      "romanname": "Cerberus",
+      "power": "Death, darkness",
+      "symbol": "Three-headed dog, mane of serpents",
+      "father": "Typhoeus",
+      "mother": "Echidna",
+      "url": "http://www.theoi.com/image/M12.1Kerberos.jpg"
+    },
+    {
+      "name": "Charon",
+      "romanname": "Charon",
+      "power": "Ferryman of the Dead",
+      "symbol": "Skiff",
+      "father": "Erebus",
+      "mother": "Nyx",
+      "url": "http://www.theoi.com/image/N11.1Kharon.jpg"
+    },
+    {
+      "name": "Erinyes",
+      "romanname": "Furiae, Dirae",
+      "power": "Vengeance, retribution",
+      "symbol": "Vipers",
+      "father": "Gaea",
+      "mother": "the blood of Uranus",
+      "url": "http://www.theoi.com/image/T40.1Erinyes.jpg"
+    },
+    {
+      "name": "Hades",
+      "romanname": "Pluto, Dis, Orcus",
+      "power": "The dead, king of the underworld",
+      "symbol": "Royal sceptre, cornucopia",
+      "father": "Cronus",
+      "mother": "Rhea",
+      "url": "http://www.theoi.com/image/K14.1Haides.jpg"
+    },
+    {
+      "name": "Hypnos",
+      "romanname": "Somnus, Sopor",
+      "power": "Sleep",
+      "symbol": "None",
+      "father": "None",
+      "mother": "Nyx",
+      "url": "http://www.theoi.com/image/img_hypnos.jpg"
+    },
+    {
+      "name": "Persephone",
+      "romanname": "Proserpina",
+      "power": "Spring, queen of the underworld",
+      "symbol": "Torch",
+      "father": "Zeus",
+      "mother": "Demeter",
+      "url": "http://www.theoi.com/image/K14.1Persephone.jpg"
+    },
+    {
+      "name": "Thanatos",
+      "romanname": "Mors, Letum",
+      "power": "Death",
+      "symbol": "Sword",
+      "father": "None",
+      "mother": "Nyx",
+      "url": "http://www.theoi.com/image/N12.1Thanatos.jpg"
+    },
+    {
+      "name": "Amphitrite",
+      "romanname": "Salacia",
+      "power": "The sea, fish, shellfish",
+      "symbol": "Fish, dolphin",
+      "father": "Nereus",
+      "mother": "Thetis",
+      "url": "http://www.theoi.com/image/Z2.3Poseidon.jpg"
+    },
+    {
+      "name": "Galatea",
+      "romanname": "Galatea",
+      "power": "Calm seas",
+      "symbol": "None",
+      "father": "Nereus",
+      "mother": "Doris",
+      "url": "http://www.theoi.com/image/Z42.1Polyphemos.jpg"
+    },
+    {
+      "name": "Ichthyocentaurs",
+      "romanname": "Aphros, Bythos",
+      "power": "Sea-foam, sea-depths",
+      "symbol": "None",
+      "father": "Cronus",
+      "mother": "Philyra",
+      "url": "http://www.theoi.com/image/Z10.1Aphrodite.jpg"
+    },
+    {
+      "name": "Leucothea",
+      "romanname": "Mater, Matuta",
+      "power": "Protector of sailors",
+      "symbol": "None",
+      "father": "Cadmus",
+      "mother": "Harmonia",
+      "url": "http://www.theoi.com/image/Z33.8Leukothea.jpg"
+    },
+    {
+      "name": "Nereids",
+      "romanname": "Nereids",
+      "power": "The sea, fish",
+      "symbol": "Dolphin",
+      "father": "Nereus",
+      "mother": "Doris",
+      "url": "http://www.theoi.com/image/Z33.9Nereides.jpg"
+    },
+    {
+      "name": "Nereus",
+      "romanname": "Nereus",
+      "power": "Fish",
+      "symbol": "Fish",
+      "father": "Pontus",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/P11.1Nereus.jpg"
+    },
+    {
+      "name": "Palaemon",
+      "romanname": "Portunus",
+      "power": "Protector of sailors",
+      "symbol": "Dolphin",
+      "father": "Athamas",
+      "mother": "Ino",
+      "url": "http://www.theoi.com/image/img_palaimon.jpg"
+    },
+    {
+      "name": "Phorcys",
+      "romanname": "Phorcys",
+      "power": "Sea dangers",
+      "symbol": "None",
+      "father": "Pontus",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/Z34.4CPhorkys.jpg"
+    },
+    {
+      "name": "Scylla",
+      "romanname": "Scylla",
+      "power": "Tear, Rend",
+      "symbol": "Nome",
+      "father": "None",
+      "mother": "Crataeis",
+      "url": "http://www.theoi.com/image/P27.1Skylla.jpg"
+    },
+    {
+      "name": "Sirens",
+      "romanname": "Sirens",
+      "power": "Bodies of birds, heads of women",
+      "symbol": "None",
+      "father": "Achelous",
+      "mother": "Melpomene",
+      "url": "http://www.theoi.com/image/O21.3Seirenes.jpg"
+    },
+    {
+      "name": "Thetis",
+      "romanname": "Thetis",
+      "power": "The sea, leader of the Nereides",
+      "symbol": "None",
+      "father": "Nereus",
+      "mother": "Doris",
+      "url": "http://www.theoi.com/image/Z35.4Okeanos.jpg"
+    },
+    {
+      "name": "Triton",
+      "romanname": "Triton",
+      "power": "Waves, calm seas, herald of Poseidon",
+      "symbol": "Conch shell",
+      "father": "Poseidon",
+      "mother": "Amphitrite",
+      "url": "http://www.theoi.com/image/K16.1Triton.jpg"
+    },
+    {
+      "name": "Anemoi",
+      "romanname": "Venti",
+      "power": "The winds",
+      "symbol": "None",
+      "father": "Astraeus",
+      "mother": "Eos",
+      "url": "http://www.theoi.com/image/Z50.7AEiar.jpg"
+    },
+    {
+      "name": "Aurae",
+      "romanname": "Aurae",
+      "power": "Breezes",
+      "symbol": "None",
+      "father": "Oceanus",
+      "mother": "Boreas",
+      "url": "http://www.theoi.com/image/T37.1Aura.jpg"
+    },
+    {
+      "name": "Boreas",
+      "romanname": "Aquilo",
+      "power": "The north wind, winter",
+      "symbol": "None",
+      "father": "Astraeus",
+      "mother": "Eos",
+      "url": "http://www.theoi.com/image/T28.3BBoreas.jpg"
+    },
+    {
+      "name": "Harpies",
+      "romanname": "Harpies",
+      "power": "Storm winds, whirlwinds",
+      "symbol": "None",
+      "father": "Thaumas",
+      "mother": "Electra",
+      "url": "http://www.theoi.com/image/P20.1Harpyiai.jpg"
+    },
+    {
+      "name": "Hesperides",
+      "romanname": "Hesperides",
+      "power": "Evening, sunsets",
+      "symbol": "Golden apple",
+      "father": "Atlas",
+      "mother": "Nyx",
+      "url": "http://www.theoi.com/image/N14.1Hesperides.jpg"
+    },
+    {
+      "name": "Zephyrus",
+      "romanname": "Zephyrus, Favonius",
+      "power": "The west wind, spring",
+      "symbol": "None",
+      "father": "Astraeus",
+      "mother": "Eos",
+      "url": "http://www.theoi.com/image/T29.1Zephyros.jpg"
+    },
+    {
+      "name": "Ariadne",
+      "romanname": "Libera",
+      "power": "Crown",
+      "symbol": "Most Holy",
+      "father": "Minos",
+      "mother": "Pasiphae",
+      "url": "http://www.theoi.com/image/K12.10Dionysos.jpg"
+    },
+    {
+      "name": "Chiron",
+      "romanname": "Chiron",
+      "power": "Teaching, surgeons",
+      "symbol": "None",
+      "father": "Cronus",
+      "mother": "Philyra",
+      "url": "http://www.theoi.com/image/F15.1Kheiron.jpg"
+    },
+    {
+      "name": "Curetes & Dactyls",
+      "romanname": "Curetes & Dactyls",
+      "power": "The war dance, metalworking",
+      "symbol": "Shield",
+      "father": "None",
+      "mother": "Gaea",
+      "url": "http://images.betterworldbooks.com/613/Dactyl-Mythology-9786138367185.jpg"
+    },
+    {
+      "name": "Naiads",
+      "romanname": "Naiads",
+      "power": "Fresh water, springs, fountains",
+      "symbol": "Water-pitcher",
+      "father": "None",
+      "mother": "The Potamoi",
+      "url": "http://www.theoi.com/image/Z37.4Naias.jpg"
+    },
+    {
+      "name": "Nymphs",
+      "romanname": "Nymphs",
+      "power": "Nature",
+      "symbol": "None",
+      "father": "Zeus",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/T8.3Themis.jpg"
+    },
+    {
+      "name": "Pan",
+      "romanname": "Faunus",
+      "power": "Shepherds, hunters, mountain forests and meadows",
+      "symbol": "Panpipes",
+      "father": "Hermes",
+      "mother": "Penelope",
+      "url": "http://www.theoi.com/image/Z22.4Pan.jpg"
+    },
+    {
+      "name": "Potamoi",
+      "romanname": "Flumina, Amnes",
+      "power": "The rivers",
+      "symbol": "Water-pitcher, cornucopia",
+      "father": "Oceanus",
+      "mother": "Tethys",
+      "url": "http://www.theoi.com/image/O20.5Akheloos.jpg"
+    },
+    {
+      "name": "Priapus",
+      "romanname": "Mutunus",
+      "power": "Vegetable gardens",
+      "symbol": "Basket of vegetables",
+      "father": "Dionysus",
+      "mother": "Aphrodite",
+      "url": "http://www.theoi.com/image/F39.1Priapos.jpg"
+    },
+    {
+      "name": "Satyrs",
+      "romanname": "Fauns",
+      "power": "Fertility",
+      "symbol": "Wineskin, drinking-horn, double-flute",
+      "father": "Silenus",
+      "mother": "Various",
+      "url": "http://www.theoi.com/image/T60.8Satyros.jpg"
+    },
+    {
+      "name": "Silenus",
+      "romanname": "Silenus",
+      "power": "Drunkenness, wine-making",
+      "symbol": "None",
+      "father": "None",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/T50.2Seilenos.jpg"
+    },
+    {
+      "name": "Plutus",
+      "romanname": "Plutus",
+      "power": "Wealth, agricultural bounty",
+      "symbol": "Cornucopia",
+      "father": "Iasion",
+      "mother": "Demeter",
+      "url": "http://www.theoi.com/image/K26.1Ploutos.jpg"
+    },
+    {
+      "name": "Triptolemus",
+      "romanname": "Triptolemus",
+      "power": "Sowing, milling",
+      "symbol": "Winged chariot",
+      "father": "Celeus",
+      "mother": "Metanira",
+      "url": "http://www.theoi.com/image/img_triptolemos.jpg"
+    },
+    {
+      "name": "Dike",
+      "romanname": "Justicia",
+      "power": "Justice",
+      "symbol": "None",
+      "father": "Zeus",
+      "mother": "Themis",
+      "url": "http://www.theoi.com/image/N20.1Adikia.jpg"
+    },
+    {
+      "name": "Eris",
+      "romanname": "Discordia",
+      "power": "Strife, discord",
+      "symbol": "None",
+      "father": "None",
+      "mother": "Nyx",
+      "url": "http://www.theoi.com/image/N15.1Eris.jpg"
+    },
+    {
+      "name": "Geras",
+      "romanname": "Senectus",
+      "power": "Old age",
+      "symbol": "None",
+      "father": "None",
+      "mother": "Nyx",
+      "url": "http://www.theoi.com/image/N18.1BGeras.jpg"
+    },
+    {
+      "name": "Lyssa",
+      "romanname": "Ira, Furor",
+      "power": "Mad rage, fury, crazed frenzy",
+      "symbol": "None",
+      "father": "None",
+      "mother": "Nyx",
+      "url": "http://www.theoi.com/image/N17.1Lyssa.jpg"
+    },
+    {
+      "name": "Nemesis",
+      "romanname": "Nemesis, Rivalitas",
+      "power": "Retribution, indignation",
+      "symbol": "Sword, lash",
+      "father": "None",
+      "mother": "Nyx",
+      "url": "http://www.theoi.com/image/N16.1Nemesis.jpg"
+    },
+    {
+      "name": "Peitho",
+      "romanname": "Suada, Suadela",
+      "power": "Persuasion, seduction",
+      "symbol": "Ball of twine",
+      "father": "Oceanus",
+      "mother": "Tethys",
+      "url": "http://www.theoi.com/image/K10.14Aphrodite.jpg"
+    },
+    {
+      "name": "Deimos & Phobos",
+      "romanname": "Metus, Pavor, Terror",
+      "power": "Fear, panic, terror",
+      "symbol": "None",
+      "father": "Ares",
+      "mother": "Aphrodite",
+      "url": "http://www.theoi.com/image/Z30.1Phobos.jpg"
+    },
+    {
+      "name": "Poena",
+      "romanname": "Poena, Poenae, Ultio",
+      "power": "Vengeance, retribution",
+      "symbol": "None",
+      "father": "Aither",
+      "mother": "Gaia",
+      "url": "http://www.theoi.com/image/N10.3Poine.jpg"
+    },
+    {
+      "name": "Pothos",
+      "romanname": "Pothos",
+      "power": "Sexual longing, yearning",
+      "symbol": "None",
+      "father": "None",
+      "mother": "Aphrodite",
+      "url": "http://www.theoi.com/image/K34.1Pothos.jpg"
+    },
+    {
+      "name": "Soteria",
+      "romanname": "Salus",
+      "power": "Safety and Deliverance",
+      "symbol": "None",
+      "father": "Zeus",
+      "mother": "Dionysus",
+      "url": "http://www.theoi.com/image/Z28.1Soteria.jpg"
+    },
+    {
+      "name": "Dioscuri",
+      "romanname": "Castor, Pollux",
+      "power": "Horsemanship, St. Elmo's fire",
+      "symbol": "None",
+      "father": "Zeus, Tyndareus",
+      "mother": "Leda",
+      "url": "http://www.theoi.com/image/H28.1Dioskouroi.jpg"
+    },
+    {
+      "name": "Ganymede",
+      "romanname": "Ganymede, Catamitus",
+      "power": "Cupbearer of the gods",
+      "symbol": "Pitcher, hoop",
+      "father": "Tros",
+      "mother": "Callirhoe",
+      "url": "http://www.theoi.com/image/Z32.1Ganymedes.jpg"
+    },
+    {
+      "name": "Psyche",
+      "romanname": "Psyche",
+      "power": "The soul",
+      "symbol": "Butterfly",
+      "father": "None",
+      "mother": "None",
+      "url": "http://www.theoi.com/image/Z31.1Eros.jpg"
+    },
+    {
+      "name": "Thaumas",
+      "romanname": "Thaumas",
+      "power": "Sea",
+      "symbol": "None",
+      "father": "Pontus",
+      "mother": "Gaea",
+      "url": "http://www.greekmythology.com/images/mythology/thaumas_398.jpg"
+    }
+  ],
+  "heroes": [
+    {
+      "name": "Atlanta",
+      "herotype": "Demigod",
+      "father": "Iasus",
+      "mother": "Clymene",
+      "power": "Hunting",
+      "home": "Arcadia",
+      "url": "http://www.theoi.com/image/img_atalanta.jpg"
+    },
+    {
+      "name": "Bellerophon",
+      "herotype": "Demigod",
+      "father": "Poseidon",
+      "mother": "Eurynome",
+      "power": "Spear",
+      "home": "Lycia",
+      "url": "http://www.theoi.com/image/Z44.1Khimaira.jpg"
+    },
+    {
+      "name": "Callisto",
+      "herotype": "Human",
+      "father": "Lycaon",
+      "mother": "Nonacris",
+      "power": "Became Ursa Major (Bear)",
+      "home": "Arcadia",
+      "url": "http://www.theoi.com/image/O15.1Kentaurides.jpg"
+    },
+    {
+      "name": "Danae",
+      "herotype": "Human",
+      "father": "Acrisius",
+      "mother": "Eurydice",
+      "power": "N/A",
+      "home": "Island of Seriphus",
+      "url": "http://www.theoi.com/image/K1.14Zeus.jpg"
+    },
+    {
+      "name": "Endymion",
+      "herotype": "Human",
+      "father": "Aethlius",
+      "mother": "Calyce",
+      "power": "Immortality and Youth",
+      "home": "Caria",
+      "url": "http://www.theoi.com/image/Z18.2Selene.jpg"
+    },
+    {
+      "name": "Heracles",
+      "herotype": "Demigod",
+      "father": "Zeus",
+      "mother": "Alcmene",
+      "power": "Superhuman Strength",
+      "home": "Thebes",
+      "url": "http://www.greekmythology.com/images/mythology/heracles_134.jpg"
+    },
+    {
+      "name": "Hyacinthus",
+      "herotype": "Human",
+      "father": "Amyclas",
+      "mother": "Diomede",
+      "power": "Became a Flower",
+      "home": "Laconia",
+      "url": "http://www.theoi.com/image/T29.1Zephyros.jpg"
+    },
+    {
+      "name": "Io",
+      "herotype": "Nymph",
+      "father": "Inachus",
+      "mother": "Melia",
+      "power": "Became a Cow",
+      "home": "Argolis",
+      "url": "http://www.theoi.com/image/F41.1Io.jpg"
+    },
+    {
+      "name": "Leda",
+      "herotype": "Human",
+      "father": "Thestius",
+      "mother": "Eurythemis",
+      "power": "Lays Eggs",
+      "home": "Sparta",
+      "url": "http://www.theoi.com/image/Z1.4Zeus.jpg"
+    },
+    {
+      "name": "Pandora",
+      "herotype": "Human",
+      "father": "Crafted from Clay by gods",
+      "mother": "N/A",
+      "power": "Beauty and Cunning",
+      "home": "Thessaly",
+      "url": "http://www.theoi.com/image/T22.1Pandora.jpg"
+    },
+    {
+      "name": "Pelops",
+      "herotype": "Human",
+      "father": "Tantalus",
+      "mother": "Dione",
+      "power": "Came back from the dead",
+      "home": "Pisa in Elis",
+      "url": "http://www.greekmythology.com/images/mythology/pelops_366.jpg"
+    },
+    {
+      "name": "Penthesilea",
+      "herotype": "Demigod",
+      "father": "Ares",
+      "mother": "Otrera",
+      "power": "Supernatural strength and agility",
+      "home": "Thermodon",
+      "url": "http://www.theoi.com/image/img_penthesileia.jpg"
+    },
+    {
+      "name": "Perseus",
+      "herotype": "Demigod",
+      "father": "Zeus",
+      "mother": "Danae",
+      "power": "Supernatural strength and agility",
+      "home": "Argolis",
+      "url": "http://www.theoi.com/image/P23.2Medousa.jpg"
+    },
+    {
+      "name": "Pygmalion",
+      "herotype": "Demigod",
+      "father": "Poseidon",
+      "mother": "NA",
+      "power": "King and Sculptor",
+      "home": "Cyprus",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2010/07/Pygmalion-And-Galatea-300x227.jpg"
+    },
+    {
+      "name": "Pyrrha",
+      "herotype": "Human",
+      "father": "Epimetheus",
+      "mother": "Pandora",
+      "power": "Queen",
+      "home": "Thessaly",
+      "url": "http://www.greekmythology.com/images/mythology/pyrrha_384.jpg"
+    },
+    {
+      "name": "Cycnus",
+      "herotype": "Demigod",
+      "father": "Poseidon",
+      "mother": "Calyce",
+      "power": "N/A",
+      "home": "Troad",
+      "url": "http://www.mlahanas.de/Greeks/Mythology/Images/HeraclesKyknos.jpg"
+    },
+    {
+      "name": "Tyro",
+      "herotype": "Human",
+      "father": "Salmoneus",
+      "mother": "Alcidice",
+      "power": "Beauty",
+      "home": "Iolcus",
+      "url": "http://img13.deviantart.net/388b/i/2004/306/f/f/tyro_and_poseidon__work_in_pro_by_kallithrix.jpg"
+    },
+    {
+      "name": "Achilles",
+      "herotype": "Demigod",
+      "father": "Peleus",
+      "mother": "Thetis",
+      "power": "Strength and Agility",
+      "home": "Thessaly",
+      "url": "http://www.greekmythology.com/images/mythology/achilles_218.jpg"
+    },
+    {
+      "name": "Actaeon",
+      "herotype": "Demigod",
+      "father": "Aristaeus",
+      "mother": "Autonoe",
+      "power": "Hunter",
+      "home": "Boeotia",
+      "url": "http://www.greekmythology.com/images/mythology/actaeon_220.jpg"
+    },
+    {
+      "name": "Aeneas",
+      "herotype": "Demigod",
+      "father": "Anchises",
+      "mother": "Aphrodite",
+      "power": "Strength and Beauty",
+      "home": "Troy",
+      "url": "http://www.greekmythology.com/images/mythology/aeneas_536.jpg"
+    },
+    {
+      "name": "Castor",
+      "herotype": "Demigod",
+      "father": "Tyndareus",
+      "mother": "Leda",
+      "power": "Horseman and Archery",
+      "home": "Sparta",
+      "url": "http://www.greekmythology.com/images/mythology/dioscuri_281.jpg"
+    },
+    {
+      "name": "Pollux",
+      "herotype": "Human",
+      "father": "Tyndareus",
+      "mother": "Leda",
+      "power": "Horseman and Archery",
+      "home": "Sparta",
+      "url": "http://www.theoi.com/image/Z42.3Polyphemos.jpg"
+    },
+    {
+      "name": "Jason",
+      "herotype": "Human",
+      "father": "Aeson",
+      "mother": "N/A",
+      "power": "Blessed by Hera and Golden Fleece",
+      "home": "Iolcus",
+      "url": "http://www.greekmythology.com/images/mythology/jason_323.jpg"
+    },
+    {
+      "name": "Meleager",
+      "herotype": "Human",
+      "father": "Oeneus",
+      "mother": "Althaea",
+      "power": "Strength and Bravery",
+      "home": "Calydon",
+      "url": "http://www.greekmythology.com/images/mythology/meleager_135.jpg"
+    },
+    {
+      "name": "Odysseus",
+      "herotype": "Human",
+      "father": "Laertes",
+      "mother": "Anticleia",
+      "power": "Clever and Quick Mind",
+      "home": "Ithaca",
+      "url": "http://www.greekmythology.com/images/mythology/odysseus_353.jpg"
+    },
+    {
+      "name": "Peleus",
+      "herotype": "Demigod",
+      "father": "Aeacus",
+      "mother": "Endeis",
+      "power": "Magical Sword",
+      "home": "Aegina",
+      "url": "http://www.greekmythology.com/images/mythology/peleus_364.jpg"
+    },
+    {
+      "name": "Theseus",
+      "herotype": "Demigod",
+      "father": "Poseidon",
+      "mother": "Aethra",
+      "power": "Strength, Courage, and Wisdom",
+      "home": "Athens",
+      "url": "http://www.greekmythology.com/images/mythology/theseus_131.jpg"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Arcadia",
+      "altname": "Arcadia",
+      "myth": "None",
+      "locationtype": "Wilderness",
+      "gods": "Atlanta, Callisto, Pan, Hermes",
+      "url": "http://www.greekmythology.com/images/mythology/aeaea_507.jpg"
+    },
+    {
+      "name": "Lycia",
+      "altname": "Lycia",
+      "myth": "Coastal",
+      "locationtype": "Bellerophon",
+      "gods": "Leto, Apollo, Artemis",
+      "url": "",
+      "url": "http://www.greekmythology.com/images/mythology/lycia_497.jpg"
+    },
+    {
+      "name": "Island of Seriphus",
+      "altname": "Seriphos",
+      "myth": "Perseus",
+      "locationtype": "Island",
+      "gods": "Perseus",
+      "url": "http://www.medusaserifos.com/wp-content/uploads/2015/04/Chora-Under-the-Moonlight.jpg"
+    },
+    {
+      "name": "Thebes",
+      "altname": "Thebes",
+      "myth": "The story of Laius",
+      "locationtype": "City",
+      "gods": "Heracles",
+      "url": "http://www.greekmythology.com/images/mythology/thebes_505.jpg"
+    },
+    {
+      "name": "Caria",
+      "altname": "Mount Latmus",
+      "myth": "None",
+      "locationtype": "Mountain",
+      "gods": "Endymion",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/0132_Theater_in_Caunos.jpg/300px-0132_Theater_in_Caunos.jpg"
+    },
+    {
+      "name": "Laconia",
+      "altname": "Lacedaemonia",
+      "myth": "None",
+      "locationtype": "Island",
+      "gods": "Hyacinthus",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Menelaion.jpg/280px-Menelaion.jpg"
+    },
+    {
+      "name": "Troy",
+      "altname": "Ilion, Troia, Ilium",
+      "myth": "Trojan War",
+      "locationtype": "City",
+      "gods": "Achilles, Odysseus",
+      "url": "http://www.greekmythology.com/images/mythology/troy_502.jpg"
+    },
+    {
+      "name": "Argolis",
+      "altname": "Argolid",
+      "myth": "None",
+      "locationtype": "Peninsula",
+      "gods": "Io, Perseus",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Map_of_Argolis.jpg/220px-Map_of_Argolis.jpg"
+    },
+    {
+      "name": "Thessaly",
+      "altname": "Aeolia",
+      "myth": "Golden Fleece",
+      "locationtype": "Plain",
+      "gods": "Pandora, Odysseus, Pyrrha, Achilles",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ancient_theatre_of_Larisa.jpg/220px-Ancient_theatre_of_Larisa.jpg"
+    },
+    {
+      "name": "Pisa in Elis",
+      "altname": "Eleia",
+      "myth": "Trojan War",
+      "locationtype": "Valley",
+      "gods": "Pelops",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Olympie_Temple_Zeus.JPG/220px-Olympie_Temple_Zeus.JPG"
+    },
+    {
+      "name": "Thermodon",
+      "altname": "River Thermodon",
+      "myth": "Trojan War",
+      "locationtype": "River",
+      "gods": "Penthesilea",
+      "url": "http://www.myrine.at/Amazons/terme_in.jpg"
+    },
+    {
+      "name": "Cyprus",
+      "altname": "Cytherea, Cypris, Cypria",
+      "myth": "Aphrodite",
+      "locationtype": "Island",
+      "gods": "Pygmalion, Aphrodite",
+      "url": "http://i.infopls.com/images/mcyprus.gif"
+    },
+    {
+      "name": "Troad",
+      "altname": "Troas",
+      "myth": "None",
+      "locationtype": "Peninsula",
+      "gods": "Cycnus",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Walls_of_Troy_%281%29.jpg/300px-Walls_of_Troy_%281%29.jpg"
+    },
+    {
+      "name": "Argolis",
+      "altname": "Argolid",
+      "myth": "Myth of Io",
+      "locationtype": "Regional State in Greece",
+      "gods": "Io, Zeus, Hera",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Map_of_Argolis.jpg/220px-Map_of_Argolis.jpg"
+    },
+    {
+      "name": "Aeaea",
+      "altname": "Eëa",
+      "myth": "The Odyssey",
+      "locationtype": "Island",
+      "gods": "Circe, Odysseus",
+      "url": "http://www.greekmythology.com/images/mythology/aeaea_507.jpg"
+    },
+    {
+      "name": "Athens",
+      "altname": "Athina",
+      "myth": "The Myth of Theseus and the Minotaur",
+      "locationtype": "City",
+      "gods": "Theseus,Aegeus",
+      "url": "http://www.greekmythology.com/images/mythology/athens_506.jpg"
+    },
+    {
+      "name": "Aulis",
+      "altname": "Avlida",
+      "myth": "Trojan War",
+      "locationtype": "City, Port",
+      "gods": "Artemis, Agamemnon",
+      "url": "http://www.greekmythology.com/images/mythology/aulis_499.jpg"
+    },
+    {
+      "name": "Calydon",
+      "altname": "N/A",
+      "myth": "Calydonian Boar",
+      "locationtype": "City",
+      "gods": "Apollo, Artemis",
+      "url": "http://www.greekmythology.com/images/mythology/calydon_496.jpg"
+    },
+    {
+      "name": "Colchis",
+      "altname": "Colchis, Kolkhis, Qulha",
+      "myth": "Jason and the Argonauts",
+      "locationtype": "Costal Region",
+      "gods": "Jason, Athena, Hera, Argonauts",
+      "url": "http://www.greekmythology.com/images/mythology/colchis_501.jpg"
+    },
+    {
+      "name": "Corinth",
+      "altname": "Korinthos",
+      "myth": "The Myth of Sisyphus, The Myth of Pegasus and Bellerophontes",
+      "locationtype": "City",
+      "gods": "Sisyphus,Bellerophontes",
+      "url": "http://www.greekmythology.com/images/mythology/corinth_504.jpg"
+    },
+    {
+      "name": "Crete",
+      "altname": "Kaptara, Girit, Creta",
+      "myth": "The Myth of Europe, The Myth of Theseus and the Minotaur",
+      "locationtype": "Island",
+      "gods": "Zeus,Europe,Minos,Pasiphae,Minotaur,Aegeus,Adriadne,Theseus,Androgeus",
+      "url": "http://www.greekmythology.com/images/mythology/crete_509.jpg"
+    },
+    {
+      "name": "Delphi",
+      "altname": "Mount Parnassus",
+      "myth": "The Myth of Halcyon",
+      "locationtype": "Mountain",
+      "gods": "Halcyon,Ceyx,Apollo",
+      "url": "http://www.greekmythology.com/images/mythology/delphi_513.jpg"
+    },
+    {
+      "name": "Iolcus",
+      "altname": "Iolkos,Iolcus",
+      "myth": "Jason and the Argonauts",
+      "locationtype": "City",
+      "gods": "Jason,Pelias,Athena,Hera,Argonauts",
+      "url": "http://www.greekmythology.com/images/mythology/iolcus_500.jpg"
+    },
+    {
+      "name": "Ithaca",
+      "altname": "Ithaka",
+      "myth": "The Odyssey",
+      "locationtype": "Island",
+      "gods": "Odysseus, Poseidon",
+      "url": "http://www.greekmythology.com/images/mythology/ithaca_508.jpg"
+    },
+    {
+      "name": "Lerna",
+      "altname": "Myloi",
+      "myth": "12 Labors of Hercules: Lernaean Hydra",
+      "locationtype": "Lake",
+      "gods": "Heracles, Hera",
+      "url": "http://www.greekmythology.com/images/mythology/lerna_512.jpg"
+    },
+    {
+      "name": "Mount Olympus",
+      "altname": "Olympus",
+      "myth": "The Myth of Tantalus, The Titans and Titanomachy",
+      "locationtype": "Mountain",
+      "gods": "Tantalus,Pelops,Zeus,Demeter, All the Gods",
+      "url": "http://www.greekmythology.com/images/mythology/mount_olympus_127.jpg"
+    },
+    {
+      "name": "Nemea",
+      "altname": "Koutsoumadi",
+      "myth": "12 Labors of Hercules: Nemean Lion",
+      "locationtype": "Village",
+      "gods": "Heracles, Athena",
+      "url": "http://www.greekmythology.com/images/mythology/nemea_511.jpg"
+    },
+    {
+      "name": "Sparta",
+      "altname": "Lacedaemon",
+      "myth": "N/A",
+      "locationtype": "City",
+      "gods": "Leda, Ares, Castor, Pollux",
+      "url": "http://www.greekmythology.com/images/mythology/sparta_503.jpg"
+    },
+    {
+      "name": "Tauris",
+      "altname": "Crimea",
+      "myth": "Myth of Iphigenia",
+      "locationtype": "Peninsula",
+      "gods": "Artemis, Iphigenia",
+      "url": "http://www.greekmythology.com/images/mythology/tauris_498.jpg"
+    },
+    {
+      "name": "The Underworld",
+      "altname": "The Kingdom of the Dead",
+      "myth": "The Myth of Hades and Persephone",
+      "locationtype": "Afterlife",
+      "gods": "Hades, Persephone",
+      "url": "http://www.greekmythology.com/images/mythology/the_underworld_128.jpg"
+    },
+    {
+      "name": "Troy",
+      "altname": "Ilion, Troia, Ilium",
+      "myth": "Trojan War",
+      "locationtype": "City",
+      "gods": "Achilles, Odysseus",
+      "url": "http://www.greekmythology.com/images/mythology/troy_502.jpg"
+    }
+  ],
+  "myths": [
+    {
+      "name": "The Myth of Sisyphus",
+      "description": "Sisyphus was known as the craftiest man in Greek Mythology. He cheated Death, Thanatos, by cuffing him with eternal chains inside his home and escaped from the underworld by tricking Persephone, the queen of the underworld. The famous punishment that was given to him was that Sisyphus would have to roll a boulder to the top of a hill, only for it to roll down once he would get close.",
+      "gods": "Sisyphus",
+      "nongods": "Persephone,Thanatos",
+      "place": "Corinth",
+      "theme": "Crime against the Gods",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2011/05/sisyphus-500x544-240x200.jpg"
+    },
+    {
+      "name": "Ursa Major",
+      "description": "Zeus was smittened by a mortal by the name of Callisto. While walking together in the mountains, Hera, the wife of Zeus, knew that he was up to something with another woman. Seeing her come, Zeus changed Callisto in a bear. After Hera reached Zeus, she forced him to go back to Mount Olympus. Callisto dies by the hand of her son, Arcas, who mistook her as a bear. To ask for forgiveness, Zeus places Callisto in the sky as the Big Dipper, and places her son as the Little Dipper.",
+      "gods": "Zeus, Hera",
+      "nongods": "Callisto, Arcas",
+      "place": "Arcadia",
+      "theme": "Love and Jealously",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2011/03/ursa-major-300x245-240x200.jpg"
+    },
+    {
+      "name": "The Myth of Tantalus",
+      "description": "Tantalus invited the gods of Olympus to dine with him in home. To either test the gods or because lack of food, Tantalus killed and cooked his son Pelops, and presented it to the gods. Although most gods knew that it his son, Demeter took a bite of Pelop's shoulder. Enraged, Zeus crushed him on the mountain and destroyed everything Tantalus owned, including his kingdom. Tantalus was sent to Tartarus, the deepest region in the Underworld, where he was given an eternal punishment. Tantalus was placed under a fruit tree and in the middle of a lake. Anytime he would go down to get a drink of water, the water would recede, and anytime he would reach up for fruit, the branches would move away. Pelops was revived later by the gods and his arm was replaced with ivory.",
+      "gods": "Zeus,Demeter",
+      "nongods": "Tantalus,Pelops",
+      "place": "Lydia",
+      "theme": "Crime against the Gods",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2011/02/tantalus-TH1-240x200.jpg"
+    },
+    {
+      "name": "The Myth of Pygmalion and Galatea",
+      "description": "Pygmalion was a sculptor who disdained women because of seeing prostitutes. He decided to instead sculpt a woman and named the statue Galatea. As he sculpted the statue more and more, it became so beautiful that he fell in love with it. After sacrificing a bull to Aphrodite, the god of love, turned Galatea into an actual woman. Grateful to Aphrodite, Pygmalion and Galatea continued to make offerings to her and both of them were blessed with love and happiness.",
+      "gods": "Aphrodite",
+      "nongods": "",
+      "place": "Pygmalion,GalateaCyprus",
+      "theme": "Love",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2010/12/Pygmalion-And-Galatea-300x227-240x200.jpg"
+    },
+    {
+      "name": "Odysseus and the Cyclops",
+      "description": "Odysseus, a hero from the Trojan War, was returning home on a ship. During his sea travels, he noticed an island where sheep were making noises. Hungry, Odysseus and his crew went on the island to find food. It was an island filled with cyclops and a certain cyclops, Polyphemus, found Odysseus and his crew and trapped them inside his cave to eat them. After a while, Odysseus figured out a plan to trick Polyphemus into letting them out, and rowed away to safety.",
+      "gods": "None",
+      "nongods": "Odysseus,Polyphemus",
+      "place": "Sicily",
+      "theme": "Leadership and Wits",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2010/11/odysseus-and-the-cyclops-500x400-240x200.jpg"
+    },
+    {
+      "name": "The Myth of Hades and Persephone",
+      "description": "Hades, the god of the underworld, fell in love with Persephone, the daughter of Demeter. Hades consulted Zeus for help on how to get her. They both decided on trapping Persephone by causing the ground beneath her to split open into the underworld. After much time with Hades, Persephone eventually became happy with him.",
+      "gods": "Hades,Zeus,Persephone",
+      "nongods": "None",
+      "place": "Underworld",
+      "theme": "Love and Abduction",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2010/11/hades-persephone-TH1-240x200.jpg"
+    },
+    {
+      "name": "The Myth of Aphrodite and Adonis",
+      "description": "Adonis was the child of Cinryus and Myrrha. Aphrodite was jealous of Myrrha's beauty so she made Cinryus fall in love with Myrrha, who is his daugther, and together they created Adonis. Angry of Aphrodite's use of her power, Cinryus was going to kill Myrrha and Adonis. Recognizing her wrong actions, she turned Myrrha into a myrrh tree and took Adonis to be hidden by Persephone, the queen of the underworld. Captivated by Adonis' beauty, both Aphrodite and Peresephone fought for his custody. Zeus came and it was agreed that Adonis would stay on Earth with Aphrodite for half the year and the other half of the year, he would stay in the underworld with Peresephone.",
+      "gods": "Aphrodite,Persephone,Zeus",
+      "nongods": "Adonis,Myrrha,Cinryus",
+      "place": "Cyprus,Underworld",
+      "theme": "Love and Lust",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2010/06/aphrodite-adonis-01-240x200.jpg"
+    },
+    {
+      "name": "The Myth of Halcyon",
+      "description": "Halcyon was the daughter of Aelous, the ruler of the winds. She was married to Ceyx, the king of Tachis. Their love was known throughout the greek world, so much that the gods would sometimes hear them call themselves Zeus and Hera. Ceyx eventually had to go visit the oracle in Delphi, traveling there by boat. Even with Halcyon's fear of the sea, Ceyx went and was taken down by a storm. After hearing of this news, Halcyon was so distraught that she threw herself into the sea. Touched, the gods decided to revive Halcyon into a kingfisher bird, where she could lay her eggs in the middle of winter near the shore safely for fourteen days.",
+      "gods": "Poseidon,Hera",
+      "nongods": "Halcyon,Ceyx",
+      "place": "Tachis",
+      "theme": "Love",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2010/05/halcyon-kingfisher1-240x200.jpg"
+    },
+    {
+      "name": "Jason and the Argonauts",
+      "description": "Jason was the heir of Ioclus. His half brother, Pelias, however wanted the throne for himself and was going to kill Jason. Jason was then smuggled out of the kingdom. Years later, Jason returned to the kingdom, gaining trusts from the gods Hera and Athena along the way. King Pelias then told Jason to retrieve the Golden Fleece for him, a task deemed impossible, and if he did, he would get the kingdom. Jason then built the ship Argo and recruited fifty members, called the Argonauts, and went to the Black Sea to find the Golden Fleece. After many impossibly difficult trials, Jason succeeds in finding the Golden Fleece and became the King of Ioclus.",
+      "gods": "Athena,Hera",
+      "nongods": "Jason,Pelias,Argonauts",
+      "place": "Ioclus,Black Sea",
+      "theme": "Perseverance and Fate",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2010/05/jason-argonauts-argo-240x200.jpg"
+    },
+    {
+      "name": "The Myth of King Midas",
+      "description": "Midas was the king of Phrygia who was known for his wisdom but also his greed. A satyr, Silenus, was caught trespassing into the sacred rose garden of Midas. Knowing that Silenus was a follower of Dionysus, King Midas decided not to punish him. Instead, Midas was entertained by Silenus' stories of pleasure and life. Pleased, Dionysus asked Midas what he wanted most in his life. Midas then wanted everything that he touched to be turned into gold. Even after warnings from Dionysus, Midas wanted the golden touch. Dionysus then gave Midas the Midas touch, the power to turn everything he touched into gold. After a while, Midas realized his mistake and begged Dionysus to take the power away, in which Midas had to bathe in the River Paktolos to remove his power.",
+      "gods": "Dionysus",
+      "nongods": "Midas,Silenus",
+      "place": "Phyrgia,River Paktolos",
+      "theme": "Greed",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2010/04/midas-touch-canga-240x200.jpg"
+    },
+    {
+      "name": "The Myth of Prometheus",
+      "description": "Prometheus was a Titan who didn't fight in the war between the Gods and Titans, so Zeus decided not to lock him up in Tartarus. Zeus asked Prometheus to create a man out of water and earth, and thus gave birth to the humans. Prometheus was more fond of the humans than the Gods, so he decided to steal fire for the people of Earth. To distract the Gods, Prometheus threw a golden pear (or apple) into the garden of the gods and it has the message For the most beautiful goddess of all. While the goddesses argued to each other and other gods watched in amusement, Prometheus stole fire from Hephaestus, the god of fire, and gave it to the humans. Enraged, Zeus chained Prometheus onto Mount Caucasus, where every day an eagle would eat his liver, and the liver would grow back for the next day.",
+      "gods": "Zeus,Haphaestus",
+      "nongods": "Prometheus",
+      "place": "Mount Caucases",
+      "theme": "Crime against the Gods",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2009/09/prometheus-eagle-eating-liver-240x200.jpg"
+    },
+    {
+      "name": "The Myth of Perseus and Medusa",
+      "description": "Before Perseus was born, Acrisius, the king of Argos, was told by an oracle that his grandson would kill him. His daughter Danae was therefore trapped beneath the earth so that she could not have intercourse. Zeus however, turned into golden rain, trickled inside the earth, and eventually reached Danae, who then became pregnant with Perseus. Shocked, Acrisius sent Danae and Perseus to his brother, Polydectus, who was the king of the island. Eventually, Polydectus wanted Danae to be his wife, but knowing that Perseus would not allow it, he sent Perseus into a mission to take Medusa's head. Medusa was a gorgon in which whenever anyone looked at her face, they would turn to stone. With the help of Hermes and Athena, Perseus killed Medusa and brought her head back.",
+      "gods": "Zeus,Hermes,Athena",
+      "nongods": "Perseus,Danae,Acrisius,Polydectus,Medusa",
+      "place": "Argos,Seriphos",
+      "theme": "Fate and Perserverance",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2009/09/perseus-medusa-240x200.jpg"
+    },
+    {
+      "name": "The Myth of Pegasus and Bellerophontes",
+      "description": "Bellerophontes was the man from Corinth who's dream was to own Pegasus, the winged horse. Bellerophontes was on a journey to find Pegasus and met Proteus, the son-in-law of the King of Lycia. Jealous, Proteus gave Bellerophontes a mail to Lycia, where he planned to have his in-law's kill Bellerophontes. Seeing the letter, the in-laws gave Bellerophontes the task of killing Chimera, a creature that is half lion and half dragon. To do this, Bellerophontes had to get Pegasus with the help of Athena, and after befriending Pegasus, they both killed the Chimera.",
+      "gods": "Athena",
+      "nongods": "Bellerophontes,Proteus,Pegasus",
+      "place": "Lycia",
+      "theme": "Betrayal and Loyalty",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2009/09/belerophontes-pegasus-TH-240x152.jpg"
+    },
+    {
+      "name": "The Myth of Europe",
+      "description": "Europe was a mortal that came from Asia. Smittened by her beauty, Zeus, the god of love affairs, decided to make her his. Zeus changed himself into a white bull and swam across the ocean to see Europe. Since the bull was so gentle, Europe decided to get on it's back, and then the bull swam to the eastern part of Crete to Diktreon Andron, the cave where Zeus was born. The cave also became Zeus and Europe's love nest, but after a while, Zeus got tired of Europe and married her off to Asterion, the king of stars. The bull symbol eventually became Taurus in the night sky.",
+      "gods": "Zeus,Asterion",
+      "nongods": "Europe",
+      "place": "Asia,Crete",
+      "theme": "Love",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2009/08/europe-zeus1-240x200.jpg"
+    },
+    {
+      "name": "The Myth of Calypso and Odysseus",
+      "description": "Odysseus is a warrior from the Trojan War. On his way back from Troy, his ship was hit by a storm and he drifted in the sea for nine days. Calypso fell in love with Odysseus and even though Odysseus wanted to return home, she seduced him into becoming her lover. After seven years, Zeus sent Hermes to give a message to Calypso to let Odysseus go. Reluctantly, Calypso helped build a ship for Odysseus and he finally resumed his journey back home.",
+      "gods": "Calypso,Hermes,Zeus",
+      "nongods": "Odysseus",
+      "place": "Ogygia",
+      "theme": "Affair and Distraction",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2009/08/calypso-odysseus-21-240x200.jpg"
+    },
+    {
+      "name": "The Myth of Psyche and Eros",
+      "description": "Psyche was a mortal human that had such beauty that the whole world came to see her. Angered by her beauty, Aphrodite told her son Eros, to make men kill their desire of Psyche. Eros however became in love with Psyche instead and eventually and oracle told Psyche's parents that she would marry a hideous beast whose face she could not see. Psyche was only allowed to see her husband at night, but since he was so loving and caring to her, she was extremely happy. Jealous of her happiness, Psyche's sisters told her that her husband would kill her. Afraid, Psyche was ready to kill her husband with a knife and lamp before he killed her. However when Eros came in, the light from the lamp revealed the beautiful face of Eros. Surprised, Psyche spilled oil onto his face. Feeling betrayed, Eros left Psyche. Psyche then started searching for Eros, where she then pleaded to Aphrodite to reunite them. Aphrodite gave her three seemingly impossible tasks, where the last one made Aphrodite fall into eternal sleep. Finding out what happened, Eros pleaded to Zeus to save Aphrodite and seeing their love, Zeus made Psyche immortal so that the two could be together forever.",
+      "gods": "Eros,Aphrodite,Zeus",
+      "nongods": "Psyche",
+      "place": "N/A",
+      "theme": "Betrayal and Love",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2009/08/eros-psyche-011-240x200.jpg"
+    },
+    {
+      "name": "The Titans and Titanomachy",
+      "description": "The first ruler of the Universe was Uranus and along with Gaia, they birthed the titans. The titans were the elder gods and were eventually overthrown by the new olympian gods in the Titanomachy, the war between the titans and olympians. Uranus' son, Cronos, dethroned Uranus and then Zeus, Cronos' son, dethroned him as the ruler of the universe. The war between the titans and olympians lasted for ten years on Mount Olympus and it remains to be one of the most epic myth battles today.",
+      "gods": "All the Gods",
+      "nongods": "None",
+      "place": "Mount Olympus",
+      "theme": "War",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2009/08/titanomachy1-240x200.jpg"
+    },
+    {
+      "name": "The Curse of Cassandra",
+      "description": "Cassandra was one of the princesses of Troy, and is possibly the reason why Troy was taken over. Apollo fell in love with Cassandra and wanted to gift her the power of prophecy. Cassandra however did not reciprocate Apollo's feelings and therefore Apollo became enraged. He decided to bring her misfortune by cursing her. The curse that he gave her would make no one believe her, so that when the time the Greeks came to Troy, she warned the Trojans to beware of the Greek's gifts. Oblivious to her warning, the Trojans accepted the Trojan horse, which became the downfall of Troy.",
+      "gods": "Apollo",
+      "nongods": "Cassandra",
+      "place": "Troy",
+      "theme": "Love and Jealousy",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2009/08/kassandra-1-TH1-240x200.jpg"
+    },
+    {
+      "name": "The Myth of Theseus and the Minotaur",
+      "description": "Zeus sent a bull to Crete, where it made love with Pasiphae, the wife of King Minos of Crete. Embarrassed, Minos trapped the minotaur inside a labyrinth create by Daedalus, which was known to be impossible to escape. Minos' son, Androgeus went to Athens to attend the Panathenaic games, but was killed by the same bull that slept with Pasiphae. Enraged, Minos demanded that the king of Athens, Aegeus, would send seven men and women into the labyrinth each year. On the third year, Aegeus' son, Theseus, volunteered to go to the labyrinth and kill the minotaur. He told his father that when his ship comes back, if the sail is white, it would signify that he successfully returned alive, else if it was black, it meant that he failed and died trying. Adriadne, the daughter of Minos, fell in love with Theseus and gave him a thread that would allow him to go back from the labyrinth. Theseus successfully kills the minotaur and comes back from the labyrinth. Theseus takes Adriadne with him, but while on a stop at Naxos, he accidentally leaves Adriadne there. Frustrated, he then forgets to change the sail to white, and when King Aegeus sees the black sails, he throws himself into the sea and drowns. That is why the sea is now called the Aegean Sea.",
+      "gods": "Zeus",
+      "nongods": "Minos,Pasiphae,Minotaur,Aegeus,Adriadne,Theseus,Androgeus",
+      "place": "Crete,Athens",
+      "theme": "Tragedy",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2009/08/theseus-minotaur1-240x200.jpg"
+    },
+    {
+      "name": "The Myth of Daedalus and Icarus",
+      "description": "Daedalus was the inventor of the labyrinth that trapped the Minotaur. He also informed Adriadne, the daughter of Minos, to give Theseus thread so that he could escape the labyrinth. Furious by this information, King Minos trapped Daedalus and his son Icarus inside of the labyrinth. Knowing that Daedalus and his son would never escape the labyrinth by finding their way back or by escaping to the sea, his only choice left was to fly away. Daedalus then built wings and taught him and his son how to fly. On the day of their escape, Daedalus warned Icarus not to get too close to the sun or else the wings would melt off. Even with the warning, the young Icarus became too excited and went too close to the sun, melting the wings, and then falling into the sea to drown. After this event, the sea became known as the Icarian Sea.",
+      "gods": "None",
+      "nongods": "Daedalus,Icarus,Minos",
+      "place": "Crete",
+      "theme": "Tragedy",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2009/08/daedalus-icarus1-240x200.jpg"
+    },
+    {
+      "name": "The Myth of Narcissus",
+      "description": "Narcissus was the son of the River God Cephisus and nymphe Lyriope. He was born with beauty and was loved by the god Apollo because of his physique. One day, a young man, Aminias, fell in love with Narcissus and tried to court him. Narcissus however gave him a sword in reply and using that sword, Aminias killed himself, praying to the Gods for Narcissus to be punished. One day, while walking near the river, Narcissus noticed his own reflection. His reflection was so beautiful that he fell in love with himself, but knowing that he couldn't attain himself for himself, he died in sorrow.",
+      "gods": "None",
+      "nongods": "Narcissus,Aminias",
+      "place": "N/A",
+      "theme": "Narcissism",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2009/08/narcissus-and-echo-240x200.jpg"
+    },
+    {
+      "name": "The Trojan War",
+      "description": "The Trojan War started with Athena, Aphrodite, and Hera arguing against each other as to who was the most beautiful. Eris, the deity of strife, gave a golden apple to Paris, prince of Troy, and told him to give it to the most beautiful goddess. Paris chose Aphrodite and as a gift, Aphrodite promised Paris that the most beautiful wife would be sent to him. Paris went on a delegation to Sparta and met Helen, who was the most beautiful woman on the world, and she immediately fell in love with him and went back with him to Troy. This sparked a war between the Trojans and Greeks, and after ten years, Odysseus devised the Trojan horse plan. The Trojan horse masqueraded itself as a gift, but inside were Greek soldiers who left the horse in the middle of the night to slaughter the Trojans.",
+      "gods": "Aphrodite,Eris,Athena,Hera",
+      "nongods": "Paris,Helen",
+      "place": "Troy",
+      "theme": "Tragedy and War",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2009/07/trojan-horse1-240x200.jpg"
+    },
+    {
+      "name": "The Myth of Orpheus and Eurydice",
+      "description": "Orpheus was the son of Apollo and Calliope. Apollo gave him the lyre, in which he mastered so beautifully, that he could emotionally move any living or non-living thing. Orpheus eventually fell in love with a woman named Eurydice. One day Eurydice was in the forest and a sheppard saw her and wanted to court her. Afraid, Eurydice ran away but was bitten by a snake and died. Mournful, Eurydice despairingly played the lyre. Touched by the music, the gods offered to help Eurydice go into the Underworld to save Eurydice. Hades was also touched by his music and instructed Orpheus that the shadow of Eurydice would follow him back outside the cave, but that he could not look at her or he would lose her forever. Nearing the end of the cave, Orpheus couldn't hear Eurydice walking behind him so he believed he was being tricked by the gods. He turned around right before the exit of the cave and saw Eurydice's shadow disappear back into the Underworld. Mortified, Eurydice played the lyre to make beasts rip him apart so that he could once again reunite with Eurydice.",
+      "gods": "Apollo,Hades",
+      "nongods": "Orpheus,Eurydice",
+      "place": "Underworld",
+      "theme": "Love and Tragedy",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2009/07/orpheus-eurydice1-240x200.jpg"
+    },
+    {
+      "name": "Pandora's Box",
+      "description": "Pandora was the first woman on earth who was created by Hephaestus as instructed by Zeus. She was created as a punishment to mankind since Prometheus stole fire from the Gods for the humans. The Gods gave her gifts. Aphrodite gave her beauty, Athena taught her crafts, and Hermes gave her the attributes of being deceitful, stubborn, and curious. The Gods then gave her a box, and she was given to Prometheus' brother, Epimetheus. They became married and even though she was told not to open the box, curiosity got to her and when she opened it, illnesses and hardships came out into the world. Afraid, she closed the box, leaving Hope trapped inside.",
+      "gods": "Zeus,Aphrdite,Athena,Hermes,Hephaestus",
+      "nongods": "Pandora,Epimetheus",
+      "place": "Athens",
+      "theme": "Misfortune",
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2009/07/mythology-dreamstime_7605689-Lindom1-240x200.jpg"
+    }
+  ]
+}
