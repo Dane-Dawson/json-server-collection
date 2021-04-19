@@ -1,0 +1,52 @@
+{
+    "characters": [
+      {
+        "id": 1,
+        "name": "Cady Heron",
+        "image": "https://static.wikia.nocookie.net/meangirls/images/d/de/Cady_smiling.jpg/revision/latest/scale-to-width-down/1000?cb=20160126055120",
+        "quote": "'I'm new. I just moved here from Africa.'"
+      },
+      {
+        "id": 2,
+        "name": "Regina George",
+        "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
+        "quote": "'You can take that fake apology, and shove it right up your hairy- [gets hit by a bus]'"
+      },
+      {
+        "id": 3,
+        "name": "Gretchen Wieners",
+        "image": "https://media.giphy.com/media/7wZDqH0oqlm92/giphy.gif",
+        "quote": "'Oh my god, Karen, you can't just ask people why they're white!'"
+      },
+      {
+        "id": 4,
+        "name": "Janis Ian",
+        "image": "https://static.wikia.nocookie.net/meangirls/images/5/54/Janis_Ian.JPG/revision/latest/scale-to-width-down/298?cb=20130403104124",
+        "quote": "'You smell like a baby prostitute.'"
+      },
+      {
+        "id": 5,
+        "name": "Karen Smith",
+        "image": "https://static.wikia.nocookie.net/meangirls/images/c/c2/Karen-Smith-karen-smith-5596613-398-600.jpg/revision/latest/scale-to-width-down/398?cb=20160210155137",
+        "quote": "'My breasts can always tell when it's going to rain.'"
+      },
+      {
+        "id": 6,
+        "name": "Damian",
+        "image": "https://static.wikia.nocookie.net/meangirls/images/8/89/Damien.jpg/revision/latest/scale-to-width-down/500?cb=20130403104017",
+        "quote": "'She doesn't even go here!'"
+      },
+      {
+        "id": 7,
+        "name": "Aaron Samuels",
+        "image": "https://static.wikia.nocookie.net/meangirls/images/c/cc/Aaron_sameuls.gif/revision/latest/scale-to-width-down/320?cb=20130323184745",
+        "quote": "'Stupid girls make up rumors because they're bored with their own lives.'"
+      },
+      {
+        "id": 8,
+        "name": "Ron Duvall",
+        "image": "https://static.wikia.nocookie.net/meangirls/images/7/7f/Duvall.png/revision/latest/scale-to-width-down/786?cb=20140504172656",
+        "quote": "'Miss Smith, why would Regina refer to herself as a...'fugly slut?''"
+      }
+    ]
+  }
