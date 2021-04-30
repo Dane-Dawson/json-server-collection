@@ -1,0 +1,5883 @@
+{
+  "strains": [
+    {
+      "id": 0,
+      "strain": "Acapulco Gold",
+      "species": "sativa",
+      "0": "Acapulco",
+      "1": "Gold",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 1,
+      "strain": "Alaskan Thunder Fuck",
+      "species": "sativa",
+      "0": "Alaskan",
+      "1": "Thunder",
+      "2": "Fuck",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 2,
+      "strain": "Alice in Wonderland",
+      "species": "sativa",
+      "0": "Alice",
+      "1": "in",
+      "2": "Wonderland",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 3,
+      "strain": "Allen Wrench",
+      "species": "sativa",
+      "0": "Allen",
+      "1": "Wrench",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 4,
+      "strain": "Aloha",
+      "species": "sativa",
+      "0": "Aloha",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 5,
+      "strain": "Amnesia",
+      "species": "sativa",
+      "0": "Amnesia",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 6,
+      "strain": "Amnesia Haze",
+      "species": "sativa",
+      "0": "Amnesia",
+      "1": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 7,
+      "strain": "Arabian Gold",
+      "species": "sativa",
+      "0": "Arabian",
+      "1": "Gold",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 8,
+      "strain": "Arjan's Strawberry Haze",
+      "species": "sativa",
+      "0": "Arjan's",
+      "1": "Strawberry",
+      "2": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 9,
+      "strain": "Asian Fantasy",
+      "species": "sativa",
+      "0": "Asian",
+      "1": "Fantasy",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 10,
+      "strain": "Bay 11",
+      "species": "sativa",
+      "0": "Bay",
+      "1": 11,
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 11,
+      "strain": "Berkely",
+      "species": "sativa",
+      "0": "Berkely",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 12,
+      "strain": "Black Diesel",
+      "species": "sativa",
+      "0": "Black",
+      "1": "Diesel",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 13,
+      "strain": "Blue Bayou",
+      "species": "sativa",
+      "0": "Blue",
+      "1": "Bayou",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 14,
+      "strain": "Blue Satellite",
+      "species": "sativa",
+      "0": "Blue",
+      "1": "Satellite",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 15,
+      "strain": "Brainstorm Haze",
+      "species": "sativa",
+      "0": "Brainstorm",
+      "1": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 16,
+      "strain": "Candy Jack",
+      "species": "sativa",
+      "0": "Candy",
+      "1": "Jack",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 17,
+      "strain": "Cannalope Haze",
+      "species": "sativa",
+      "0": "Cannalope",
+      "1": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 18,
+      "strain": "Cat Piss",
+      "species": "sativa",
+      "0": "Cat",
+      "1": "Piss",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 19,
+      "strain": "Charlotte's Web",
+      "species": "sativa",
+      "0": "Charlotte's",
+      "1": "Web",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 20,
+      "strain": "Chocolope",
+      "species": "sativa",
+      "0": "Chocolope",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 21,
+      "strain": "Cracker Jack",
+      "species": "sativa",
+      "0": "Cracker",
+      "1": "Jack",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 22,
+      "strain": "Crystal Coma",
+      "species": "sativa",
+      "0": "Crystal",
+      "1": "Coma",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 23,
+      "strain": "Django",
+      "species": "sativa",
+      "0": "Django",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 24,
+      "strain": "Double Diesel",
+      "species": "sativa",
+      "0": "Double",
+      "1": "Diesel",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 25,
+      "strain": "Dr. Grinspoon",
+      "species": "sativa",
+      "0": "Dr.",
+      "1": "Grinspoon",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 26,
+      "strain": "Durban Poison",
+      "species": "sativa",
+      "0": "Durban",
+      "1": "Poison",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 27,
+      "strain": "Dutch Dragon",
+      "species": "sativa",
+      "0": "Dutch",
+      "1": "Dragon",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 28,
+      "strain": "Dutch Hawaiian",
+      "species": "sativa",
+      "0": "Dutch",
+      "1": "Hawaiian",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 29,
+      "strain": "East Coast Sour Diesel",
+      "species": "sativa",
+      "0": "East",
+      "1": "Coast",
+      "2": "Sour",
+      "3": "Diesel",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 30,
+      "strain": "Fire Haze",
+      "species": "sativa",
+      "0": "Fire",
+      "1": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 31,
+      "strain": "Frostbite",
+      "species": "sativa",
+      "0": "Frostbite",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 32,
+      "strain": "Ghost Train Haze",
+      "species": "sativa",
+      "0": "Ghost",
+      "1": "Train",
+      "2": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 33,
+      "strain": "Goldwing",
+      "species": "sativa",
+      "0": "Goldwing",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 34,
+      "strain": "Grapefruit",
+      "species": "sativa",
+      "0": "Grapefruit",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 35,
+      "strain": "Green Candy",
+      "species": "sativa",
+      "0": "Green",
+      "1": "Candy",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 36,
+      "strain": "Green Crack",
+      "species": "sativa",
+      "0": "Green",
+      "1": "Crack",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 37,
+      "strain": "Green Crack Extreme",
+      "species": "sativa",
+      "0": "Green",
+      "1": "Crack",
+      "2": "Extreme",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 38,
+      "strain": "Green Goblin",
+      "species": "sativa",
+      "0": "Green",
+      "1": "Goblin",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 39,
+      "strain": "Green Haze",
+      "species": "sativa",
+      "0": "Green",
+      "1": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 40,
+      "strain": "G Stik \"Amarillo\"",
+      "species": "sativa",
+      "0": "G",
+      "1": "Stik",
+      "2": "\"Amarillo\"",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 41,
+      "strain": "G Stik \"Rosado\"",
+      "species": "sativa",
+      "0": "G",
+      "1": "Stik",
+      "2": "\"Rosado\"",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 42,
+      "strain": "Hawaiian",
+      "species": "sativa",
+      "0": "Hawaiian",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 43,
+      "strain": "Hawaiian Diesel",
+      "species": "sativa",
+      "0": "Hawaiian",
+      "1": "Diesel",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 44,
+      "strain": "Hawaiian Sativa",
+      "species": "sativa",
+      "0": "Hawaiian",
+      "1": "Sativa",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 45,
+      "strain": "Hawaiian Snow",
+      "species": "sativa",
+      "0": "Hawaiian",
+      "1": "Snow",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 46,
+      "strain": "Haze",
+      "species": "sativa",
+      "0": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 47,
+      "strain": "Haze Wreck",
+      "species": "sativa",
+      "0": "Haze",
+      "1": "Wreck",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 48,
+      "strain": "Hempstar",
+      "species": "sativa",
+      "0": "Hempstar",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 49,
+      "strain": "Hydro Green Crack",
+      "species": "sativa",
+      "0": "Hydro",
+      "1": "Green",
+      "2": "Crack",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 50,
+      "strain": "Island Sweet Skunk",
+      "species": "sativa",
+      "0": "Island",
+      "1": "Sweet",
+      "2": "Skunk",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 51,
+      "strain": "J-27",
+      "species": "sativa",
+      "0": "J-27",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 52,
+      "strain": "Jack Herer",
+      "species": "sativa",
+      "0": "Jack",
+      "1": "Herer",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 53,
+      "strain": "Jack Skellington",
+      "species": "sativa",
+      "0": "Jack",
+      "1": "Skellington",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 54,
+      "strain": "Jack Wreck",
+      "species": "sativa",
+      "0": "Jack",
+      "1": "Wreck",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 55,
+      "strain": "Jamaican Pearl",
+      "species": "sativa",
+      "0": "Jamaican",
+      "1": "Pearl",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 56,
+      "strain": "Jean Guy",
+      "species": "sativa",
+      "0": "Jean",
+      "1": "Guy",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 57,
+      "strain": "Johnny's Tonic",
+      "species": "sativa",
+      "0": "Johnny's",
+      "1": "Tonic",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 58,
+      "strain": "Kaboom",
+      "species": "sativa",
+      "0": "Kaboom",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 59,
+      "strain": "Kali Mist",
+      "species": "sativa",
+      "0": "Kali",
+      "1": "Mist",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 60,
+      "strain": "Killing Fields",
+      "species": "sativa",
+      "0": "Killing",
+      "1": "Fields",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 61,
+      "strain": "King's Bread",
+      "species": "sativa",
+      "0": "King's",
+      "1": "Bread",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 62,
+      "strain": "Lamb's Bread",
+      "species": "sativa",
+      "0": "Lamb's",
+      "1": "Bread",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 63,
+      "strain": "Laughing Buddha",
+      "species": "sativa",
+      "0": "Laughing",
+      "1": "Buddha",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 64,
+      "strain": "Lemon Haze",
+      "species": "sativa",
+      "0": "Lemon",
+      "1": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 65,
+      "strain": "Lemon Jack",
+      "species": "sativa",
+      "0": "Lemon",
+      "1": "Jack",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 66,
+      "strain": "Lemon G",
+      "species": "sativa",
+      "0": "Lemon",
+      "1": "G",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 67,
+      "strain": "Lemon Sativa",
+      "species": "sativa",
+      "0": "Lemon",
+      "1": "Sativa",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 68,
+      "strain": "Lemon Thai",
+      "species": "sativa",
+      "0": "Lemon",
+      "1": "Thai",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 69,
+      "strain": "Mako Haze",
+      "species": "sativa",
+      "0": "Mako",
+      "1": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 70,
+      "strain": "Malawi",
+      "species": "sativa",
+      "0": "Malawi",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 71,
+      "strain": "Mango Dream",
+      "species": "sativa",
+      "0": "Mango",
+      "1": "Dream",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 72,
+      "strain": "Maui",
+      "species": "sativa",
+      "0": "Maui",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 73,
+      "strain": "Maui Waui",
+      "species": "sativa",
+      "0": "Maui",
+      "1": "Waui",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 74,
+      "strain": "Mexican Sativa",
+      "species": "sativa",
+      "0": "Mexican",
+      "1": "Sativa",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 75,
+      "strain": "Moby Dick",
+      "species": "sativa",
+      "0": "Moby",
+      "1": "Dick",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 76,
+      "strain": "Mother's Finest",
+      "species": "sativa",
+      "0": "Mother's",
+      "1": "Finest",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 77,
+      "strain": "Nevil's Wreck",
+      "species": "sativa",
+      "0": "Nevil's",
+      "1": "Wreck",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 78,
+      "strain": "OCD",
+      "species": "sativa",
+      "0": "OCD",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 79,
+      "strain": "OG",
+      "species": "sativa",
+      "0": "OG",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 80,
+      "strain": "Outer Space",
+      "species": "sativa",
+      "0": "Outer",
+      "1": "Space",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 81,
+      "strain": "Panama Red",
+      "species": "sativa",
+      "0": "Panama",
+      "1": "Red",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 82,
+      "strain": "Pandora's Box",
+      "species": "sativa",
+      "0": "Pandora's",
+      "1": "Box",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 83,
+      "strain": "Poison Haze",
+      "species": "sativa",
+      "0": "Poison",
+      "1": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 84,
+      "strain": "Purple Haze",
+      "species": "sativa",
+      "0": "Purple",
+      "1": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 85,
+      "strain": "Q3",
+      "species": "sativa",
+      "0": "Q3",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 86,
+      "strain": "Qleaner",
+      "species": "sativa",
+      "0": "Qleaner",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 87,
+      "strain": "Rafael",
+      "species": "sativa",
+      "0": "Rafael",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 88,
+      "strain": "Red Congolese",
+      "species": "sativa",
+      "0": "Red",
+      "1": "Congolese",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 89,
+      "strain": "Red Haze",
+      "species": "sativa",
+      "0": "Red",
+      "1": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 90,
+      "strain": "Rene",
+      "species": "sativa",
+      "0": "Rene",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 91,
+      "strain": "Root Beer Kush",
+      "species": "sativa",
+      "0": "Root",
+      "1": "Beer",
+      "2": "Kush",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 92,
+      "strain": "Sage N Sour",
+      "species": "sativa",
+      "0": "Sage",
+      "1": "N",
+      "2": "Sour",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 93,
+      "strain": "Shaman",
+      "species": "sativa",
+      "0": "Shaman",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 94,
+      "strain": "Shangri La OG",
+      "species": "sativa",
+      "0": "Shangri",
+      "1": "La",
+      "2": "OG",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 95,
+      "strain": "Shipwreck",
+      "species": "sativa",
+      "0": "Shipwreck",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 96,
+      "strain": "Silver Haze",
+      "species": "sativa",
+      "0": "Silver",
+      "1": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 97,
+      "strain": "Skunk #1",
+      "species": "sativa",
+      "0": "Skunk",
+      "1": "#1",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 98,
+      "strain": "Sour Chocolate",
+      "species": "sativa",
+      "0": "Sour",
+      "1": "Chocolate",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 99,
+      "strain": "Sour Diesel",
+      "species": "sativa",
+      "0": "Sour",
+      "1": "Diesel",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 100,
+      "strain": "Sour Flower",
+      "species": "sativa",
+      "0": "Sour",
+      "1": "Flower",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 101,
+      "strain": "Sour Haze",
+      "species": "sativa",
+      "0": "Sour",
+      "1": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 102,
+      "strain": "Sour Tangie",
+      "species": "sativa",
+      "0": "Sour",
+      "1": "Tangie",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 103,
+      "strain": "Strawberry",
+      "species": "sativa",
+      "0": "Strawberry",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 104,
+      "strain": "Sugar Plum",
+      "species": "sativa",
+      "0": "Sugar",
+      "1": "Plum",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 105,
+      "strain": "Super Cat Piss",
+      "species": "sativa",
+      "0": "Super",
+      "1": "Cat",
+      "2": "Piss",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 106,
+      "strain": "Super Green Crack",
+      "species": "sativa",
+      "0": "Super",
+      "1": "Green",
+      "2": "Crack",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 107,
+      "strain": "Super Silver Haze",
+      "species": "sativa",
+      "0": "Super",
+      "1": "Silver",
+      "2": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 108,
+      "strain": "Super Snow Dog",
+      "species": "sativa",
+      "0": "Super",
+      "1": "Snow",
+      "2": "Dog",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 109,
+      "strain": "Super Sour Diesel",
+      "species": "sativa",
+      "0": "Super",
+      "1": "Sour",
+      "2": "Diesel",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 110,
+      "strain": "Sweet Diesel",
+      "species": "sativa",
+      "0": "Sweet",
+      "1": "Diesel",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 111,
+      "strain": "Tangie",
+      "species": "sativa",
+      "0": "Tangie",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 112,
+      "strain": "Thai",
+      "species": "sativa",
+      "0": "Thai",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 113,
+      "strain": "Thai Haze",
+      "species": "sativa",
+      "0": "Thai",
+      "1": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 114,
+      "strain": "Timewreck",
+      "species": "sativa",
+      "0": "Timewreck",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 115,
+      "strain": "Triple Diesel",
+      "species": "sativa",
+      "0": "Triple",
+      "1": "Diesel",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 116,
+      "strain": "Twista",
+      "species": "sativa",
+      "0": "Twista",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 117,
+      "strain": "Ultimate Trainwreck",
+      "species": "sativa",
+      "0": "Ultimate",
+      "1": "Trainwreck",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 118,
+      "strain": "Venice OG",
+      "species": "sativa",
+      "0": "Venice",
+      "1": "OG",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 119,
+      "strain": "Very Berry Haze",
+      "species": "sativa",
+      "0": "Very",
+      "1": "Berry",
+      "2": "Haze",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 120,
+      "strain": "Voodoo",
+      "species": "sativa",
+      "0": "Voodoo",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 121,
+      "strain": "Vortex",
+      "species": "sativa",
+      "0": "Vortex",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 122,
+      "strain": "Waipi'o Hapa",
+      "species": "sativa",
+      "0": "Waipi'o",
+      "1": "Hapa",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 123,
+      "strain": "Willie Nelson",
+      "species": "sativa",
+      "0": "Willie",
+      "1": "Nelson",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 124,
+      "strain": "Willy Wonka",
+      "species": "sativa",
+      "0": "Willy",
+      "1": "Wonka",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 125,
+      "strain": "Y Griega",
+      "species": "sativa",
+      "0": "Y",
+      "1": "Griega",
+      "detailed_species": "sativa"
+    },
+    {
+      "id": 126,
+      "strain": "3X Crazy",
+      "species": "indica",
+      "0": "3X",
+      "1": "Crazy",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 127,
+      "strain": "8 Ball Kush",
+      "species": "indica",
+      "0": 8,
+      "1": "Ball",
+      "2": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 128,
+      "strain": "A-10",
+      "species": "indica",
+      "0": "A-10",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 129,
+      "strain": "Abusive OG",
+      "species": "indica",
+      "0": "Abusive",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 130,
+      "strain": "Afghani",
+      "species": "indica",
+      "0": "Afghani",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 131,
+      "strain": "Afghani Bullrider",
+      "species": "indica",
+      "0": "Afghani",
+      "1": "Bullrider",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 132,
+      "strain": "Afghan Kush",
+      "species": "indica",
+      "0": "Afghan",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 133,
+      "strain": "Afghan Skunk",
+      "species": "indica",
+      "0": "Afghan",
+      "1": "Skunk",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 134,
+      "strain": "Afgoo",
+      "species": "indica",
+      "0": "Afgoo",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 135,
+      "strain": "Afgooey",
+      "species": "indica",
+      "0": "Afgooey",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 136,
+      "strain": "Alien Dawg",
+      "species": "indica",
+      "0": "Alien",
+      "1": "Dawg",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 137,
+      "strain": "Alien Kush",
+      "species": "indica",
+      "0": "Alien",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 138,
+      "strain": "Ancient OG",
+      "species": "indica",
+      "0": "Ancient",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 139,
+      "strain": "Anesthesia",
+      "species": "indica",
+      "0": "Anesthesia",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 140,
+      "strain": "Aurora Indica",
+      "species": "indica",
+      "0": "Aurora",
+      "1": "Indica",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 141,
+      "strain": "Banana Candy",
+      "species": "indica",
+      "0": "Banana",
+      "1": "Candy",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 142,
+      "strain": "Banana Kush",
+      "species": "indica",
+      "0": "Banana",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 143,
+      "strain": "Barbara Bud",
+      "species": "indica",
+      "0": "Barbara",
+      "1": "Bud",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 144,
+      "strain": "Berry Noir",
+      "species": "indica",
+      "0": "Berry",
+      "1": "Noir",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 145,
+      "strain": "Big Bud",
+      "species": "indica",
+      "0": "Big",
+      "1": "Bud",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 146,
+      "strain": "Blackberry Hashplant",
+      "species": "indica",
+      "0": "Blackberry",
+      "1": "Hashplant",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 147,
+      "strain": "Blackberry Kush",
+      "species": "indica",
+      "0": "Blackberry",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 148,
+      "strain": "Black Cherry Soda",
+      "species": "indica",
+      "0": "Black",
+      "1": "Cherry",
+      "2": "Soda",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 149,
+      "strain": "Black Diamond",
+      "species": "indica",
+      "0": "Black",
+      "1": "Diamond",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 150,
+      "strain": "Black Label Kush",
+      "species": "indica",
+      "0": "Black",
+      "1": "Label",
+      "2": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 151,
+      "strain": "Blackwater",
+      "species": "indica",
+      "0": "Blackwater",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 152,
+      "strain": "Blueberry",
+      "species": "indica",
+      "0": "Blueberry",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 153,
+      "strain": "Blueberry Kush",
+      "species": "indica",
+      "0": "Blueberry",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 154,
+      "strain": "Blueberry Waltz",
+      "species": "indica",
+      "0": "Blueberry",
+      "1": "Waltz",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 155,
+      "strain": "Blue Cheese",
+      "species": "indica",
+      "0": "Blue",
+      "1": "Cheese",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 156,
+      "strain": "Blue God",
+      "species": "indica",
+      "0": "Blue",
+      "1": "God",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 157,
+      "strain": "Blue Moonshine",
+      "species": "indica",
+      "0": "Blue",
+      "1": "Moonshine",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 158,
+      "strain": "Bubba Kush",
+      "species": "indica",
+      "0": "Bubba",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 159,
+      "strain": "Bubba OG",
+      "species": "indica",
+      "0": "Bubba",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 160,
+      "strain": "Buddha's Sister",
+      "species": "indica",
+      "0": "Buddha's",
+      "1": "Sister",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 161,
+      "strain": "Butterscotch",
+      "species": "indica",
+      "0": "Butterscotch",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 162,
+      "strain": "Candy Cane",
+      "species": "indica",
+      "0": "Candy",
+      "1": "Cane",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 163,
+      "strain": "Cactus",
+      "species": "indica",
+      "0": "Cactus",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 164,
+      "strain": "Cadillac Purple",
+      "species": "indica",
+      "0": "Cadillac",
+      "1": "Purple",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 165,
+      "strain": "Cheese Quake",
+      "species": "indica",
+      "0": "Cheese",
+      "1": "Quake",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 166,
+      "strain": "Chem Scout",
+      "species": "indica",
+      "0": "Chem",
+      "1": "Scout",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 167,
+      "strain": "Cherry Kola",
+      "species": "indica",
+      "0": "Cherry",
+      "1": "Kola",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 168,
+      "strain": "Chocolate Chunk",
+      "species": "indica",
+      "0": "Chocolate",
+      "1": "Chunk",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 169,
+      "strain": "Church OG",
+      "species": "indica",
+      "0": "Church",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 170,
+      "strain": "Corleone Kush",
+      "species": "indica",
+      "0": "Corleone",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 171,
+      "strain": "Critical Mass",
+      "species": "indica",
+      "0": "Critical",
+      "1": "Mass",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 172,
+      "strain": "Danky Doodle",
+      "species": "indica",
+      "0": "Danky",
+      "1": "Doodle",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 173,
+      "strain": "Dark Star",
+      "species": "indica",
+      "0": "Dark",
+      "1": "Star",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 174,
+      "strain": "Darth Vader OG",
+      "species": "indica",
+      "0": "Darth",
+      "1": "Vader",
+      "2": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 175,
+      "strain": "Death Star",
+      "species": "indica",
+      "0": "Death",
+      "1": "Star",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 176,
+      "strain": "Death Star OG",
+      "species": "indica",
+      "0": "Death",
+      "1": "Star",
+      "2": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 177,
+      "strain": "Deep Purple",
+      "species": "indica",
+      "0": "Deep",
+      "1": "Purple",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 178,
+      "strain": "Denver Maple",
+      "species": "indica",
+      "0": "Denver",
+      "1": "Maple",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 179,
+      "strain": "Devil Fruit",
+      "species": "indica",
+      "0": "Devil",
+      "1": "Fruit",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 180,
+      "strain": "Diablo",
+      "species": "indica",
+      "0": "Diablo",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 181,
+      "strain": "Diamond OG",
+      "species": "indica",
+      "0": "Diamond",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 182,
+      "strain": "Digweed",
+      "species": "indica",
+      "0": "Digweed",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 183,
+      "strain": "DJ Short Blueberry",
+      "species": "indica",
+      "0": "DJ",
+      "1": "Short",
+      "2": "Blueberry",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 184,
+      "strain": "Domino",
+      "species": "indica",
+      "0": "Domino",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 185,
+      "strain": "Dynamite",
+      "species": "indica",
+      "0": "Dynamite",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 186,
+      "strain": "Edelweiss",
+      "species": "indica",
+      "0": "Edelweiss",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 187,
+      "strain": "El Jeffe",
+      "species": "indica",
+      "0": "El",
+      "1": "Jeffe",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 188,
+      "strain": "Enigma",
+      "species": "indica",
+      "0": "Enigma",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 189,
+      "strain": "Endless Sky",
+      "species": "indica",
+      "0": "Endless",
+      "1": "Sky",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 190,
+      "strain": "Eran Almog",
+      "species": "indica",
+      "0": "Eran",
+      "1": "Almog",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 191,
+      "strain": "Freezeland",
+      "species": "indica",
+      "0": "Freezeland",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 192,
+      "strain": "Frosty",
+      "species": "indica",
+      "0": "Frosty",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 193,
+      "strain": "Fucking Incredible",
+      "species": "indica",
+      "0": "Fucking",
+      "1": "Incredible",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 194,
+      "strain": "Funky Monkey",
+      "species": "indica",
+      "0": "Funky",
+      "1": "Monkey",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 195,
+      "strain": "G13",
+      "species": "indica",
+      "0": "G13",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 196,
+      "strain": "Godberry",
+      "species": "indica",
+      "0": "Godberry",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 197,
+      "strain": "God Bud",
+      "species": "indica",
+      "0": "God",
+      "1": "Bud",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 198,
+      "strain": "Godfather OG",
+      "species": "indica",
+      "0": "Godfather",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 199,
+      "strain": "God's Gift",
+      "species": "indica",
+      "0": "God's",
+      "1": "Gift",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 200,
+      "strain": "Gog & Magog",
+      "species": "indica",
+      "0": "Gog",
+      "1": "&",
+      "2": "Magog",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 201,
+      "strain": "Granddaddy Purple",
+      "species": "indica",
+      "0": "Granddaddy",
+      "1": "Purple",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 202,
+      "strain": "Grand Hindu",
+      "species": "indica",
+      "0": "Grand",
+      "1": "Hindu",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 203,
+      "strain": "Grape Ape",
+      "species": "indica",
+      "0": "Grape",
+      "1": "Ape",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 204,
+      "strain": "Grape Crush",
+      "species": "indica",
+      "0": "Grape",
+      "1": "Crush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 205,
+      "strain": "Grape Skunk",
+      "species": "indica",
+      "0": "Grape",
+      "1": "Skunk",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 206,
+      "strain": "Gravity",
+      "species": "indica",
+      "0": "Gravity",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 207,
+      "strain": "G Stik \"RED\"",
+      "species": "indica",
+      "0": "G",
+      "1": "Stik",
+      "2": "\"RED\"",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 208,
+      "strain": "G Stik \"Violeta\"",
+      "species": "indica",
+      "0": "G",
+      "1": "Stik",
+      "2": "\"Violeta\"",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 209,
+      "strain": "Guido Kush",
+      "species": "indica",
+      "0": "Guido",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 210,
+      "strain": "Gumbo",
+      "species": "indica",
+      "0": "Gumbo",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 211,
+      "strain": "Haoma",
+      "species": "indica",
+      "0": "Haoma",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 212,
+      "strain": "Hashberry",
+      "species": "indica",
+      "0": "Hashberry",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 213,
+      "strain": "Hash Plant",
+      "species": "indica",
+      "0": "Hash",
+      "1": "Plant",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 214,
+      "strain": "Hawaiian Delight",
+      "species": "indica",
+      "0": "Hawaiian",
+      "1": "Delight",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 215,
+      "strain": "Herojuana",
+      "species": "indica",
+      "0": "Herojuana",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 216,
+      "strain": "Hindu Kush",
+      "species": "indica",
+      "0": "Hindu",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 217,
+      "strain": "Hog",
+      "species": "indica",
+      "0": "Hog",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 218,
+      "strain": "Hog's Breath",
+      "species": "indica",
+      "0": "Hog's",
+      "1": "Breath",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 219,
+      "strain": "Hollands Hope",
+      "species": "indica",
+      "0": "Hollands",
+      "1": "Hope",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 220,
+      "strain": "Ingrid",
+      "species": "indica",
+      "0": "Ingrid",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 221,
+      "strain": "Jagermeister",
+      "species": "indica",
+      "0": "Jagermeister",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 222,
+      "strain": "Jesus OG",
+      "species": "indica",
+      "0": "Jesus",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 223,
+      "strain": "JT15",
+      "species": "indica",
+      "0": "JT15",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 224,
+      "strain": "Jupiter Kush",
+      "species": "indica",
+      "0": "Jupiter",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 225,
+      "strain": "Jupiter OG",
+      "species": "indica",
+      "0": "Jupiter",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 226,
+      "strain": "K Train",
+      "species": "indica",
+      "0": "K",
+      "1": "Train",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 227,
+      "strain": "Kandahar",
+      "species": "indica",
+      "0": "Kandahar",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 228,
+      "strain": "King Kush",
+      "species": "indica",
+      "0": "King",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 229,
+      "strain": "King Louis",
+      "species": "indica",
+      "0": "King",
+      "1": "Louis",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 230,
+      "strain": "Kosher Kush",
+      "species": "indica",
+      "0": "Kosher",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 231,
+      "strain": "Kryptonite",
+      "species": "indica",
+      "0": "Kryptonite",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 232,
+      "strain": "Kushadelic",
+      "species": "indica",
+      "0": "Kushadelic",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 233,
+      "strain": "Kush Berry",
+      "species": "indica",
+      "0": "Kush",
+      "1": "Berry",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 234,
+      "strain": "LA OG",
+      "species": "indica",
+      "0": "LA",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 235,
+      "strain": "Larry OG",
+      "species": "indica",
+      "0": "Larry",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 236,
+      "strain": "Lavender Kush",
+      "species": "indica",
+      "0": "Lavender",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 237,
+      "strain": "Lemon OG",
+      "species": "indica",
+      "0": "Lemon",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 238,
+      "strain": "Lions Gate",
+      "species": "indica",
+      "0": "Lions",
+      "1": "Gate",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 239,
+      "strain": "Liquid Butter",
+      "species": "indica",
+      "0": "Liquid",
+      "1": "Butter",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 240,
+      "strain": "Louis XIII",
+      "species": "indica",
+      "0": "Louis",
+      "1": "XIII",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 241,
+      "strain": "Madagascar",
+      "species": "indica",
+      "0": "Madagascar",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 242,
+      "strain": "Mango",
+      "species": "indica",
+      "0": "Mango",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 243,
+      "strain": "Maple Leaf Indica",
+      "species": "indica",
+      "0": "Maple",
+      "1": "Leaf",
+      "2": "Indica",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 244,
+      "strain": "Mars OG",
+      "species": "indica",
+      "0": "Mars",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 245,
+      "strain": "Master Bubba",
+      "species": "indica",
+      "0": "Master",
+      "1": "Bubba",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 246,
+      "strain": "Master Jedi",
+      "species": "indica",
+      "0": "Master",
+      "1": "Jedi",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 247,
+      "strain": "Master Kush",
+      "species": "indica",
+      "0": "Master",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 248,
+      "strain": "Matsu",
+      "species": "indica",
+      "0": "Matsu",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 249,
+      "strain": "Mazar I Sharif",
+      "species": "indica",
+      "0": "Mazar",
+      "1": "I",
+      "2": "Sharif",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 250,
+      "strain": "Mercury OG",
+      "species": "indica",
+      "0": "Mercury",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 251,
+      "strain": "Misty Kush",
+      "species": "indica",
+      "0": "Misty",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 252,
+      "strain": "MK Ultra",
+      "species": "indica",
+      "0": "MK",
+      "1": "Ultra",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 253,
+      "strain": "Mossimo OG",
+      "species": "indica",
+      "0": "Mossimo",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 254,
+      "strain": "Mr. Nice",
+      "species": "indica",
+      "0": "Mr.",
+      "1": "Nice",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 255,
+      "strain": "Negra 44",
+      "species": "indica",
+      "0": "Negra",
+      "1": 44,
+      "detailed_species": "indica"
+    },
+    {
+      "id": 256,
+      "strain": "Neptune Kush",
+      "species": "indica",
+      "0": "Neptune",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 257,
+      "strain": "Neptune OG",
+      "species": "indica",
+      "0": "Neptune",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 258,
+      "strain": "Nordle",
+      "species": "indica",
+      "0": "Nordle",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 259,
+      "strain": "Northern Lights",
+      "species": "indica",
+      "0": "Northern",
+      "1": "Lights",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 260,
+      "strain": "Nuggetry OG",
+      "species": "indica",
+      "0": "Nuggetry",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 261,
+      "strain": "Obama Kush",
+      "species": "indica",
+      "0": "Obama",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 262,
+      "strain": "OG Eddy Lepp",
+      "species": "indica",
+      "0": "OG",
+      "1": "Eddy",
+      "2": "Lepp",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 263,
+      "strain": "Paris OG",
+      "species": "indica",
+      "0": "Paris",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 264,
+      "strain": "Pennywise",
+      "species": "indica",
+      "0": "Pennywise",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 265,
+      "strain": "Pineapple Thai",
+      "species": "indica",
+      "0": "Pineapple",
+      "1": "Thai",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 266,
+      "strain": "Pitbull",
+      "species": "indica",
+      "0": "Pitbull",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 267,
+      "strain": "Platinum Bubba",
+      "species": "indica",
+      "0": "Platinum",
+      "1": "Bubba",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 268,
+      "strain": "Platinum Bubba Kush",
+      "species": "indica",
+      "0": "Platinum",
+      "1": "Bubba",
+      "2": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 269,
+      "strain": "Platinum Kush",
+      "species": "indica",
+      "0": "Platinum",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 270,
+      "strain": "Platinum OG",
+      "species": "indica",
+      "0": "Platinum",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 271,
+      "strain": "Platinum Purple Kush",
+      "species": "indica",
+      "0": "Platinum",
+      "1": "Purple",
+      "2": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 272,
+      "strain": "Plushberry",
+      "species": "indica",
+      "0": "Plushberry",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 273,
+      "strain": "Pluto Kush",
+      "species": "indica",
+      "0": "Pluto",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 274,
+      "strain": "Popcorn Kush",
+      "species": "indica",
+      "0": "Popcorn",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 275,
+      "strain": "Pot of Gold",
+      "species": "indica",
+      "0": "Pot",
+      "1": "of",
+      "2": "Gold",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 276,
+      "strain": "Power Kush",
+      "species": "indica",
+      "0": "Power",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 277,
+      "strain": "Presidential OG",
+      "species": "indica",
+      "0": "Presidential",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 278,
+      "strain": "Pure Kush",
+      "species": "indica",
+      "0": "Pure",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 279,
+      "strain": "Pure OG",
+      "species": "indica",
+      "0": "Pure",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 280,
+      "strain": "Purple Afghani",
+      "species": "indica",
+      "0": "Purple",
+      "1": "Afghani",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 281,
+      "strain": "Purple Berry",
+      "species": "indica",
+      "0": "Purple",
+      "1": "Berry",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 282,
+      "strain": "Purple Candy",
+      "species": "indica",
+      "0": "Purple",
+      "1": "Candy",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 283,
+      "strain": "Purple Cream",
+      "species": "indica",
+      "0": "Purple",
+      "1": "Cream",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 284,
+      "strain": "Purple Dragon",
+      "species": "indica",
+      "0": "Purple",
+      "1": "Dragon",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 285,
+      "strain": "Purple Goo",
+      "species": "indica",
+      "0": "Purple",
+      "1": "Goo",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 286,
+      "strain": "Purple Kush",
+      "species": "indica",
+      "0": "Purple",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 287,
+      "strain": "Purple Mr. Nice",
+      "species": "indica",
+      "0": "Purple",
+      "1": "Mr.",
+      "2": "Nice",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 288,
+      "strain": "Purple Nepal",
+      "species": "indica",
+      "0": "Purple",
+      "1": "Nepal",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 289,
+      "strain": "Purple OG Kush",
+      "species": "indica",
+      "0": "Purple",
+      "1": "OG",
+      "2": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 290,
+      "strain": "Purple Passion",
+      "species": "indica",
+      "0": "Purple",
+      "1": "Passion",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 291,
+      "strain": "Purple Tonic",
+      "species": "indica",
+      "0": "Purple",
+      "1": "Tonic",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 292,
+      "strain": "Purple Urkle",
+      "species": "indica",
+      "0": "Purple",
+      "1": "Urkle",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 293,
+      "strain": "Purple Wreck",
+      "species": "indica",
+      "0": "Purple",
+      "1": "Wreck",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 294,
+      "strain": "Pre-98 Bubba Kush",
+      "species": "indica",
+      "0": "Pre-98",
+      "1": "Bubba",
+      "2": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 295,
+      "strain": "PVC OG",
+      "species": "indica",
+      "0": "PVC",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 296,
+      "strain": "Raspberry Kush",
+      "species": "indica",
+      "0": "Raspberry",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 297,
+      "strain": "Red Dwarf",
+      "species": "indica",
+      "0": "Red",
+      "1": "Dwarf",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 298,
+      "strain": "Red Eye OG",
+      "species": "indica",
+      "0": "Red",
+      "1": "Eye",
+      "2": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 299,
+      "strain": "Redwood Kush",
+      "species": "indica",
+      "0": "Redwood",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 300,
+      "strain": "Remedy",
+      "species": "indica",
+      "0": "Remedy",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 301,
+      "strain": "Rockstar",
+      "species": "indica",
+      "0": "Rockstar",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 302,
+      "strain": "Rockstar Master Kush",
+      "species": "indica",
+      "0": "Rockstar",
+      "1": "Master",
+      "2": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 303,
+      "strain": "Romulan",
+      "species": "indica",
+      "0": "Romulan",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 304,
+      "strain": "Seattle Blue",
+      "species": "indica",
+      "0": "Seattle",
+      "1": "Blue",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 305,
+      "strain": "Sensi Star",
+      "species": "indica",
+      "0": "Sensi",
+      "1": "Star",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 306,
+      "strain": "Shark Shock",
+      "species": "indica",
+      "0": "Shark",
+      "1": "Shock",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 307,
+      "strain": "Silverback Gorilla",
+      "species": "indica",
+      "0": "Silverback",
+      "1": "Gorilla",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 308,
+      "strain": "Skywalker",
+      "species": "indica",
+      "0": "Skywalker",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 309,
+      "strain": "Snow Monster",
+      "species": "indica",
+      "0": "Snow",
+      "1": "Monster",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 310,
+      "strain": "Somango",
+      "species": "indica",
+      "0": "Somango",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 311,
+      "strain": "South Central LA",
+      "species": "indica",
+      "0": "South",
+      "1": "Central",
+      "2": "LA",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 312,
+      "strain": "Space Dawg",
+      "species": "indica",
+      "0": "Space",
+      "1": "Dawg",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 313,
+      "strain": "Strawberry Kush",
+      "species": "indica",
+      "0": "Strawberry",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 314,
+      "strain": "Sunshine Daydream",
+      "species": "indica",
+      "0": "Sunshine",
+      "1": "Daydream",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 315,
+      "strain": "Super Kush",
+      "species": "indica",
+      "0": "Super",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 316,
+      "strain": "Superman OG",
+      "species": "indica",
+      "0": "Superman",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 317,
+      "strain": "Super Skunk",
+      "species": "indica",
+      "0": "Super",
+      "1": "Skunk",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 318,
+      "strain": "Tahoe OG",
+      "species": "indica",
+      "0": "Tahoe",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 319,
+      "strain": "Taliban Poison",
+      "species": "indica",
+      "0": "Taliban",
+      "1": "Poison",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 320,
+      "strain": "Tangerine Kush",
+      "species": "indica",
+      "0": "Tangerine",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 321,
+      "strain": "True OG",
+      "species": "indica",
+      "0": "True",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 322,
+      "strain": "UW",
+      "species": "indica",
+      "0": "UW",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 323,
+      "strain": "Vanilla Kush",
+      "species": "indica",
+      "0": "Vanilla",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 324,
+      "strain": "Violator Kush",
+      "species": "indica",
+      "0": "Violator",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 325,
+      "strain": "White Kush",
+      "species": "indica",
+      "0": "White",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 326,
+      "strain": "White OG",
+      "species": "indica",
+      "0": "White",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 327,
+      "strain": "Wonder Woman OG",
+      "species": "indica",
+      "0": "Wonder",
+      "1": "Woman",
+      "2": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 328,
+      "strain": "Woody Kush",
+      "species": "indica",
+      "0": "Woody",
+      "1": "Kush",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 329,
+      "strain": "XXX 420",
+      "species": "indica",
+      "0": "XXX",
+      "1": 420,
+      "detailed_species": "indica"
+    },
+    {
+      "id": 330,
+      "strain": "XXX OG",
+      "species": "indica",
+      "0": "XXX",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 331,
+      "strain": "Yoda OG",
+      "species": "indica",
+      "0": "Yoda",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 332,
+      "strain": "Yumboldt",
+      "species": "indica",
+      "0": "Yumboldt",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 333,
+      "strain": "Zombie OG",
+      "species": "indica",
+      "0": "Zombie",
+      "1": "OG",
+      "detailed_species": "indica"
+    },
+    {
+      "id": 334,
+      "strain": "ACDC",
+      "species": "hybrid",
+      "0": "ACDC",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 335,
+      "strain": "Afwreck",
+      "species": "hybrid",
+      "0": "Afwreck",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 336,
+      "strain": "Alaska",
+      "species": "hybrid",
+      "0": "Alaska",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 337,
+      "strain": "Avi-Dekel",
+      "species": "hybrid",
+      "0": "Avi-Dekel",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 338,
+      "strain": "Banana Diesel",
+      "species": "hybrid",
+      "0": "Banana",
+      "1": "Diesel",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 339,
+      "strain": "Belladonna",
+      "species": "hybrid",
+      "0": "Belladonna",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 340,
+      "strain": "Blue Champagne",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Champagne",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 341,
+      "strain": "Blue Diamond",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Diamond",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 342,
+      "strain": "Blue Dream",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Dream",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 343,
+      "strain": "Blue Goo",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Goo",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 344,
+      "strain": "Blue Haze",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Haze",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 345,
+      "strain": "Candyland",
+      "species": "hybrid",
+      "0": "Candyland",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 346,
+      "strain": "Cinderella 99",
+      "species": "hybrid",
+      "0": "Cinderella",
+      "1": 99,
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 347,
+      "strain": "Double Dream",
+      "species": "hybrid",
+      "0": "Double",
+      "1": "Dream",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 348,
+      "strain": "Dream Star",
+      "species": "hybrid",
+      "0": "Dream",
+      "1": "Star",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 349,
+      "strain": "Duke Nukem",
+      "species": "hybrid",
+      "0": "Duke",
+      "1": "Nukem",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 350,
+      "strain": "Fruit Spirit",
+      "species": "hybrid",
+      "0": "Fruit",
+      "1": "Spirit",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 351,
+      "strain": "Glass Slipper",
+      "species": "hybrid",
+      "0": "Glass",
+      "1": "Slipper",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 352,
+      "strain": "Green Dream",
+      "species": "hybrid",
+      "0": "Green",
+      "1": "Dream",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 353,
+      "strain": "Hashplant Haze",
+      "species": "hybrid",
+      "0": "Hashplant",
+      "1": "Haze",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 354,
+      "strain": "Hawaiian Fire",
+      "species": "hybrid",
+      "0": "Hawaiian",
+      "1": "Fire",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 355,
+      "strain": "Hawaiian Skunk",
+      "species": "hybrid",
+      "0": "Hawaiian",
+      "1": "Skunk",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 356,
+      "strain": "Headbanger",
+      "species": "hybrid",
+      "0": "Headbanger",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 357,
+      "strain": "Head Cheese",
+      "species": "hybrid",
+      "0": "Head",
+      "1": "Cheese",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 358,
+      "strain": "Hippie Crippler",
+      "species": "hybrid",
+      "0": "Hippie",
+      "1": "Crippler",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 359,
+      "strain": "Hong Kong",
+      "species": "hybrid",
+      "0": "Hong",
+      "1": "Kong",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 360,
+      "strain": "Huckleberry",
+      "species": "hybrid",
+      "0": "Huckleberry",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 361,
+      "strain": "Humboldt",
+      "species": "hybrid",
+      "0": "Humboldt",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 362,
+      "strain": "J1",
+      "species": "hybrid",
+      "0": "J1",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 363,
+      "strain": "Jack Haze",
+      "species": "hybrid",
+      "0": "Jack",
+      "1": "Haze",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 364,
+      "strain": "Jack's Cleaner",
+      "species": "hybrid",
+      "0": "Jack's",
+      "1": "Cleaner",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 365,
+      "strain": "Jack Widow",
+      "species": "hybrid",
+      "0": "Jack",
+      "1": "Widow",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 366,
+      "strain": "Jane Doe",
+      "species": "hybrid",
+      "0": "Jane",
+      "1": "Doe",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 367,
+      "strain": "Juliet",
+      "species": "hybrid",
+      "0": "Juliet",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 368,
+      "strain": "K1",
+      "species": "hybrid",
+      "0": "K1",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 369,
+      "strain": "Lemon Kush",
+      "species": "hybrid",
+      "0": "Lemon",
+      "1": "Kush",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 370,
+      "strain": "Lemon Wreck",
+      "species": "hybrid",
+      "0": "Lemon",
+      "1": "Wreck",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 371,
+      "strain": "Lethal Purple",
+      "species": "hybrid",
+      "0": "Lethal",
+      "1": "Purple",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 372,
+      "strain": "Loud Dream",
+      "species": "hybrid",
+      "0": "Loud",
+      "1": "Dream",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 373,
+      "strain": "Midnight",
+      "species": "hybrid",
+      "0": "Midnight",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 374,
+      "strain": "Mob Boss",
+      "species": "hybrid",
+      "0": "Mob",
+      "1": "Boss",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 375,
+      "strain": "NYC Diesel",
+      "species": "hybrid",
+      "0": "NYC",
+      "1": "Diesel",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 376,
+      "strain": "OG Wreck",
+      "species": "hybrid",
+      "0": "OG",
+      "1": "Wreck",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 377,
+      "strain": "Orange Dream",
+      "species": "hybrid",
+      "0": "Orange",
+      "1": "Dream",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 378,
+      "strain": "Orange Haze",
+      "species": "hybrid",
+      "0": "Orange",
+      "1": "Haze",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 379,
+      "strain": "Pineapple Diesel",
+      "species": "hybrid",
+      "0": "Pineapple",
+      "1": "Diesel",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 380,
+      "strain": "Power Plant",
+      "species": "hybrid",
+      "0": "Power",
+      "1": "Plant",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 381,
+      "strain": "Pure Power Plant",
+      "species": "hybrid",
+      "0": "Pure",
+      "1": "Power",
+      "2": "Plant",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 382,
+      "strain": "Purple Ice",
+      "species": "hybrid",
+      "0": "Purple",
+      "1": "Ice",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 383,
+      "strain": "Sapphire Star",
+      "species": "hybrid",
+      "0": "Sapphire",
+      "1": "Star",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 384,
+      "strain": "Silver Pearl",
+      "species": "hybrid",
+      "0": "Silver",
+      "1": "Pearl",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 385,
+      "strain": "Silver Surfer",
+      "species": "hybrid",
+      "0": "Silver",
+      "1": "Surfer",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 386,
+      "strain": "Smelliot",
+      "species": "hybrid",
+      "0": "Smelliot",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 387,
+      "strain": "Snowcap",
+      "species": "hybrid",
+      "0": "Snowcap",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 388,
+      "strain": "Sour Cream",
+      "species": "hybrid",
+      "0": "Sour",
+      "1": "Cream",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 389,
+      "strain": "Sour Lemon OG",
+      "species": "hybrid",
+      "0": "Sour",
+      "1": "Lemon",
+      "2": "OG",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 390,
+      "strain": "Sour Power",
+      "species": "hybrid",
+      "0": "Sour",
+      "1": "Power",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 391,
+      "strain": "Sour Tsunami",
+      "species": "hybrid",
+      "0": "Sour",
+      "1": "Tsunami",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 392,
+      "strain": "Stevie Wonder",
+      "species": "hybrid",
+      "0": "Stevie",
+      "1": "Wonder",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 393,
+      "strain": "Strawberry Cough",
+      "species": "hybrid",
+      "0": "Strawberry",
+      "1": "Cough",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 394,
+      "strain": "Strawberry Dream",
+      "species": "hybrid",
+      "0": "Strawberry",
+      "1": "Dream",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 395,
+      "strain": "Superstar",
+      "species": "hybrid",
+      "0": "Superstar",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 396,
+      "strain": "Sweet Island Skunk",
+      "species": "hybrid",
+      "0": "Sweet",
+      "1": "Island",
+      "2": "Skunk",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 397,
+      "strain": "Swiss Bliss",
+      "species": "hybrid",
+      "0": "Swiss",
+      "1": "Bliss",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 398,
+      "strain": "Tahoe OG Kush",
+      "species": "hybrid",
+      "0": "Tahoe",
+      "1": "OG",
+      "2": "Kush",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 399,
+      "strain": "Tangerine Haze",
+      "species": "hybrid",
+      "0": "Tangerine",
+      "1": "Haze",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 400,
+      "strain": "Thai-Tanic",
+      "species": "hybrid",
+      "0": "Thai-Tanic",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 401,
+      "strain": "The Third Dimension",
+      "species": "hybrid",
+      "0": "The",
+      "1": "Third",
+      "2": "Dimension",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 402,
+      "strain": "The Truth",
+      "species": "hybrid",
+      "0": "The",
+      "1": "Truth",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 403,
+      "strain": "Trainwreck",
+      "species": "hybrid",
+      "0": "Trainwreck",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 404,
+      "strain": "White Berry",
+      "species": "hybrid",
+      "0": "White",
+      "1": "Berry",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 405,
+      "strain": "White Fire OG",
+      "species": "hybrid",
+      "0": "White",
+      "1": "Fire",
+      "2": "OG",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 406,
+      "strain": "White Shark",
+      "species": "hybrid",
+      "0": "White",
+      "1": "Shark",
+      "detailed_species": "sativa-hybrid"
+    },
+    {
+      "id": 407,
+      "strain": "303 OG",
+      "species": "hybrid",
+      "0": 303,
+      "1": "OG",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 408,
+      "strain": "707 Headband",
+      "species": "hybrid",
+      "0": 707,
+      "1": "Headband",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 409,
+      "strain": "Afghanica",
+      "species": "hybrid",
+      "0": "Afghanica",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 410,
+      "strain": "AK-48",
+      "species": "hybrid",
+      "0": "AK-48",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 411,
+      "strain": "Albert Walker",
+      "species": "hybrid",
+      "0": "Albert",
+      "1": "Walker",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 412,
+      "strain": "BC Sweet Tooth",
+      "species": "hybrid",
+      "0": "BC",
+      "1": "Sweet",
+      "2": "Tooth",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 413,
+      "strain": "Big Sky OG",
+      "species": "hybrid",
+      "0": "Big",
+      "1": "Sky",
+      "2": "OG",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 414,
+      "strain": "Big Wreck",
+      "species": "hybrid",
+      "0": "Big",
+      "1": "Wreck",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 415,
+      "strain": "Bio-Jesus",
+      "species": "hybrid",
+      "0": "Bio-Jesus",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 416,
+      "strain": "Black Domina",
+      "species": "hybrid",
+      "0": "Black",
+      "1": "Domina",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 417,
+      "strain": "Black Ice",
+      "species": "hybrid",
+      "0": "Black",
+      "1": "Ice",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 418,
+      "strain": "Black Mamba",
+      "species": "hybrid",
+      "0": "Black",
+      "1": "Mamba",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 419,
+      "strain": "Blockhead",
+      "species": "hybrid",
+      "0": "Blockhead",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 420,
+      "strain": "Blue Bastard",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Bastard",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 421,
+      "strain": "Blueberry x Hash Plant",
+      "species": "hybrid",
+      "0": "Blueberry",
+      "1": "x",
+      "2": "Hash",
+      "3": "Plant",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 422,
+      "strain": "Blue Diesel",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Diesel",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 423,
+      "strain": "Blue Ivy",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Ivy",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 424,
+      "strain": "Blue Lights",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Lights",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 425,
+      "strain": "Blue Magoo",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Magoo",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 426,
+      "strain": "Blue Venom",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Venom",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 427,
+      "strain": "Burmese Kush",
+      "species": "hybrid",
+      "0": "Burmese",
+      "1": "Kush",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 428,
+      "strain": "Cali Gold",
+      "species": "hybrid",
+      "0": "Cali",
+      "1": "Gold",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 429,
+      "strain": "Chemdawg 4",
+      "species": "hybrid",
+      "0": "Chemdawg",
+      "1": 4,
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 430,
+      "strain": "Citrus Kush",
+      "species": "hybrid",
+      "0": "Citrus",
+      "1": "Kush",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 431,
+      "strain": "Cold Creek Kush",
+      "species": "hybrid",
+      "0": "Cold",
+      "1": "Creek",
+      "2": "Kush",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 432,
+      "strain": "Confidential Cheese",
+      "species": "hybrid",
+      "0": "Confidential",
+      "1": "Cheese",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 433,
+      "strain": "Cotton Candy Kush",
+      "species": "hybrid",
+      "0": "Cotton",
+      "1": "Candy",
+      "2": "Kush",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 434,
+      "strain": "Critical Bilbo",
+      "species": "hybrid",
+      "0": "Critical",
+      "1": "Bilbo",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 435,
+      "strain": "Critical Haze",
+      "species": "hybrid",
+      "0": "Critical",
+      "1": "Haze",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 436,
+      "strain": "Dorit",
+      "species": "hybrid",
+      "0": "Dorit",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 437,
+      "strain": "Dr. Who",
+      "species": "hybrid",
+      "0": "Dr.",
+      "1": "Who",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 438,
+      "strain": "Early Girl",
+      "species": "hybrid",
+      "0": "Early",
+      "1": "Girl",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 439,
+      "strain": "Elderberry Kush",
+      "species": "hybrid",
+      "0": "Elderberry",
+      "1": "Kush",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 440,
+      "strain": "Erez",
+      "species": "hybrid",
+      "0": "Erez",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 441,
+      "strain": "Flowerbomb Kush",
+      "species": "hybrid",
+      "0": "Flowerbomb",
+      "1": "Kush",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 442,
+      "strain": "God's Treat",
+      "species": "hybrid",
+      "0": "God's",
+      "1": "Treat",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 443,
+      "strain": "Hells Angel OG",
+      "species": "hybrid",
+      "0": "Hells",
+      "1": "Angel",
+      "2": "OG",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 444,
+      "strain": "Ice Cream",
+      "species": "hybrid",
+      "0": "Ice",
+      "1": "Cream",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 445,
+      "strain": "Jasmin or Yasmin",
+      "species": "hybrid",
+      "0": "Jasmin",
+      "1": "or",
+      "2": "Yasmin",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 446,
+      "strain": "Lifesaver",
+      "species": "hybrid",
+      "0": "Lifesaver",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 447,
+      "strain": "Little Devil",
+      "species": "hybrid",
+      "0": "Little",
+      "1": "Devil",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 448,
+      "strain": "LVPK",
+      "species": "hybrid",
+      "0": "LVPK",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 449,
+      "strain": "Manitoba Poison",
+      "species": "hybrid",
+      "0": "Manitoba",
+      "1": "Poison",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 450,
+      "strain": "Master Skunk",
+      "species": "hybrid",
+      "0": "Master",
+      "1": "Skunk",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 451,
+      "strain": "Matanuska Thunder Fuck",
+      "species": "hybrid",
+      "0": "Matanuska",
+      "1": "Thunder",
+      "2": "Fuck",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 452,
+      "strain": "Millennium",
+      "species": "hybrid",
+      "0": "Millennium",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 453,
+      "strain": "Or",
+      "species": "hybrid",
+      "0": "Or",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 454,
+      "strain": "Papaya",
+      "species": "hybrid",
+      "0": "Papaya",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 455,
+      "strain": "Pineapple Chunk",
+      "species": "hybrid",
+      "0": "Pineapple",
+      "1": "Chunk",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 456,
+      "strain": "Pink Kush",
+      "species": "hybrid",
+      "0": "Pink",
+      "1": "Kush",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 457,
+      "strain": "Pink Pez",
+      "species": "hybrid",
+      "0": "Pink",
+      "1": "Pez",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 458,
+      "strain": "Rascal OG",
+      "species": "hybrid",
+      "0": "Rascal",
+      "1": "OG",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 459,
+      "strain": "Shiva Skunk",
+      "species": "hybrid",
+      "0": "Shiva",
+      "1": "Skunk",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 460,
+      "strain": "Skywalker OG",
+      "species": "hybrid",
+      "0": "Skywalker",
+      "1": "OG",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 461,
+      "strain": "Snoop's Dream",
+      "species": "hybrid",
+      "0": "Snoop's",
+      "1": "Dream",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 462,
+      "strain": "Sour Apple",
+      "species": "hybrid",
+      "0": "Sour",
+      "1": "Apple",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 463,
+      "strain": "Sugar Shack",
+      "species": "hybrid",
+      "0": "Sugar",
+      "1": "Shack",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 464,
+      "strain": "Sunset Sherbert",
+      "species": "hybrid",
+      "0": "Sunset",
+      "1": "Sherbert",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 465,
+      "strain": "Supernova",
+      "species": "hybrid",
+      "0": "Supernova",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 466,
+      "strain": "The White",
+      "species": "hybrid",
+      "0": "The",
+      "1": "White",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 467,
+      "strain": "Tres Dawg",
+      "species": "hybrid",
+      "0": "Tres",
+      "1": "Dawg",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 468,
+      "strain": "Venom OG",
+      "species": "hybrid",
+      "0": "Venom",
+      "1": "OG",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 469,
+      "strain": "Warlock",
+      "species": "hybrid",
+      "0": "Warlock",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 470,
+      "strain": "White Lightning",
+      "species": "hybrid",
+      "0": "White",
+      "1": "Lightning",
+      "detailed_species": "indica-hybrid"
+    },
+    {
+      "id": 471,
+      "strain": "$100 OG",
+      "species": "hybrid",
+      "0": "$100",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 472,
+      "strain": "3 Kings",
+      "species": "hybrid",
+      "0": 3,
+      "1": "Kings",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 473,
+      "strain": "Ace of Spades",
+      "species": "hybrid",
+      "0": "Ace",
+      "1": "of",
+      "2": "Spades",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 474,
+      "strain": "Afghan Big Bud",
+      "species": "hybrid",
+      "0": "Afghan",
+      "1": "Big",
+      "2": "Bud",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 475,
+      "strain": "Afghan Diesel",
+      "species": "hybrid",
+      "0": "Afghan",
+      "1": "Diesel",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 476,
+      "strain": "Afghooey",
+      "species": "hybrid",
+      "0": "Afghooey",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 477,
+      "strain": "Agent Orange",
+      "species": "hybrid",
+      "0": "Agent",
+      "1": "Orange",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 478,
+      "strain": "AK-47",
+      "species": "hybrid",
+      "0": "AK-47",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 479,
+      "strain": "Alien OG",
+      "species": "hybrid",
+      "0": "Alien",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 480,
+      "strain": "Alohaberry",
+      "species": "hybrid",
+      "0": "Alohaberry",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 481,
+      "strain": "Alpha OG",
+      "species": "hybrid",
+      "0": "Alpha",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 482,
+      "strain": "Ambrosia",
+      "species": "hybrid",
+      "0": "Ambrosia",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 483,
+      "strain": "Animal Cookies",
+      "species": "hybrid",
+      "0": "Animal",
+      "1": "Cookies",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 484,
+      "strain": "Apollo 11",
+      "species": "hybrid",
+      "0": "Apollo",
+      "1": 11,
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 485,
+      "strain": "Apollo 13",
+      "species": "hybrid",
+      "0": "Apollo",
+      "1": 13,
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 486,
+      "strain": "Appalachia",
+      "species": "hybrid",
+      "0": "Appalachia",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 487,
+      "strain": "Armageddon",
+      "species": "hybrid",
+      "0": "Armageddon",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 488,
+      "strain": "Atomic Northern Lights",
+      "species": "hybrid",
+      "0": "Atomic",
+      "1": "Northern",
+      "2": "Lights",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 489,
+      "strain": "A-Train",
+      "species": "hybrid",
+      "0": "A-Train",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 490,
+      "strain": "Avalon",
+      "species": "hybrid",
+      "0": "Avalon",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 491,
+      "strain": "Banana OG",
+      "species": "hybrid",
+      "0": "Banana",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 492,
+      "strain": "BC Roadkill",
+      "species": "hybrid",
+      "0": "BC",
+      "1": "Roadkill",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 493,
+      "strain": "Berry White",
+      "species": "hybrid",
+      "0": "Berry",
+      "1": "White",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 494,
+      "strain": "Big Buddha Cheese",
+      "species": "hybrid",
+      "0": "Big",
+      "1": "Buddha",
+      "2": "Cheese",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 495,
+      "strain": "Bio-Diesel",
+      "species": "hybrid",
+      "0": "Bio-Diesel",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 496,
+      "strain": "Black Dahlia",
+      "species": "hybrid",
+      "0": "Black",
+      "1": "Dahlia",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 497,
+      "strain": "Black Jack",
+      "species": "hybrid",
+      "0": "Black",
+      "1": "Jack",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 498,
+      "strain": "Black Tuna",
+      "species": "hybrid",
+      "0": "Black",
+      "1": "Tuna",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 499,
+      "strain": "Black Velvet",
+      "species": "hybrid",
+      "0": "Black",
+      "1": "Velvet",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 500,
+      "strain": "Black Widow",
+      "species": "hybrid",
+      "0": "Black",
+      "1": "Widow",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 501,
+      "strain": "Blueberry Cheesecake",
+      "species": "hybrid",
+      "0": "Blueberry",
+      "1": "Cheesecake",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 502,
+      "strain": "Blueberry Haze",
+      "species": "hybrid",
+      "0": "Blueberry",
+      "1": "Haze",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 503,
+      "strain": "Blueberry Headband",
+      "species": "hybrid",
+      "0": "Blueberry",
+      "1": "Headband",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 504,
+      "strain": "Blue Boy",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Boy",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 505,
+      "strain": "Blue Dragon",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Dragon",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 506,
+      "strain": "Blue Hawaiian",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Hawaiian",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 507,
+      "strain": "Blue Mystic",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Mystic",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 508,
+      "strain": "Blue OG",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 509,
+      "strain": "Blue Rhino",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Rhino",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 510,
+      "strain": "Blue Train",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Train",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 511,
+      "strain": "Blue Widow",
+      "species": "hybrid",
+      "0": "Blue",
+      "1": "Widow",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 512,
+      "strain": "Boggle Gum",
+      "species": "hybrid",
+      "0": "Boggle",
+      "1": "Gum",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 513,
+      "strain": "Bordello",
+      "species": "hybrid",
+      "0": "Bordello",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 514,
+      "strain": "Boysenberry",
+      "species": "hybrid",
+      "0": "Boysenberry",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 515,
+      "strain": "Brains Damage",
+      "species": "hybrid",
+      "0": "Brains",
+      "1": "Damage",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 516,
+      "strain": "Broke Diesel",
+      "species": "hybrid",
+      "0": "Broke",
+      "1": "Diesel",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 517,
+      "strain": "Bruce Banner #3",
+      "species": "hybrid",
+      "0": "Bruce",
+      "1": "Banner",
+      "2": "#3",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 518,
+      "strain": "Bubbleberry",
+      "species": "hybrid",
+      "0": "Bubbleberry",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 519,
+      "strain": "Bubblegum",
+      "species": "hybrid",
+      "0": "Bubblegum",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 520,
+      "strain": "Bubblegun",
+      "species": "hybrid",
+      "0": "Bubblegun",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 521,
+      "strain": "C13 Haze",
+      "species": "hybrid",
+      "0": "C13",
+      "1": "Haze",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 522,
+      "strain": "Cali Kush",
+      "species": "hybrid",
+      "0": "Cali",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 523,
+      "strain": "Calm",
+      "species": "hybrid",
+      "0": "Calm",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 524,
+      "strain": "Cannadential",
+      "species": "hybrid",
+      "0": "Cannadential",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 525,
+      "strain": "Cannatonic",
+      "species": "hybrid",
+      "0": "Cannatonic",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 526,
+      "strain": "Caramelicious",
+      "species": "hybrid",
+      "0": "Caramelicious",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 527,
+      "strain": "Casey Jones",
+      "species": "hybrid",
+      "0": "Casey",
+      "1": "Jones",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 528,
+      "strain": "Cataract Kush",
+      "species": "hybrid",
+      "0": "Cataract",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 529,
+      "strain": "Champagne Kush",
+      "species": "hybrid",
+      "0": "Champagne",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 530,
+      "strain": "Cheese",
+      "species": "hybrid",
+      "0": "Cheese",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 531,
+      "strain": "Chem Crush",
+      "species": "hybrid",
+      "0": "Chem",
+      "1": "Crush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 532,
+      "strain": "Chemdawg",
+      "species": "hybrid",
+      "0": "Chemdawg",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 533,
+      "strain": "Chernobyl",
+      "species": "hybrid",
+      "0": "Chernobyl",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 534,
+      "strain": "Cherry AK-47",
+      "species": "hybrid",
+      "0": "Cherry",
+      "1": "AK-47",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 535,
+      "strain": "Cherry Bomb",
+      "species": "hybrid",
+      "0": "Cherry",
+      "1": "Bomb",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 536,
+      "strain": "Cherry Kush",
+      "species": "hybrid",
+      "0": "Cherry",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 537,
+      "strain": "Cherry Limeade",
+      "species": "hybrid",
+      "0": "Cherry",
+      "1": "Limeade",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 538,
+      "strain": "Cherry Pie",
+      "species": "hybrid",
+      "0": "Cherry",
+      "1": "Pie",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 539,
+      "strain": "Chiesel",
+      "species": "hybrid",
+      "0": "Chiesel",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 540,
+      "strain": "Chocolate Kush",
+      "species": "hybrid",
+      "0": "Chocolate",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 541,
+      "strain": "Cinex",
+      "species": "hybrid",
+      "0": "Cinex",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 542,
+      "strain": "Colorado Chem",
+      "species": "hybrid",
+      "0": "Colorado",
+      "1": "Chem",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 543,
+      "strain": "Connie Chung",
+      "species": "hybrid",
+      "0": "Connie",
+      "1": "Chung",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 544,
+      "strain": "Cookies and Cream",
+      "species": "hybrid",
+      "0": "Cookies",
+      "1": "and",
+      "2": "Cream",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 545,
+      "strain": "Crimea Blue",
+      "species": "hybrid",
+      "0": "Crimea",
+      "1": "Blue",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 546,
+      "strain": "Dairy Queen",
+      "species": "hybrid",
+      "0": "Dairy",
+      "1": "Queen",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 547,
+      "strain": "Deadhead OG",
+      "species": "hybrid",
+      "0": "Deadhead",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 548,
+      "strain": "Diesel Duff",
+      "species": "hybrid",
+      "0": "Diesel",
+      "1": "Duff",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 549,
+      "strain": "Dieseltonic",
+      "species": "hybrid",
+      "0": "Dieseltonic",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 550,
+      "strain": "Dogwalker OG",
+      "species": "hybrid",
+      "0": "Dogwalker",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 551,
+      "strain": "Donna OG",
+      "species": "hybrid",
+      "0": "Donna",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 552,
+      "strain": "Dopium",
+      "species": "hybrid",
+      "0": "Dopium",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 553,
+      "strain": "Dreadlock",
+      "species": "hybrid",
+      "0": "Dreadlock",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 554,
+      "strain": "Dream Queen",
+      "species": "hybrid",
+      "0": "Dream",
+      "1": "Queen",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 555,
+      "strain": "Durban Cheese",
+      "species": "hybrid",
+      "0": "Durban",
+      "1": "Cheese",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 556,
+      "strain": "Dutch Treat",
+      "species": "hybrid",
+      "0": "Dutch",
+      "1": "Treat",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 557,
+      "strain": "Euphoria",
+      "species": "hybrid",
+      "0": "Euphoria",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 558,
+      "strain": "Earth OG",
+      "species": "hybrid",
+      "0": "Earth",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 559,
+      "strain": "Earthquake",
+      "species": "hybrid",
+      "0": "Earthquake",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 560,
+      "strain": "Ed Rosenthal Super Bud",
+      "species": "hybrid",
+      "0": "Ed",
+      "1": "Rosenthal",
+      "2": "Super",
+      "3": "Bud",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 561,
+      "strain": "El-Na",
+      "species": "hybrid",
+      "0": "El-Na",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 562,
+      "strain": "El Niño",
+      "species": "hybrid",
+      "0": "El",
+      "1": "Niño",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 563,
+      "strain": "Ewok",
+      "species": "hybrid",
+      "0": "Ewok",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 564,
+      "strain": "Exodus Cheese",
+      "species": "hybrid",
+      "0": "Exodus",
+      "1": "Cheese",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 565,
+      "strain": "Fire OG",
+      "species": "hybrid",
+      "0": "Fire",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 566,
+      "strain": "Flourish",
+      "species": "hybrid",
+      "0": "Flourish",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 567,
+      "strain": "Fruity Pebbles",
+      "species": "hybrid",
+      "0": "Fruity",
+      "1": "Pebbles",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 568,
+      "strain": "Ghost OG",
+      "species": "hybrid",
+      "0": "Ghost",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 569,
+      "strain": "Girl Scout Cookies",
+      "species": "hybrid",
+      "0": "Girl",
+      "1": "Scout",
+      "2": "Cookies",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 570,
+      "strain": "Goldberry",
+      "species": "hybrid",
+      "0": "Goldberry",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 571,
+      "strain": "Golden Goat",
+      "species": "hybrid",
+      "0": "Golden",
+      "1": "Goat",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 572,
+      "strain": "Gorilla Glue #4",
+      "species": "hybrid",
+      "0": "Gorilla",
+      "1": "Glue",
+      "2": "#4",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 573,
+      "strain": "Grand Hustle",
+      "species": "hybrid",
+      "0": "Grand",
+      "1": "Hustle",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 574,
+      "strain": "Grapefruit Diesel",
+      "species": "hybrid",
+      "0": "Grapefruit",
+      "1": "Diesel",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 575,
+      "strain": "Grapefruit Haze",
+      "species": "hybrid",
+      "0": "Grapefruit",
+      "1": "Haze",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 576,
+      "strain": "Grapefruit Kush",
+      "species": "hybrid",
+      "0": "Grapefruit",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 577,
+      "strain": "Grape God",
+      "species": "hybrid",
+      "0": "Grape",
+      "1": "God",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 578,
+      "strain": "Grape Kush",
+      "species": "hybrid",
+      "0": "Grape",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 579,
+      "strain": "Green Door Kush",
+      "species": "hybrid",
+      "0": "Green",
+      "1": "Door",
+      "2": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 580,
+      "strain": "Green Hornet",
+      "species": "hybrid",
+      "0": "Green",
+      "1": "Hornet",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 581,
+      "strain": "Green Monster",
+      "species": "hybrid",
+      "0": "Green",
+      "1": "Monster",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 582,
+      "strain": "Green Queen",
+      "species": "hybrid",
+      "0": "Green",
+      "1": "Queen",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 583,
+      "strain": "Green Ribbon",
+      "species": "hybrid",
+      "0": "Green",
+      "1": "Ribbon",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 584,
+      "strain": "G Stik \"Orange\"",
+      "species": "hybrid",
+      "0": "G",
+      "1": "Stik",
+      "2": "\"Orange\"",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 585,
+      "strain": "G Stik \"Verde\"",
+      "species": "hybrid",
+      "0": "G",
+      "1": "Stik",
+      "2": "\"Verde\"",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 586,
+      "strain": "Guava Chem",
+      "species": "hybrid",
+      "0": "Guava",
+      "1": "Chem",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 587,
+      "strain": "Guava Kush",
+      "species": "hybrid",
+      "0": "Guava",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 588,
+      "strain": "Harlequin",
+      "species": "hybrid",
+      "0": "Harlequin",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 589,
+      "strain": "Harmony",
+      "species": "hybrid",
+      "0": "Harmony",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 590,
+      "strain": "Hawaiian Punch",
+      "species": "hybrid",
+      "0": "Hawaiian",
+      "1": "Punch",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 591,
+      "strain": "Hawaiian Thunder Fuck",
+      "species": "hybrid",
+      "0": "Hawaiian",
+      "1": "Thunder",
+      "2": "Fuck",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 592,
+      "strain": "Headband",
+      "species": "hybrid",
+      "0": "Headband",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 593,
+      "strain": "Heavy Duty Fruity",
+      "species": "hybrid",
+      "0": "Heavy",
+      "1": "Duty",
+      "2": "Fruity",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 594,
+      "strain": "Himalayan Gold",
+      "species": "hybrid",
+      "0": "Himalayan",
+      "1": "Gold",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 595,
+      "strain": "Hindu Skunk",
+      "species": "hybrid",
+      "0": "Hindu",
+      "1": "Skunk",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 596,
+      "strain": "Holistic",
+      "species": "hybrid",
+      "0": "Holistic",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 597,
+      "strain": "Holy Grail Kush",
+      "species": "hybrid",
+      "0": "Holy",
+      "1": "Grail",
+      "2": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 598,
+      "strain": "Ice",
+      "species": "hybrid",
+      "0": "Ice",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 599,
+      "strain": "Jah Kush",
+      "species": "hybrid",
+      "0": "Jah",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 600,
+      "strain": "Jack Flash",
+      "species": "hybrid",
+      "0": "Jack",
+      "1": "Flash",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 601,
+      "strain": "Jack Frost",
+      "species": "hybrid",
+      "0": "Jack",
+      "1": "Frost",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 602,
+      "strain": "Jack Kush",
+      "species": "hybrid",
+      "0": "Jack",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 603,
+      "strain": "Jack the Ripper",
+      "species": "hybrid",
+      "0": "Jack",
+      "1": "the",
+      "2": "Ripper",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 604,
+      "strain": "Jilly Bean",
+      "species": "hybrid",
+      "0": "Jilly",
+      "1": "Bean",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 605,
+      "strain": "Juicy Fruit",
+      "species": "hybrid",
+      "0": "Juicy",
+      "1": "Fruit",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 606,
+      "strain": "Julius Caesar",
+      "species": "hybrid",
+      "0": "Julius",
+      "1": "Caesar",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 607,
+      "strain": "Kahuna",
+      "species": "hybrid",
+      "0": "Kahuna",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 608,
+      "strain": "Key Lime Haze",
+      "species": "hybrid",
+      "0": "Key",
+      "1": "Lime",
+      "2": "Haze",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 609,
+      "strain": "Khola",
+      "species": "hybrid",
+      "0": "Khola",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 610,
+      "strain": "Killer Queen",
+      "species": "hybrid",
+      "0": "Killer",
+      "1": "Queen",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 611,
+      "strain": "Kimbo Kush",
+      "species": "hybrid",
+      "0": "Kimbo",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 612,
+      "strain": "King Kong",
+      "species": "hybrid",
+      "0": "King",
+      "1": "Kong",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 613,
+      "strain": "Kushage",
+      "species": "hybrid",
+      "0": "Kushage",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 614,
+      "strain": "Kushashima",
+      "species": "hybrid",
+      "0": "Kushashima",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 615,
+      "strain": "Kushberry",
+      "species": "hybrid",
+      "0": "Kushberry",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 616,
+      "strain": "LA Jack",
+      "species": "hybrid",
+      "0": "LA",
+      "1": "Jack",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 617,
+      "strain": "Lambo OG",
+      "species": "hybrid",
+      "0": "Lambo",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 618,
+      "strain": "LAPD",
+      "species": "hybrid",
+      "0": "LAPD",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 619,
+      "strain": "LA Woman",
+      "species": "hybrid",
+      "0": "LA",
+      "1": "Woman",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 620,
+      "strain": "Lavender",
+      "species": "hybrid",
+      "0": "Lavender",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 621,
+      "strain": "Lemon Diesel",
+      "species": "hybrid",
+      "0": "Lemon",
+      "1": "Diesel",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 622,
+      "strain": "Lemon Drop",
+      "species": "hybrid",
+      "0": "Lemon",
+      "1": "Drop",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 623,
+      "strain": "Lemon Skunk",
+      "species": "hybrid",
+      "0": "Lemon",
+      "1": "Skunk",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 624,
+      "strain": "Lemon Walker OG",
+      "species": "hybrid",
+      "0": "Lemon",
+      "1": "Walker",
+      "2": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 625,
+      "strain": "Liberty Haze",
+      "species": "hybrid",
+      "0": "Liberty",
+      "1": "Haze",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 626,
+      "strain": "Lowryder",
+      "species": "hybrid",
+      "0": "Lowryder",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 627,
+      "strain": "LSD",
+      "species": "hybrid",
+      "0": "LSD",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 628,
+      "strain": "Lucky Charms",
+      "species": "hybrid",
+      "0": "Lucky",
+      "1": "Charms",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 629,
+      "strain": "M-39",
+      "species": "hybrid",
+      "0": "M-39",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 630,
+      "strain": "Mad Dog",
+      "species": "hybrid",
+      "0": "Mad",
+      "1": "Dog",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 631,
+      "strain": "Mango Kush",
+      "species": "hybrid",
+      "0": "Mango",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 632,
+      "strain": "Maui Berry",
+      "species": "hybrid",
+      "0": "Maui",
+      "1": "Berry",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 633,
+      "strain": "Martian Mean Green",
+      "species": "hybrid",
+      "0": "Martian",
+      "1": "Mean",
+      "2": "Green",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 634,
+      "strain": "Master Yoda",
+      "species": "hybrid",
+      "0": "Master",
+      "1": "Yoda",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 635,
+      "strain": "Medicine Man",
+      "species": "hybrid",
+      "0": "Medicine",
+      "1": "Man",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 636,
+      "strain": "Mendocino Purps",
+      "species": "hybrid",
+      "0": "Mendocino",
+      "1": "Purps",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 637,
+      "strain": "Mother's Helper",
+      "species": "hybrid",
+      "0": "Mother's",
+      "1": "Helper",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 638,
+      "strain": "Nebula",
+      "species": "hybrid",
+      "0": "Nebula",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 639,
+      "strain": "Neville's Haze",
+      "species": "hybrid",
+      "0": "Neville's",
+      "1": "Haze",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 640,
+      "strain": "Northern Lights #5",
+      "species": "hybrid",
+      "0": "Northern",
+      "1": "Lights",
+      "2": "#5",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 641,
+      "strain": "Northern Skunk",
+      "species": "hybrid",
+      "0": "Northern",
+      "1": "Skunk",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 642,
+      "strain": "Odyssey",
+      "species": "hybrid",
+      "0": "Odyssey",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 643,
+      "strain": "OG Diesel Kush",
+      "species": "hybrid",
+      "0": "OG",
+      "1": "Diesel",
+      "2": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 644,
+      "strain": "OGiesel",
+      "species": "hybrid",
+      "0": "OGiesel",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 645,
+      "strain": "OG Kush",
+      "species": "hybrid",
+      "0": "OG",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 646,
+      "strain": "OG Poison",
+      "species": "hybrid",
+      "0": "OG",
+      "1": "Poison",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 647,
+      "strain": "OG Shark",
+      "species": "hybrid",
+      "0": "OG",
+      "1": "Shark",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 648,
+      "strain": "Old Lyme Connecticut OG",
+      "species": "hybrid",
+      "0": "Old",
+      "1": "Lyme",
+      "2": "Connecticut",
+      "3": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 649,
+      "strain": "Orange Bud",
+      "species": "hybrid",
+      "0": "Orange",
+      "1": "Bud",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 650,
+      "strain": "Orange Crush",
+      "species": "hybrid",
+      "0": "Orange",
+      "1": "Crush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 651,
+      "strain": "Orange Diesel",
+      "species": "hybrid",
+      "0": "Orange",
+      "1": "Diesel",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 652,
+      "strain": "Orange Kush",
+      "species": "hybrid",
+      "0": "Orange",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 653,
+      "strain": "Orange Skunk",
+      "species": "hybrid",
+      "0": "Orange",
+      "1": "Skunk",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 654,
+      "strain": "Orange Velvet",
+      "species": "hybrid",
+      "0": "Orange",
+      "1": "Velvet",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 655,
+      "strain": "Organic Diesel",
+      "species": "hybrid",
+      "0": "Organic",
+      "1": "Diesel",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 656,
+      "strain": "P-91",
+      "species": "hybrid",
+      "0": "P-91",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 657,
+      "strain": "Permafrost",
+      "species": "hybrid",
+      "0": "Permafrost",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 658,
+      "strain": "Pineapple",
+      "species": "hybrid",
+      "0": "Pineapple",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 659,
+      "strain": "Pineapple Express",
+      "species": "hybrid",
+      "0": "Pineapple",
+      "1": "Express",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 660,
+      "strain": "Pineapple Kush",
+      "species": "hybrid",
+      "0": "Pineapple",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 661,
+      "strain": "Platinum Girl Scout Cookies",
+      "species": "hybrid",
+      "0": "Platinum",
+      "1": "Girl",
+      "2": "Scout",
+      "3": "Cookies",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 662,
+      "strain": "Purple AK-47",
+      "species": "hybrid",
+      "0": "Purple",
+      "1": "AK-47",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 663,
+      "strain": "Purple Arrow",
+      "species": "hybrid",
+      "0": "Purple",
+      "1": "Arrow",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 664,
+      "strain": "Purple Diesel",
+      "species": "hybrid",
+      "0": "Purple",
+      "1": "Diesel",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 665,
+      "strain": "Purple Dream",
+      "species": "hybrid",
+      "0": "Purple",
+      "1": "Dream",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 666,
+      "strain": "Purple Hashplant",
+      "species": "hybrid",
+      "0": "Purple",
+      "1": "Hashplant",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 667,
+      "strain": "Purple Jack",
+      "species": "hybrid",
+      "0": "Purple",
+      "1": "Jack",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 668,
+      "strain": "Purple Princess",
+      "species": "hybrid",
+      "0": "Purple",
+      "1": "Princess",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 669,
+      "strain": "Purple Sage",
+      "species": "hybrid",
+      "0": "Purple",
+      "1": "Sage",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 670,
+      "strain": "Purple Sour Diesel",
+      "species": "hybrid",
+      "0": "Purple",
+      "1": "Sour",
+      "2": "Diesel",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 671,
+      "strain": "Purple Trainwreck",
+      "species": "hybrid",
+      "0": "Purple",
+      "1": "Trainwreck",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 672,
+      "strain": "Purple Voodoo",
+      "species": "hybrid",
+      "0": "Purple",
+      "1": "Voodoo",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 673,
+      "strain": "Qrazy Train",
+      "species": "hybrid",
+      "0": "Qrazy",
+      "1": "Train",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 674,
+      "strain": "Quebec Gold",
+      "species": "hybrid",
+      "0": "Quebec",
+      "1": "Gold",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 675,
+      "strain": "Querkle",
+      "species": "hybrid",
+      "0": "Querkle",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 676,
+      "strain": "Rainbow",
+      "species": "hybrid",
+      "0": "Rainbow",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 677,
+      "strain": "Recon",
+      "species": "hybrid",
+      "0": "Recon",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 678,
+      "strain": "Red Cherry Berry",
+      "species": "hybrid",
+      "0": "Red",
+      "1": "Cherry",
+      "2": "Berry",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 679,
+      "strain": "Redding OG",
+      "species": "hybrid",
+      "0": "Redding",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 680,
+      "strain": "Richie Rich",
+      "species": "hybrid",
+      "0": "Richie",
+      "1": "Rich",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 681,
+      "strain": "Rocklock",
+      "species": "hybrid",
+      "0": "Rocklock",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 682,
+      "strain": "Romping Goddess",
+      "species": "hybrid",
+      "0": "Romping",
+      "1": "Goddess",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 683,
+      "strain": "Romulan Grapefruit",
+      "species": "hybrid",
+      "0": "Romulan",
+      "1": "Grapefruit",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 684,
+      "strain": "Royal Dwarf",
+      "species": "hybrid",
+      "0": "Royal",
+      "1": "Dwarf",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 685,
+      "strain": "Royal Kush",
+      "species": "hybrid",
+      "0": "Royal",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 686,
+      "strain": "Russian Rocket Fuel",
+      "species": "hybrid",
+      "0": "Russian",
+      "1": "Rocket",
+      "2": "Fuel",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 687,
+      "strain": "SAGE",
+      "species": "hybrid",
+      "0": "SAGE",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 688,
+      "strain": "Saturn OG",
+      "species": "hybrid",
+      "0": "Saturn",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 689,
+      "strain": "SFV OG",
+      "species": "hybrid",
+      "0": "SFV",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 690,
+      "strain": "Sharksbreath",
+      "species": "hybrid",
+      "0": "Sharksbreath",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 691,
+      "strain": "Shiatsu Kush",
+      "species": "hybrid",
+      "0": "Shiatsu",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 692,
+      "strain": "Shishkaberry",
+      "species": "hybrid",
+      "0": "Shishkaberry",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 693,
+      "strain": "Shoreline",
+      "species": "hybrid",
+      "0": "Shoreline",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 694,
+      "strain": "Sierra Mist",
+      "species": "hybrid",
+      "0": "Sierra",
+      "1": "Mist",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 695,
+      "strain": "Skunky Diesel",
+      "species": "hybrid",
+      "0": "Skunky",
+      "1": "Diesel",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 696,
+      "strain": "Sky Dog",
+      "species": "hybrid",
+      "0": "Sky",
+      "1": "Dog",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 697,
+      "strain": "Snow White",
+      "species": "hybrid",
+      "0": "Snow",
+      "1": "White",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 698,
+      "strain": "Sour Cheese",
+      "species": "hybrid",
+      "0": "Sour",
+      "1": "Cheese",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 699,
+      "strain": "Sour Dream",
+      "species": "hybrid",
+      "0": "Sour",
+      "1": "Dream",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 700,
+      "strain": "Sour Grape",
+      "species": "hybrid",
+      "0": "Sour",
+      "1": "Grape",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 701,
+      "strain": "Sour Grapes",
+      "species": "hybrid",
+      "0": "Sour",
+      "1": "Grapes",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 702,
+      "strain": "Sour Jilly",
+      "species": "hybrid",
+      "0": "Sour",
+      "1": "Jilly",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 703,
+      "strain": "Sour Kush",
+      "species": "hybrid",
+      "0": "Sour",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 704,
+      "strain": "Sour OG",
+      "species": "hybrid",
+      "0": "Sour",
+      "1": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 705,
+      "strain": "Space Bomb",
+      "species": "hybrid",
+      "0": "Space",
+      "1": "Bomb",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 706,
+      "strain": "Space Queen",
+      "species": "hybrid",
+      "0": "Space",
+      "1": "Queen",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 707,
+      "strain": "Stardawg",
+      "species": "hybrid",
+      "0": "Stardawg",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 708,
+      "strain": "Starry Night",
+      "species": "hybrid",
+      "0": "Starry",
+      "1": "Night",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 709,
+      "strain": "Strawberry Banana",
+      "species": "hybrid",
+      "0": "Strawberry",
+      "1": "Banana",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 710,
+      "strain": "Strawberry Diesel",
+      "species": "hybrid",
+      "0": "Strawberry",
+      "1": "Diesel",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 711,
+      "strain": "Super Blue Dream",
+      "species": "hybrid",
+      "0": "Super",
+      "1": "Blue",
+      "2": "Dream",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 712,
+      "strain": "Super Lemon Haze",
+      "species": "hybrid",
+      "0": "Super",
+      "1": "Lemon",
+      "2": "Haze",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 713,
+      "strain": "Super Sour Widow",
+      "species": "hybrid",
+      "0": "Super",
+      "1": "Sour",
+      "2": "Widow",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 714,
+      "strain": "Sweet Kush",
+      "species": "hybrid",
+      "0": "Sweet",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 715,
+      "strain": "Sweet Tooth",
+      "species": "hybrid",
+      "0": "Sweet",
+      "1": "Tooth",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 716,
+      "strain": "Tangerine Dream",
+      "species": "hybrid",
+      "0": "Tangerine",
+      "1": "Dream",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 717,
+      "strain": "Thaidal Wave",
+      "species": "hybrid",
+      "0": "Thaidal",
+      "1": "Wave",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 718,
+      "strain": "THC Bomb",
+      "species": "hybrid",
+      "0": "THC",
+      "1": "Bomb",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 719,
+      "strain": "The Flav",
+      "species": "hybrid",
+      "0": "The",
+      "1": "Flav",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 720,
+      "strain": "The Void",
+      "species": "hybrid",
+      "0": "The",
+      "1": "Void",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 721,
+      "strain": "Thin Mint Girl Scout Cookies",
+      "species": "hybrid",
+      "0": "Thin",
+      "1": "Mint",
+      "2": "Girl",
+      "3": "Scout",
+      "4": "Cookies",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 722,
+      "strain": "Tiger Woods",
+      "species": "hybrid",
+      "0": "Tiger",
+      "1": "Woods",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 723,
+      "strain": "Tranquil",
+      "species": "hybrid",
+      "0": "Tranquil",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 724,
+      "strain": "Trident",
+      "species": "hybrid",
+      "0": "Trident",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 725,
+      "strain": "Trifecta",
+      "species": "hybrid",
+      "0": "Trifecta",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 726,
+      "strain": "Tropicali",
+      "species": "hybrid",
+      "0": "Tropicali",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 727,
+      "strain": "Tropical Tang",
+      "species": "hybrid",
+      "0": "Tropical",
+      "1": "Tang",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 728,
+      "strain": "UK Cheese",
+      "species": "hybrid",
+      "0": "UK",
+      "1": "Cheese",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 729,
+      "strain": "Unwind",
+      "species": "hybrid",
+      "0": "Unwind",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 730,
+      "strain": "Verde Electric",
+      "species": "hybrid",
+      "0": "Verde",
+      "1": "Electric",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 731,
+      "strain": "Waldo",
+      "species": "hybrid",
+      "0": "Waldo",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 732,
+      "strain": "Walrus Kush",
+      "species": "hybrid",
+      "0": "Walrus",
+      "1": "Kush",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 733,
+      "strain": "White Dawg",
+      "species": "hybrid",
+      "0": "White",
+      "1": "Dawg",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 734,
+      "strain": "White Fire Alien OG",
+      "species": "hybrid",
+      "0": "White",
+      "1": "Fire",
+      "2": "Alien",
+      "3": "OG",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 735,
+      "strain": "White Queen",
+      "species": "hybrid",
+      "0": "White",
+      "1": "Queen",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 736,
+      "strain": "White Rhino",
+      "species": "hybrid",
+      "0": "White",
+      "1": "Rhino",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 737,
+      "strain": "White Russian",
+      "species": "hybrid",
+      "0": "White",
+      "1": "Russian",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 738,
+      "strain": "White Widow",
+      "species": "hybrid",
+      "0": "White",
+      "1": "Widow",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 739,
+      "strain": "White Zombie",
+      "species": "hybrid",
+      "0": "White",
+      "1": "Zombie",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 740,
+      "strain": "Willy's Wonder",
+      "species": "hybrid",
+      "0": "Willy's",
+      "1": "Wonder",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 741,
+      "strain": "Wonder Haze",
+      "species": "hybrid",
+      "0": "Wonder",
+      "1": "Haze",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 742,
+      "strain": "Wonder Woman",
+      "species": "hybrid",
+      "0": "Wonder",
+      "1": "Woman",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 743,
+      "strain": "Wonka's Bubblicious",
+      "species": "hybrid",
+      "0": "Wonka's",
+      "1": "Bubblicious",
+      "detailed_species": "mixed-hybrid"
+    },
+    {
+      "id": 744,
+      "strain": "XJ-13",
+      "species": "hybrid",
+      "0": "XJ-13",
+      "detailed_species": "mixed-hybrid"
+    }
+  ]
+}
