@@ -1,0 +1,5 @@
+{
+    "/cults/:id": "/cults/:id?_embed=comments",
+    "/cults": "/cults?_embed=comments"
+  }
+  
