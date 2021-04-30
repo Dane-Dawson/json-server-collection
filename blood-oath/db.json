@@ -6,16 +6,7 @@
 			"img_url": "https://miro.medium.com/max/1200/1*eu4dAuXCqJGM7vjKx3D8WA.png",
 			"count": 0,
 			"created_at": "2021-03-19T22:11:48.841Z",
-			"updated_at": "2021-03-19T22:11:48.841Z",
-			"comments": [
-				{
-					"id": 1,
-					"cult_id": 1,
-					"comment": "Get Schwity!",
-					"created_at": "2021-03-19T22:11:48.860Z",
-					"updated_at": "2021-03-19T22:11:48.860Z"
-				}
-			]
+			"updated_at": "2021-03-19T22:11:48.841Z"
 		},
 		{
 			"id": 2,
@@ -23,16 +14,7 @@
 			"img_url": "https://i.dailymail.co.uk/i/pix/scaled/2011/02/21/article-1359326-0D4CB8D8000005DC-631_308x185.jpg",
 			"count": 0,
 			"created_at": "2021-03-19T22:11:48.844Z",
-			"updated_at": "2021-03-19T22:11:48.844Z",
-			"comments": [
-				{
-					"id": 2,
-					"cult_id": 2,
-					"comment": "Total thirst trap!",
-					"created_at": "2021-03-19T22:11:48.863Z",
-					"updated_at": "2021-03-19T22:11:48.863Z"
-				}
-			]
+			"updated_at": "2021-03-19T22:11:48.844Z"
 		},
 		{
 			"id": 3,
@@ -40,16 +22,7 @@
 			"img_url": "https://upload.wikimedia.org/wikipedia/en/3/38/Heavensgatelogo.jpg",
 			"count": 0,
 			"created_at": "2021-03-19T22:11:48.847Z",
-			"updated_at": "2021-03-19T22:11:48.847Z",
-			"comments": [
-				{
-					"id": 3,
-					"cult_id": 3,
-					"comment": "Outta this world!",
-					"created_at": "2021-03-19T22:11:48.866Z",
-					"updated_at": "2021-03-19T22:11:48.866Z"
-				}
-			]
+			"updated_at": "2021-03-19T22:11:48.847Z"
 		},
 		{
 			"id": 4,
@@ -57,16 +30,7 @@
 			"img_url": "https://i.ytimg.com/vi/6-DYllYpi8M/maxresdefault.jpg",
 			"count": 0,
 			"created_at": "2021-03-19T22:11:48.849Z",
-			"updated_at": "2021-03-19T22:11:48.849Z",
-			"comments": [
-				{
-					"id": 4,
-					"cult_id": 4,
-					"comment": "Apocalypse! Yeet!",
-					"created_at": "2021-03-19T22:11:48.868Z",
-					"updated_at": "2021-03-19T22:11:48.868Z"
-				}
-			]
+			"updated_at": "2021-03-19T22:11:48.849Z"
 		}
 	],
 
