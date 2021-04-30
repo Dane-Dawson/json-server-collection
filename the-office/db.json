@@ -1,0 +1,1259 @@
+
+{
+    "characters": [
+      {
+        "_id": "5e93b4a43af44260882e33b0",
+        "firstname": "Michael",
+        "lastname": "Scott",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b4f03af44260882e33b1",
+        "firstname": "Jim",
+        "lastname": "Halpert",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b4fa3af44260882e33b2",
+        "firstname": "Dwight",
+        "lastname": "Schrute",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b50a3af44260882e33b3",
+        "firstname": "Pam",
+        "lastname": "Beesly",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5183af44260882e33b4",
+        "firstname": "Ryan",
+        "lastname": "Howard",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b51e3af44260882e33b5",
+        "firstname": "Kelly",
+        "lastname": "Kapoor",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b52b3af44260882e33b6",
+        "firstname": "Angela",
+        "lastname": "Martin",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5323af44260882e33b7",
+        "firstname": "Kevin",
+        "lastname": "Malone",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b53b3af44260882e33b8",
+        "firstname": "Oscar",
+        "lastname": "Martinez",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5453af44260882e33b9",
+        "firstname": "Andy",
+        "lastname": "Bernard",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b54d3af44260882e33ba",
+        "firstname": "Stanley",
+        "lastname": "Hudson",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5583af44260882e33bb",
+        "firstname": "Phyllis",
+        "lastname": "Lapin",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b55f3af44260882e33bc",
+        "firstname": "Toby",
+        "lastname": "Flenderson",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5653af44260882e33bd",
+        "firstname": "Erin",
+        "lastname": "Hannon",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b56d3af44260882e33be",
+        "firstname": "Gabe",
+        "lastname": "Lewis",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5783af44260882e33bf",
+        "firstname": "Darryl",
+        "lastname": "Philbin",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5813af44260882e33c0",
+        "firstname": "Creed",
+        "lastname": "Bratton",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b58b3af44260882e33c1",
+        "firstname": "Jo",
+        "lastname": "Bennett",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5913af44260882e33c2",
+        "firstname": "Holly",
+        "lastname": "Flax",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5983af44260882e33c3",
+        "firstname": "Jan",
+        "lastname": "Levinson",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5a13af44260882e33c4",
+        "firstname": "Todd",
+        "lastname": "Packer",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5a73af44260882e33c5",
+        "firstname": "Charles",
+        "lastname": "Minor",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5ad3af44260882e33c6",
+        "firstname": "Deangelo",
+        "lastname": "Vickers",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5b63af44260882e33c7",
+        "firstname": "Josh",
+        "lastname": "Porter",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5bb3af44260882e33c8",
+        "firstname": "Ed",
+        "lastname": "Truck",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5c53af44260882e33c9",
+        "firstname": "Hunter",
+        "lastname": "null",
+        "__v": 0
+      },
+      {
+        "_id": "5e93b5d13af44260882e33ca",
+        "firstname": "David",
+        "lastname": "Wallace",
+        "__v": 0
+      }
+    ],
+    "quotes": [
+        {
+          "_id": "5e9664cff87ac15464c55f1b",
+          "content": "If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.",
+          "character": {
+            "_id": "5e93b4a43af44260882e33b0",
+            "firstname": "Michael",
+            "lastname": "Scott",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e96651df87ac15464c55f1c",
+          "content": "Occasionally, I’ll hit somebody with my car. So sue me.",
+          "character": {
+            "_id": "5e93b4a43af44260882e33b0",
+            "firstname": "Michael",
+            "lastname": "Scott",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9665856a66e65486e24491",
+          "content": "Everybody stay calm! Stay f*&#!#% calm!",
+          "character": {
+            "_id": "5e93b4a43af44260882e33b0",
+            "firstname": "Michael",
+            "lastname": "Scott",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9665956a66e65486e24492",
+          "content": "I. Declare. Bankruptcy!",
+          "character": {
+            "_id": "5e93b4a43af44260882e33b0",
+            "firstname": "Michael",
+            "lastname": "Scott",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e96659e6a66e65486e24493",
+          "content": "And I knew exactly what to do. But in a much more real sense, I had no idea what to do.",
+          "character": {
+            "_id": "5e93b4a43af44260882e33b0",
+            "firstname": "Michael",
+            "lastname": "Scott",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9665a76a66e65486e24494",
+          "content": "I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.",
+          "character": {
+            "_id": "5e93b4a43af44260882e33b0",
+            "firstname": "Michael",
+            "lastname": "Scott",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9665af6a66e65486e24495",
+          "content": "Dwight, you ignorant slut!",
+          "character": {
+            "_id": "5e93b4a43af44260882e33b0",
+            "firstname": "Michael",
+            "lastname": "Scott",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9665cd6a66e65486e24496",
+          "content": "Well, Happy Birthday Jesus. Sorry your party’s so lame.",
+          "character": {
+            "_id": "5e93b4a43af44260882e33b0",
+            "firstname": "Michael",
+            "lastname": "Scott",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9665d66a66e65486e24497",
+          "content": "Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.",
+          "character": {
+            "_id": "5e93b4a43af44260882e33b0",
+            "firstname": "Michael",
+            "lastname": "Scott",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9665e06a66e65486e24498",
+          "content": "There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.",
+          "character": {
+            "_id": "5e93b4a43af44260882e33b0",
+            "firstname": "Michael",
+            "lastname": "Scott",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9665f76a66e65486e24499",
+          "content": "Once every hour, someone is involved in an internet scam. That man is Michael Scott.",
+          "character": {
+            "_id": "5e93b50a3af44260882e33b3",
+            "firstname": "Pam",
+            "lastname": "Beesly",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e96661b6a66e65486e2449a",
+          "content": "It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.",
+          "character": {
+            "_id": "5e93b50a3af44260882e33b3",
+            "firstname": "Pam",
+            "lastname": "Beesly",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9666296a66e65486e2449b",
+          "content": "I feel God in this Chili’s tonight.",
+          "character": {
+            "_id": "5e93b50a3af44260882e33b3",
+            "firstname": "Pam",
+            "lastname": "Beesly",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9666336a66e65486e2449c",
+          "content": "There’s a lot of beauty in ordinary things. Isn’t that kind of the point?",
+          "character": {
+            "_id": "5e93b50a3af44260882e33b3",
+            "firstname": "Pam",
+            "lastname": "Beesly",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e96667c6a66e65486e2449d",
+          "content": "Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?",
+          "character": {
+            "_id": "5e93b5813af44260882e33c0",
+            "firstname": "Creed",
+            "lastname": "Bratton",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9666d76a66e65486e2449e",
+          "content": "I am immensely proud of what I did for that turtle!",
+          "character": {
+            "_id": "5e93b5323af44260882e33b7",
+            "firstname": "Kevin",
+            "lastname": "Malone",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e96672e6a66e65486e2449f",
+          "content": "I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.",
+          "character": {
+            "_id": "5e93b54d3af44260882e33ba",
+            "firstname": "Stanley",
+            "lastname": "Hudson",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e96673d6a66e65486e244a0",
+          "content": "Did I stutter?",
+          "character": {
+            "_id": "5e93b54d3af44260882e33ba",
+            "firstname": "Stanley",
+            "lastname": "Hudson",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9667836a66e65486e244a1",
+          "content": "Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.",
+          "character": {
+            "_id": "5e93b5183af44260882e33b4",
+            "firstname": "Ryan",
+            "lastname": "Howard",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9667cd6a66e65486e244a2",
+          "content": "I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.",
+          "character": {
+            "_id": "5e93b51e3af44260882e33b5",
+            "firstname": "Kelly",
+            "lastname": "Kapoor",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9667db6a66e65486e244a3",
+          "content": "I have a lot of questions. Number one, how dare you?",
+          "character": {
+            "_id": "5e93b51e3af44260882e33b5",
+            "firstname": "Kelly",
+            "lastname": "Kapoor",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9668086a66e65486e244a4",
+          "content": "I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.",
+          "character": {
+            "_id": "5e93b4f03af44260882e33b1",
+            "firstname": "Jim",
+            "lastname": "Halpert",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9668186a66e65486e244a5",
+          "content": "Bears, Beets, Battlestar Galactica.",
+          "character": {
+            "_id": "5e93b4f03af44260882e33b1",
+            "firstname": "Jim",
+            "lastname": "Halpert",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e96682a6a66e65486e244a6",
+          "content": "It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.",
+          "character": {
+            "_id": "5e93b4f03af44260882e33b1",
+            "firstname": "Jim",
+            "lastname": "Halpert",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e96685a6a66e65486e244a7",
+          "content": "I wish there was a way to know you’re in the good old days, before you’ve actually left them.",
+          "character": {
+            "_id": "5e93b5453af44260882e33b9",
+            "firstname": "Andy",
+            "lastname": "Bernard",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e96687c6a66e65486e244a8",
+          "content": "You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'",
+          "character": {
+            "_id": "5e93b5453af44260882e33b9",
+            "firstname": "Andy",
+            "lastname": "Bernard",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e96688d6a66e65486e244a9",
+          "content": "I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.",
+          "character": {
+            "_id": "5e93b5453af44260882e33b9",
+            "firstname": "Andy",
+            "lastname": "Bernard",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e96689a6a66e65486e244aa",
+          "content": "Sorry I annoyed you with my friendship.",
+          "character": {
+            "_id": "5e93b5453af44260882e33b9",
+            "firstname": "Andy",
+            "lastname": "Bernard",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9668c76a66e65486e244ab",
+          "content": "Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.",
+          "character": {
+            "_id": "5e93b4fa3af44260882e33b2",
+            "firstname": "Dwight",
+            "lastname": "Schrute",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9668d16a66e65486e244ac",
+          "content": "It has to be official, and it has to be urine.",
+          "character": {
+            "_id": "5e93b4fa3af44260882e33b2",
+            "firstname": "Dwight",
+            "lastname": "Schrute",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9668dd6a66e65486e244ad",
+          "content": "I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.",
+          "character": {
+            "_id": "5e93b4fa3af44260882e33b2",
+            "firstname": "Dwight",
+            "lastname": "Schrute",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9668f46a66e65486e244ae",
+          "content": "I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?",
+          "character": {
+            "_id": "5e93b4fa3af44260882e33b2",
+            "firstname": "Dwight",
+            "lastname": "Schrute",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9669256a66e65486e244af",
+          "content": "If you pray enough, you can change yourself into a cat person.",
+          "character": {
+            "_id": "5e93b52b3af44260882e33b6",
+            "firstname": "Angela",
+            "lastname": "Martin",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9669396a66e65486e244b0",
+          "content": "I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.",
+          "character": {
+            "_id": "5e93b52b3af44260882e33b6",
+            "firstname": "Angela",
+            "lastname": "Martin",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9669a26a66e65486e244b1",
+          "content": "I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.",
+          "character": {
+            "_id": "5e93b53b3af44260882e33b8",
+            "firstname": "Oscar",
+            "lastname": "Martinez",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e9669d06a66e65486e244b2",
+          "content": "I'm glad Michael's getting help. He has a lot of issues, and he's stupid.",
+          "character": {
+            "_id": "5e93b5583af44260882e33bb",
+            "firstname": "Phyllis",
+            "lastname": "Lapin",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e966a166a66e65486e244b3",
+          "content": "Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.",
+          "character": {
+            "_id": "5e93b55f3af44260882e33bc",
+            "firstname": "Toby",
+            "lastname": "Flenderson",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e966a376a66e65486e244b4",
+          "content": "Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.",
+          "character": {
+            "_id": "5e93b5653af44260882e33bd",
+            "firstname": "Erin",
+            "lastname": "Hannon",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e966a526a66e65486e244b5",
+          "content": "Shut up about the sun. SHUT UP ABOUT THE SUN!",
+          "character": {
+            "_id": "5e93b56d3af44260882e33be",
+            "firstname": "Gabe",
+            "lastname": "Lewis",
+            "__v": 0
+          },
+          "__v": 0
+        },
+        {
+          "_id": "5e966a676a66e65486e244b6",
+          "content": "In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.",
+          "character": {
+            "_id": "5e93b5783af44260882e33bf",
+            "firstname": "Darryl",
+            "lastname": "Philbin",
+            "__v": 0
+          },
+          "__v": 0
+        }
+      ],
+      "epsiodes": [
+        {
+          "_id": "5e94d646f733a1332868e1dc",
+          "title": "Pilot",
+          "description": "A documentary crew gives a firsthand introduction to the staff of the Scranton branch of the Dunder Mifflin Paper Company, managed by Michael Scott.",
+          "writer": {
+            "_id": "5e95242f9511994a07f9a319",
+            "name": "Greg Daniels",
+            "role": "Writer/Director",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9523649511994a07f9a313",
+            "name": "Ken Kwapis",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2005-03-24T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5e94d6a0f733a1332868e1dd",
+          "title": "Diversity Day",
+          "description": "After the corporate office discovers that Michael has been making insensitive remarks to his co-workers, they send a sensitivity trainer to the Scranton branch, but when Michael doesn't agree with everything the trainer says, he sets up his own sensitivity workshop.",
+          "writer": {
+            "_id": "5e9523bc9511994a07f9a314",
+            "name": "B.J. Novak",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9523649511994a07f9a313",
+            "name": "Ken Kwapis",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2005-03-29T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8f70a88792d4b2bee2ead",
+          "title": "Health Care",
+          "description": "Dwight ends up in charge of picking a new health care plan.",
+          "writer": {
+            "_id": "5e9523d69511994a07f9a315",
+            "name": "Paul Lieberstein",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9523ef9511994a07f9a316",
+            "name": "Ken Whittingham",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2005-04-05T05:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8f75188792d4b2bee2eae",
+          "title": "The Alliance",
+          "description": "With Dwight worried about downsizing, Jim agrees to an alliance; Michael tries to increase moral be throwing a birthday party for Meredith.",
+          "writer": {
+            "_id": "5e9524139511994a07f9a317",
+            "name": "Michael Schur",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e95241e9511994a07f9a318",
+            "name": "Bryan Gordon",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2005-04-12T05:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8f76d88792d4b2bee2eaf",
+          "title": "Basketball",
+          "description": "Michael challenges the warehouse staff to a basketball game versus the office staff.",
+          "writer": {
+            "_id": "5e95242f9511994a07f9a319",
+            "name": "Greg Daniels",
+            "role": "Writer/Director",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e95242f9511994a07f9a319",
+            "name": "Greg Daniels",
+            "role": "Writer/Director",
+            "__v": 0
+          },
+          "airDate": "2005-04-19T05:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8f8a1e9f68d4b6f809c48",
+          "title": "Hot Girl",
+          "description": "Several male staff members vie for the attention of an attractive purse sales woman.",
+          "writer": {
+            "_id": "5e95245e9511994a07f9a31a",
+            "name": "Mindy Kaling",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e95246d9511994a07f9a31b",
+            "name": "Amy Heckerling",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2005-04-26T05:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8fb2cddecdf4bb7e9181f",
+          "title": "The Dundies",
+          "description": "Michael hosts the annual Dundies awards.",
+          "writer": {
+            "_id": "5e95245e9511994a07f9a31a",
+            "name": "Mindy Kaling",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e95242f9511994a07f9a319",
+            "name": "Greg Daniels",
+            "role": "Writer/Director",
+            "__v": 0
+          },
+          "airDate": "2005-09-20T05:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8fbf9ddecdf4bb7e91820",
+          "title": "Sexual Harassment",
+          "description": "Michael's continual sending of explicit e-mail forwards forces Dunder Mifflin to review it's sexual harassment policy; Pam's mom makes a visit to the office.",
+          "writer": {
+            "_id": "5e9523bc9511994a07f9a314",
+            "name": "B.J. Novak",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9523649511994a07f9a313",
+            "name": "Ken Kwapis",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2005-09-27T05:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8fc28ddecdf4bb7e91821",
+          "title": "Office Olympics",
+          "description": "With Michael and Dwight out of the house, Jim organizes an office Olympics.",
+          "writer": {
+            "_id": "5e9524139511994a07f9a317",
+            "name": "Michael Schur",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9524809511994a07f9a31c",
+            "name": "Paul Feig",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2005-10-04T05:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8fc87ddecdf4bb7e91822",
+          "title": "The Fire",
+          "description": "A fire starts in the office kitchen.",
+          "writer": {
+            "_id": "5e9523bc9511994a07f9a314",
+            "name": "B.J. Novak",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9523649511994a07f9a313",
+            "name": "Ken Kwapis",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2005-10-11T05:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8fcf4ddecdf4bb7e91823",
+          "title": "Halloween",
+          "description": "Michael is pressured by corporate to fire someone, which puts a damper on the office Halloween party.",
+          "writer": {
+            "_id": "5e95242f9511994a07f9a319",
+            "name": "Greg Daniels",
+            "role": "Writer/Director",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9524809511994a07f9a31c",
+            "name": "Paul Feig",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2005-10-18T05:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8fd39ddecdf4bb7e91824",
+          "title": "The Fight",
+          "description": "Jim rallies the staff together to witness a showdown between Michael and Dwight at Dwight's martial arts school.",
+          "writer": {
+            "_id": "5e9524949511994a07f9a31d",
+            "name": "Gene Stupnitsky",
+            "role": "Writer",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9523649511994a07f9a313",
+            "name": "Ken Kwapis",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2005-11-01T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8fd85ddecdf4bb7e91825",
+          "title": "The Client",
+          "description": "Jan helps Michael with an important pitch for a client; The staff discovers a screenplay in Michael's office.",
+          "writer": {
+            "_id": "5e9523d69511994a07f9a315",
+            "name": "Paul Lieberstein",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e95242f9511994a07f9a319",
+            "name": "Greg Daniels",
+            "role": "Writer/Director",
+            "__v": 0
+          },
+          "airDate": "2005-11-08T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8fdc6ddecdf4bb7e91826",
+          "title": "Performance Review",
+          "description": "Instead of talking to his employees about their work, Michael uses their annual review time to gather feedback on his \"relationship\" with Jan.",
+          "writer": {
+            "_id": "5e9524d09511994a07f9a31f",
+            "name": "Larry Wilmore",
+            "role": "Writer",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9524809511994a07f9a31c",
+            "name": "Paul Feig",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2005-11-15T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8fe0addecdf4bb7e91827",
+          "title": "E-Mail Surveillance",
+          "description": "Michael decides to set up e-mail surveillance for all company e-mail, and discovers that Jim has invited everyone over for a barbeque except him.",
+          "writer": {
+            "_id": "5e9524df9511994a07f9a320",
+            "name": "Jennifer Celotta",
+            "role": "Writer",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9524809511994a07f9a31c",
+            "name": "Paul Feig",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2005-11-22T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8fe4bddecdf4bb7e91828",
+          "title": "Christmas Party",
+          "description": "At the office Christmas party, Michael changes secret santa into a gift exchange.",
+          "writer": {
+            "_id": "5e9524139511994a07f9a317",
+            "name": "Michael Schur",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9524f49511994a07f9a321",
+            "name": "Charles McDougall",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2005-12-06T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8fe89ddecdf4bb7e91829",
+          "title": "Booze Cruise",
+          "description": "The Dunder Mifflin staff go on a mandatory \"booze cruise\" to hear Michael give a motivational talk.",
+          "writer": {
+            "_id": "5e95242f9511994a07f9a319",
+            "name": "Greg Daniels",
+            "role": "Writer/Director",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9523649511994a07f9a313",
+            "name": "Ken Kwapis",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2006-01-05T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8fef0ddecdf4bb7e9182a",
+          "title": "The Injury",
+          "description": "Michael's \"injury\" from a George Foreman Grill distracts the staff from Dwight, the one with the real injury.",
+          "writer": {
+            "_id": "5e95245e9511994a07f9a31a",
+            "name": "Mindy Kaling",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e95241e9511994a07f9a318",
+            "name": "Bryan Gordon",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2006-01-12T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8ff34ddecdf4bb7e9182b",
+          "title": "The Secret",
+          "description": "Jim is forced into spending time with Michael so that he will not reveal Jim's feelings for Pam. Meanwhile, Oscar takes a \"sick day\" and Dwight investigates whether he is actually sick.",
+          "writer": {
+            "_id": "5e9524949511994a07f9a31d",
+            "name": "Gene Stupnitsky",
+            "role": "Writer",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9525109511994a07f9a322",
+            "name": "Dennie Gordon",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2006-01-19T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8ff73ddecdf4bb7e9182c",
+          "title": "The Carpet",
+          "description": "Michael's office becomes the victim of an odorous prank which subjects the office to his punishment.",
+          "writer": {
+            "_id": "5e9523d69511994a07f9a315",
+            "name": "Paul Lieberstein",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9525459511994a07f9a323",
+            "name": "Victor Nelli, Jr",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2006-01-26T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8ffa6ddecdf4bb7e9182d",
+          "title": "Boys and Girls",
+          "description": "When Jan comes to the office for a women in the office session, Michael stages a men's only session.",
+          "writer": {
+            "_id": "5e9523bc9511994a07f9a314",
+            "name": "B.J. Novak",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9525109511994a07f9a322",
+            "name": "Dennie Gordon",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2006-02-02T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea8ffd7ddecdf4bb7e9182e",
+          "title": "Valentine's Day",
+          "description": "Michael has a big meeting in New York with Jan and the companies new CEO; Pam deals with all the Valentine's Day deliveries hoping Roy will remember to send her something.",
+          "writer": {
+            "_id": "5e9524139511994a07f9a317",
+            "name": "Michael Schur",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e95242f9511994a07f9a319",
+            "name": "Greg Daniels",
+            "role": "Writer/Director",
+            "__v": 0
+          },
+          "airDate": "2006-02-09T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea9000eddecdf4bb7e9182f",
+          "title": "Dwight's Speech",
+          "description": "Michael coaches pompous Dwight on the finer art of public speaking after being named as Salesman of the Year.",
+          "writer": {
+            "_id": "5e9523d69511994a07f9a315",
+            "name": "Paul Lieberstein",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9524f49511994a07f9a321",
+            "name": "Charles McDougall",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2006-03-02T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea9005fddecdf4bb7e91830",
+          "title": "Take Your Daughter to Work Day",
+          "description": "Staff members bring their children to work. Michael is surprised when he strikes up a friendship with the five-year old daughter of his sworn enemy, Toby.",
+          "writer": {
+            "_id": "5e95245e9511994a07f9a31a",
+            "name": "Mindy Kaling",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9525459511994a07f9a323",
+            "name": "Victor Nelli, Jr",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2006-03-16T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea90087ddecdf4bb7e91831",
+          "title": "Michael's Birthday",
+          "description": "Michael's birthday coincides with Kevin awaiting the news to see if he has skin cancer.",
+          "writer": {
+            "_id": "5e9524949511994a07f9a31d",
+            "name": "Gene Stupnitsky",
+            "role": "Writer",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9523ef9511994a07f9a316",
+            "name": "Ken Whittingham",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2006-03-30T06:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea900b4ddecdf4bb7e91832",
+          "title": "Drug Testing",
+          "description": "After Dwight finds a joint in the office park, he goes overboard with an investigation.",
+          "writer": {
+            "_id": "5e9524df9511994a07f9a320",
+            "name": "Jennifer Celotta",
+            "role": "Writer",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e95242f9511994a07f9a319",
+            "name": "Greg Daniels",
+            "role": "Writer/Director",
+            "__v": 0
+          },
+          "airDate": "2006-04-27T05:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea900edddecdf4bb7e91833",
+          "title": "Conflict Resolution",
+          "description": "When Michael takes over conflict resolution duties from HR, chaos ensues at Dunder Mifflin.",
+          "writer": {
+            "_id": "5e95242f9511994a07f9a319",
+            "name": "Greg Daniels",
+            "role": "Writer/Director",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9524f49511994a07f9a321",
+            "name": "Charles McDougall",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2006-05-04T05:00:00.000Z",
+          "__v": 0
+        },
+        {
+          "_id": "5ea90119ddecdf4bb7e91834",
+          "title": "Casino Night",
+          "description": "The Dunder Mifflin crew holds a casino party at the warehouse and Michael has two dates.",
+          "writer": {
+            "_id": "5e95258e9511994a07f9a324",
+            "name": "Steve Carell",
+            "role": "Writer/Actor",
+            "__v": 0
+          },
+          "director": {
+            "_id": "5e9523649511994a07f9a313",
+            "name": "Ken Kwapis",
+            "role": "Director",
+            "__v": 0
+          },
+          "airDate": "2006-05-11T05:00:00.000Z",
+          "__v": 0
+        }
+      ],
+      "crew": [
+        {
+          "_id": "5e9523649511994a07f9a313",
+          "name": "Ken Kwapis",
+          "role": "Director",
+          "__v": 0
+        },
+        {
+          "_id": "5e9523bc9511994a07f9a314",
+          "name": "B.J. Novak",
+          "role": "Writer/Actor",
+          "__v": 0
+        },
+        {
+          "_id": "5e9523d69511994a07f9a315",
+          "name": "Paul Lieberstein",
+          "role": "Writer/Actor",
+          "__v": 0
+        },
+        {
+          "_id": "5e9523ef9511994a07f9a316",
+          "name": "Ken Whittingham",
+          "role": "Director",
+          "__v": 0
+        },
+        {
+          "_id": "5e9524139511994a07f9a317",
+          "name": "Michael Schur",
+          "role": "Writer/Actor",
+          "__v": 0
+        },
+        {
+          "_id": "5e95241e9511994a07f9a318",
+          "name": "Bryan Gordon",
+          "role": "Director",
+          "__v": 0
+        },
+        {
+          "_id": "5e95242f9511994a07f9a319",
+          "name": "Greg Daniels",
+          "role": "Writer/Director",
+          "__v": 0
+        },
+        {
+          "_id": "5e95245e9511994a07f9a31a",
+          "name": "Mindy Kaling",
+          "role": "Writer/Actor",
+          "__v": 0
+        },
+        {
+          "_id": "5e95246d9511994a07f9a31b",
+          "name": "Amy Heckerling",
+          "role": "Director",
+          "__v": 0
+        },
+        {
+          "_id": "5e9524809511994a07f9a31c",
+          "name": "Paul Feig",
+          "role": "Director",
+          "__v": 0
+        },
+        {
+          "_id": "5e9524949511994a07f9a31d",
+          "name": "Gene Stupnitsky",
+          "role": "Writer",
+          "__v": 0
+        },
+        {
+          "_id": "5e9524a19511994a07f9a31e",
+          "name": "Lee Eisenberg",
+          "role": "Writer",
+          "__v": 0
+        },
+        {
+          "_id": "5e9524d09511994a07f9a31f",
+          "name": "Larry Wilmore",
+          "role": "Writer",
+          "__v": 0
+        },
+        {
+          "_id": "5e9524df9511994a07f9a320",
+          "name": "Jennifer Celotta",
+          "role": "Writer",
+          "__v": 0
+        },
+        {
+          "_id": "5e9524f49511994a07f9a321",
+          "name": "Charles McDougall",
+          "role": "Director",
+          "__v": 0
+        },
+        {
+          "_id": "5e9525109511994a07f9a322",
+          "name": "Dennie Gordon",
+          "role": "Director",
+          "__v": 0
+        },
+        {
+          "_id": "5e9525459511994a07f9a323",
+          "name": "Victor Nelli, Jr",
+          "role": "Director",
+          "__v": 0
+        },
+        {
+          "_id": "5e95258e9511994a07f9a324",
+          "name": "Steve Carell",
+          "role": "Writer/Actor",
+          "__v": 0
+        },
+        {
+          "_id": "5e9525a19511994a07f9a325",
+          "name": "Roger Nygard",
+          "role": "Director",
+          "__v": 0
+        }
+      ]
+  }
